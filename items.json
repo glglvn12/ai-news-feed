@@ -1,12 +1,76 @@
 {
- "updated": "2026-10-03T09:55:49+00:00",
+ "updated": "2026-10-03T14:45:47+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "affaan-m/ECC",
+   "url": "https://github.com/affaan-m/ECC",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "JavaScript · 578 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "thedotmack/claude-mem",
+   "url": "https://github.com/thedotmack/claude-mem",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "TypeScript · 115 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "cloudflare/cloudflare-os",
+   "url": "https://github.com/cloudflare/cloudflare-os",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "TypeScript · 84 stars today — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "JavaScript · 189 stars today — Production-grade engineering skills for AI coding agents.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "earendil-works/pi",
+   "url": "https://github.com/earendil-works/pi",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "TypeScript · 408 stars today — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "TypeScript · 127 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "jamwithai/production-agentic-rag-course",
+   "url": "https://github.com/jamwithai/production-agentic-rag-course",
+   "date": "2026-10-03T14:45:47+00:00",
+   "excerpt": "Python · 192 stars today —",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "All the AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "date": "2026-10-03T14:00:00+00:00",
+   "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 696 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 1,683 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +78,7 @@
    "title": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Go · 209 stars today — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+   "excerpt": "Go · 505 stars today — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +86,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 556 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 578 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -30,7 +94,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,435 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 1,289 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -38,7 +102,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 722 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "JavaScript · 705 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -46,7 +110,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 955 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 750 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -78,7 +142,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 282 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 256 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2530,14 +2594,6 @@
    "excerpt": "",
    "source": "Google DeepMind Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Introducing Shieldstral.",
-   "url": "https://mistral.ai/news/shieldstral/",
-   "date": "2026-08-04T12:00:26+00:00",
-   "excerpt": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
-   "source": "Mistral",
-   "category": "Lab"
   }
  ]
 }
