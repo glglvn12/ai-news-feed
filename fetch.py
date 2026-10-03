@@ -2,6 +2,7 @@
 import gzip
 import html
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -19,7 +20,11 @@ UA = "Mozilla/5.0 (compatible; ai-news-aggregator)"
 
 
 def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    headers = {"User-Agent": UA}
+    # Unauthenticated GitHub API calls share a small rate limit on CI runners; use the workflow token there.
+    if url.startswith("https://api.github.com/") and os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as r:
         data = r.read()
     # Some sites (e.g. deepmind.google) send gzip even when it wasn't requested.

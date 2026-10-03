@@ -24,6 +24,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python test_fetch.py && python fetch.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       # items.json is committed so first-seen dates and history survive between runs.
       - run: |
           git config user.name "github-actions[bot]"
