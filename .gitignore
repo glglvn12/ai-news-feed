@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.playwright-mcp/
+.claude/
+.impeccable/review/
+_site/
+.impeccable/questions/

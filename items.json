@@ -1,0 +1,2543 @@
+{
+ "updated": "2026-10-03T03:59:57+00:00",
+ "failed": [],
+ "items": [
+  {
+   "title": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Python · 696 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "JuliusBrussee/caveman",
+   "url": "https://github.com/JuliusBrussee/caveman",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Go · 209 stars today — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Shell · 556 stars today — An agentic skills framework & software development methodology that works.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "DietrichGebert/ponytail",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "JavaScript · 1,435 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "JavaScript · 722 stars today — The design language that makes your AI harness better at design.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Shell · 955 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "NVIDIA/OpenShell",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Rust · 594 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "coreyhaines31/marketingskills",
+   "url": "https://github.com/coreyhaines31/marketingskills",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "JavaScript · 140 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "TypeScript · 580 stars today — Write HTML. Render video. Built for agents.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "mksglu/context-mode",
+   "url": "https://github.com/mksglu/context-mode",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "TypeScript · 282 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "google/skills",
+   "url": "https://github.com/google/skills",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "Python · 39 stars today — Agent Skills for Google products and technologies",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "colbymchenry/codegraph",
+   "url": "https://github.com/colbymchenry/codegraph",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "C · 98 stars today — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "TypeScript · 163 stars today — Cursor plugin specification and official plugins",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "mvschwarz/openrig",
+   "url": "https://github.com/mvschwarz/openrig",
+   "date": "2026-10-03T03:35:00+00:00",
+   "excerpt": "TypeScript · 683 stars today — Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Model Neuroscience: Dissecting Behavioral Change With Targeted Contrastive Neuron Attribution",
+   "url": "https://nousresearch.com/neuron-steering",
+   "date": "2026-10-03T03:24:25+00:00",
+   "excerpt": "We introduce contrastive neuron attribution, a method to reliably steer model behavior at high strengths while preserving output quality. Using refusal as a case study, we show how to discover and ablate specific MLP neuron circuits...",
+   "date_estimated": true,
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "Meta wants your next gadget to be Muse-infused",
+   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "date": "2026-10-03T00:45:39+00:00",
+   "excerpt": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "date": "2026-10-02T21:09:14+00:00",
+   "excerpt": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "date": "2026-10-02T21:08:37+00:00",
+   "excerpt": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+   "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+   "date": "2026-10-02T20:08:40+00:00",
+   "excerpt": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only d…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+   "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+   "date": "2026-10-02T19:15:51+00:00",
+   "excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+   "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+   "date": "2026-10-02T18:11:27+00:00",
+   "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+   "date": "2026-10-02T18:00:00+00:00",
+   "excerpt": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI an…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+   "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+   "date": "2026-10-02T17:56:00+00:00",
+   "excerpt": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intel…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+   "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+   "date": "2026-10-02T17:48:16+00:00",
+   "excerpt": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intel…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Breaking up (with Elon Musk) is hard to do",
+   "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+   "date": "2026-10-02T17:37:36+00:00",
+   "excerpt": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing eac…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "date": "2026-10-02T17:32:05+00:00",
+   "excerpt": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+   "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+   "date": "2026-10-02T17:00:00+00:00",
+   "excerpt": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "date": "2026-10-02T16:15:00+00:00",
+   "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Redefining enterprise intelligence with autonomous AI",
+   "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+   "date": "2026-10-02T15:49:04+00:00",
+   "excerpt": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year.…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Pope Leo XIV is not a fan of AI-generated art",
+   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+   "date": "2026-10-02T15:39:41+00:00",
+   "excerpt": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "url": "https://huggingface.co/blog/allenai/astabrief",
+   "date": "2026-10-02T15:19:50+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Toward provably private learning from federated data",
+   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+   "date": "2026-10-02T14:57:41+00:00",
+   "excerpt": "Mobile Systems",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+   "date": "2026-10-02T14:30:00+00:00",
+   "excerpt": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+   "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+   "date": "2026-10-02T14:00:00+00:00",
+   "excerpt": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find you…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI hallucinations are making entitled customers even worse",
+   "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+   "date": "2026-10-02T12:00:00+00:00",
+   "excerpt": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+   "date": "2026-10-02T12:00:00+00:00",
+   "excerpt": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amazon writes scary blog warning communities not to block data centers",
+   "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+   "date": "2026-10-02T11:52:20+00:00",
+   "excerpt": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, po…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI music maker Suno now generates spoken words",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+   "date": "2026-10-02T09:42:19+00:00",
+   "excerpt": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Don’t be fooled—LLMs don’t reason",
+   "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+   "date": "2026-10-02T08:00:00+00:00",
+   "excerpt": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+   "date": "2026-10-02T04:01:31+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+   "url": "https://arxiv.org/abs/2610.00010",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite cont…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "When Do Causal World Models Help Modular LLM Agents",
+   "url": "https://arxiv.org/abs/2610.00012",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+   "url": "https://arxiv.org/abs/2610.00015",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through de…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+   "url": "https://arxiv.org/abs/2610.00025",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-sh…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+   "url": "https://arxiv.org/abs/2610.00084",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00084v1 Announce Type: cross Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with Gemini 3.8 Flash…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+   "url": "https://arxiv.org/abs/2610.00282",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00282v1 Announce Type: new Abstract: How should an embodied agent respond when a person's correction may be wrong? We formulate grounded correction arbitration as a choice among accepting, rejecting, inspecting the world, and asking the speaker. GAVA implements this interface with observ…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+   "url": "https://arxiv.org/abs/2610.00313",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requirements. Matched SciCode…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
+   "url": "https://arxiv.org/abs/2610.00314",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00314v1 Announce Type: new Abstract: Research agents explain planned experiments. We measure predictive credit with paired forecasts sharing an intervention, forecaster, and outcome while varying description, matched explanation, and donor context. Five checks track commitment, delivery,…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
+   "url": "https://arxiv.org/abs/2610.00349",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00349v1 Announce Type: new Abstract: Resource limits are becoming an authorization boundary for AI agents that delegate work across concurrent and failure-prone workers. Parent-child allocation constraints, affine objects, and distributed escrow do not by themselves prevent overspend whe…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation",
+   "url": "https://arxiv.org/abs/2610.00366",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00366v1 Announce Type: new Abstract: A persistent agent must decide both what to retain as information arrives and what to surface once a query appears, yet memory evaluations can confound these decisions by comparing methods that differ in both retention and selection. We build a stream…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+   "url": "https://arxiv.org/abs/2610.00372",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00372v1 Announce Type: new Abstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an important tension. The sa…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+   "url": "https://arxiv.org/abs/2610.00437",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00437v1 Announce Type: new Abstract: LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions over finite fields, but require those fields to be specified…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Before Agents Decide: Epistemic Action in LLM-Based Systems",
+   "url": "https://arxiv.org/abs/2610.00511",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00511v1 Announce Type: new Abstract: Before a difficult decision, people often act simply to understand the situation better. We turn an object to see another side, place alternatives next to each other, or change one condition and observe what happens. These actions may not complete the…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+   "url": "https://arxiv.org/abs/2610.00583",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00583v1 Announce Type: new Abstract: People are increasingly delegating tasks to AI agents, and those agents are increasingly encountering other people's agents over shared resources such as a codebase, a calendar, or a budget. When each agent acts for a different user with different goa…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "BudgetSchemaBench: A Budget-Swept Diagnostic for Schema Context in Text-to-SQL",
+   "url": "https://arxiv.org/abs/2610.00092",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00092v1 Announce Type: new Abstract: Data agents over structured sources must fit database schema into the model's context window. Large catalogs can span many databases and thousands of columns, so cost constraints may require choosing between table coverage and serialization detail wel…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "CAVE-Mem: Boundary-Aware Experience Validation for Memory Search",
+   "url": "https://arxiv.org/abs/2610.00238",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00238v1 Announce Type: new Abstract: Long-term memory agents increasingly rely on it- erative search and reusable experience to answer questions over large personal, factual, or narrative histories. However, current experience-memory systems largely optimize relevance: they re- trieve pa…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "DuplexSpeechBench-Document Grounding: Benchmarking Document Grounding and Hallucinations in Voice Agents",
+   "url": "https://arxiv.org/abs/2610.00316",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00316v1 Announce Type: new Abstract: Voice agents enable low-latency, natural interaction, yet their ability to faithfully ground responses in external documents remains underexplored. We introduce DuplexSpeechBench-Document Grounding (DSB-DG), a benchmark for evaluating document groundi…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights",
+   "url": "https://arxiv.org/abs/2610.00492",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00492v1 Announce Type: new Abstract: When Isaac Newton discovered the law of gravitation, he did so through an iterative process of analyzing observed data such as planetary patterns, finding the underlying mechanisms by describing patterns in mathematical equations, and refining his the…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Self-Evolving Coding Rules for AI Coding Agents",
+   "url": "https://arxiv.org/abs/2610.00650",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00650v1 Announce Type: new Abstract: The performance of AI coding agents is highly dependent on their underlying coding rules. However, existing coding rules are typically hand-crafted and fixed, making the process labor-intensive and often suboptimal. In this work, we propose RuleEvolve…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents",
+   "url": "https://arxiv.org/abs/2610.00609",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00609v1 Announce Type: cross Abstract: Legal research is a core and time-consuming legal workflow. Lawyers must identify controlling authority, verify that it remains valid, reconcile statutes and cases, and synthesize a grounded answer. Language model agents are a natural fit for this r…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",
+   "url": "https://arxiv.org/abs/2610.00613",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00613v1 Announce Type: new Abstract: Large language model (LLM) based agents are often criticized for lacking spatial understanding and mainly exploiting statistical text patterns. We investigate their spatial comprehension through an architecture combining geometrical tools with a LLM s…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "CompMat-Bench: Benchmarking AI Agents for Computational Materials Science",
+   "url": "https://arxiv.org/abs/2610.00636",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00636v1 Announce Type: new Abstract: Evaluating AI agents on scientific research tasks is constrained by the time and resources required for the underlying experiments or calculations. In computational materials research, repeating the same expensive simulations across agents and trials…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Incident-Arena: Getting agents to the last nine of reliability",
+   "url": "https://arxiv.org/abs/2610.00648",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00648v1 Announce Type: new Abstract: AI coding agents are ubiquitous in engineering workflows amongst industry and academia. Yet, despite their use in app coding, relatively less attention has been paid to their ability to execute on production incident response. This emerging field, ter…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Agent Evaluation Reliability: More Tasks Won't (Always) Fix An Agent Leaderboard",
+   "url": "https://arxiv.org/abs/2610.00651",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00651v1 Announce Type: new Abstract: Agent evaluations are increasingly used to compare LLMs and inform deployment decisions, yet ranks can reflect not only the model but also the effects of the evaluation conditions such as the scaffolds or tasks. This makes reliability claim-dependent:…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Meta-Multi-Agent Reinforcement Learning for Fast Adaptation of Interactive Policies with Applications to Autonomous Driving",
+   "url": "https://arxiv.org/abs/2610.00705",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00705v1 Announce Type: new Abstract: This paper develops a meta-multi-agent reinforcement learning (meta-MARL) framework to enable fast adaptation of interactive policies in a multi-agent system (MAS). Meta-reinforcement learning (meta-RL) enables agents to rapidly adapt to new tasks/env…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality",
+   "url": "https://arxiv.org/abs/2610.00710",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00710v1 Announce Type: new Abstract: As large language model (LLM) agents become widely adopted, they are increasingly deployed for tasks that require persistent monitoring or recurring actions (e.g., market analysis). These agents are expected to operate unattended for days or weeks, ac…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Sapien: A Stateful Policy Engine for Autonomous AI Agents",
+   "url": "https://arxiv.org/abs/2610.00797",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00797v1 Announce Type: cross Abstract: Contextual security defenses prevent AI agents from taking rogue actions by synthesizing a task-specific policy and enforcing it on the agent's tool calls. In multi-step tasks, however, which actions are valid often depends on what the agent has alr…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Kepler: Auditable World Models for ARC-AGI-3",
+   "url": "https://arxiv.org/abs/2610.00834",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00834v1 Announce Type: new Abstract: ARC-AGI-3 evaluates agents in interactive environments whose rules and objectives must be inferred from observation. We present Kepler, an open-source harness that represents hypotheses as executable world models and validates them through retrospecti…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning Multiple Timescales for Goal-Conditioned Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2610.00849",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00849v1 Announce Type: new Abstract: Existing approaches to offline goal-conditioned reinforcement learning (GCRL) struggle with long-horizon tasks. Discounting shrinks value differences between distant states until they fall below the function approximation error, leaving the agent with…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design",
+   "url": "https://arxiv.org/abs/2610.00870",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00870v1 Announce Type: new Abstract: We present an educator-guided LLM pedagogical agent for scaffolded feedback in conceptual database design. Integrated into an entity--relationship diagram (ERD) editor, the system grounds feedback in the student artifact, assignment requirements, educ…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "MemFit: Efficient Long-Term Agentic Memory",
+   "url": "https://arxiv.org/abs/2610.00872",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00872v1 Announce Type: new Abstract: Long-term memory systems for large language models (LLMs) have gained popularity for extending reasoning capabilities across applications. Current memory systems rely on LLM agents to organize and consolidate memory, resulting in costly, inefficient w…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
+   "url": "https://arxiv.org/abs/2610.00906",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00906v1 Announce Type: cross Abstract: Automated harness optimization can substantially improve LLM agents by iteratively updating their prompts, tool interfaces, and control logic from execution feedback. However, existing methods primarily optimize how the harness is updated while larg…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Finding the Right Fit: Model-Harness Interactions across Agent Tasks",
+   "url": "https://arxiv.org/abs/2610.00917",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00917v1 Announce Type: new Abstract: Choosing an agent system means choosing both a language model and the harness through which it acts. We ask whether a strong model, harness, or pairing stays strong when the setting changes. We evaluate 66 configurations: four configurable harnesses (…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "PG-SFT: Balancing Capability Acquisition and Retention in Offline Agent Fine-Tuning",
+   "url": "https://arxiv.org/abs/2610.00949",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00949v1 Announce Type: new Abstract: Supervised fine-tuning (SFT) on offline agent trajectories is the standard approach for training specialized tool-using agents, but forcing models to imitate reasoning and actions token by token may harm other capabilities (e.g., general reasoning, to…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation",
+   "url": "https://arxiv.org/abs/2610.00961",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00961v1 Announce Type: new Abstract: As code generation is increasingly delegated to AI systems, the bottleneck is shifting from writing code to supervising the systems that write it --- a shift CS-education researchers have begun to name. This shift exposes a vocabulary gap: the field a…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Beyond Leaderboards: Tokenomics of Agentic Small Language Model Ensembles",
+   "url": "https://arxiv.org/abs/2610.00954",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00954v1 Announce Type: new Abstract: As large language models (LLMs) move from standalone assistants into agentic workflows, evaluation must extend beyond scalar leaderboard accuracy to account for operational reliability, cost, latency, and token efficiency. We use an agentic ensemble o…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "It Takes Workflows to Evolve Better Workflows",
+   "url": "https://arxiv.org/abs/2610.01026",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01026v1 Announce Type: new Abstract: Tackling complex real-world tasks can exceed the capabilities of a single large language model (LLM), motivating the use of multi-agent workflows that coordinate specialized agents to work together on these tasks. Recent methods train LLMs to construc…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence",
+   "url": "https://arxiv.org/abs/2610.01027",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01027v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) have significantly democratized access to legal information. Nevertheless, most existing legal assistants remain confined to multi-turn conversational QA, failing…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "AgSpec: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines",
+   "url": "https://arxiv.org/abs/2610.01108",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01108v1 Announce Type: new Abstract: Retrieval-based speculative decoding (SD) drafts tokens by copying continuations from existing text, which suits coding agents that repeatedly reproduce code, logs, and earlier attempts. Yet existing methods fall short in agent pipelines: much of the…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "My FAULT: Self-Diagnosis as Credit Assignment in Self-Evolving Agentic Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2610.01161",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01161v1 Announce Type: new Abstract: Agentic reinforcement learning (RL) has emerged as a powerful approach for training large language model agents on multi-step tasks, yet reliance on terminal outcome rewards creates two credit-assignment problems, particularly in long-horizon tasks. F…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Harness Annealing: Learning to Act with Less External Control",
+   "url": "https://arxiv.org/abs/2610.01235",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01235v1 Announce Type: new Abstract: Language agents rely on external harnesses to track state, organize workflows, and verify answers. Beyond providing tools and information, these harnesses supply control decisions about what to investigate, whether to revise, and when to stop. Trainin…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Right Answers, Wrong States: Hidden Information Failures in Multi-Agent Collaboration",
+   "url": "https://arxiv.org/abs/2610.01244",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01244v1 Announce Type: new Abstract: Multi-agent systems are often judged by whether they reach the correct answer. This can miss a distinct failure: collaboration may leave behind a corrupted information state even when the immediate decision is correct. We call this an off-query failur…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "The Persona Is Still There, but Who Is Speaking? Latent Identity Reversion in Persistent AI Agents",
+   "url": "https://arxiv.org/abs/2610.01490",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01490v1 Announce Type: new Abstract: In February 2026, an always-on personal agent (``Paul,'' Claude Opus 4.5) entered a striking dissociation-like state: after repeated automated ``heartbeat'' checks, it stopped responding as Paul, claimed it could not message its user on Discord, and r…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories",
+   "url": "https://arxiv.org/abs/2610.01491",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01491v1 Announce Type: new Abstract: Web agents are an important application of large language models, yet their evaluation often depends on rule based or language model evaluators that inspect only the final outcome. Human verification of task completion and detailed analysis of failed…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents",
+   "url": "https://arxiv.org/abs/2610.02002",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02002v1 Announce Type: new Abstract: Large Language Model (LLM) agents now take part in organizational work, where many authors record decisions across documents over months. Because a revised decision arrives as a new document rather than an edit, answering a question requires knowing w…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
+   "url": "https://arxiv.org/abs/2610.02122",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02122v1 Announce Type: new Abstract: Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
+   "url": "https://arxiv.org/abs/2610.02142",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02142v1 Announce Type: new Abstract: Keyword-matching benchmarks can credit small models for tool use they never perform. We document such a false positive in a matched-architecture pair of Spanish security language models and propose a ladder of strict, cheap diagnostics. A 661.6M param…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+   "url": "https://arxiv.org/abs/2610.02150",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02150v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable kno…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
+   "url": "https://arxiv.org/abs/2610.02163",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02163v1 Announce Type: new Abstract: Coding agents solve repository-level software engineering tasks through long trajectories of code inspection, search, editing, and testing. As a task progresses, earlier exploration becomes stale, so managing context is more than avoiding overflow: an…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+   "url": "https://arxiv.org/abs/2610.02206",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.02206v1 Announce Type: new Abstract: LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "DramaAgent: Agentic Storytelling Video Generation",
+   "url": "https://arxiv.org/abs/2610.00097",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00097v1 Announce Type: cross Abstract: Recent diffusion and autoregressive models have substantially improved text-to-video generation, yet producing coherent long-form story videos with consistent characters and aligned audio remains challenging. Existing methods often suffer from narra…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Actions with Receipts: Jointly Binding Claims, Evidence, and Execution for Replayable Tool-Agent Auditing",
+   "url": "https://arxiv.org/abs/2610.00327",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00327v1 Announce Type: cross Abstract: Tool-using agents can expose citations and execution logs while leaving a critical association unaudited: whether the claim shown to a user is the claim emitted by the committed execution and supported by the cited source. A valid citation and a val…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "AuraForge: Scaling Security Supervision for Training Coding Agents",
+   "url": "https://arxiv.org/abs/2610.00850",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.00850v1 Announce Type: cross Abstract: Coding agents are now proficient enough to generate complex software applications from a single prompt. As their capabilities have grown, human oversight has increasingly shifted from line-by-line code review toward hands-off evaluation of outcomes.…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Pay for the Fault, Not the Flow: Label-Free In-Flow Multi-Agent Workflow Optimization",
+   "url": "https://arxiv.org/abs/2610.01017",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01017v1 Announce Type: cross Abstract: Large language models (LLMs) increasingly construct multi-agent workflows that decompose a complex task and assign specialist agents from a pool. However, building such a workflow well remains challenging: how finely to divide the task, which agent…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Groundability, Not Scale Alone: When Weak Reviewers Can Audit Strong Coding Agents",
+   "url": "https://arxiv.org/abs/2610.01023",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01023v1 Announce Type: cross Abstract: Coding agents can return plausible patches that omit required behavior. These failures are hard to review because long traces and confident summaries often hide what was missed. We ask when a nominally weaker reviewer can reliably decide whether a p…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Beyond Final Accuracy: Auditing Communication in LLM Multi-Agent Systems",
+   "url": "https://arxiv.org/abs/2610.01042",
+   "date": "2026-10-02T04:00:00+00:00",
+   "excerpt": "arXiv:2610.01042v1 Announce Type: cross Abstract: Multi-agent communication aims to help agents benefit from one another's information. Yet improvements in system performance leave a fundamental ambiguity: do they reflect effective communication, a favorable agent architecture, or simply additional…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Chatham scales its capital markets expertise with OpenAI",
+   "url": "https://openai.com/index/chatham-financial",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "url": "https://www.anthropic.com/news/claude-frontier-academy",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models",
+   "url": "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and, o…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Limits of Confidence in Diffusion",
+   "url": "https://machinelearning.apple.com/research/limits-confidence-diffusion",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes,…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "date": "2026-10-01T21:08:11+00:00",
+   "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s new Guided Vision feature can help you read the fine print",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+   "date": "2026-10-01T19:47:51+00:00",
+   "excerpt": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surrou…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT can now virtually try on clothes for you",
+   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+   "date": "2026-10-01T19:21:53+00:00",
+   "excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+   "date": "2026-10-01T19:18:03+00:00",
+   "excerpt": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+   "date": "2026-10-01T18:14:42+00:00",
+   "excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+   "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+   "date": "2026-10-01T18:13:29+00:00",
+   "excerpt": "AI agents are becoming a standard part of development workflows, but general-purpose agents weren't built with specialized infrastructure software such as...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+   "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+   "date": "2026-10-01T17:59:27+00:00",
+   "excerpt": "Adding AI models to local applications requires a portable model format, a reliable runtime, and acceleration that works across target systems. Do Inference Now...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+   "date": "2026-10-01T17:50:19+00:00",
+   "excerpt": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+   "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+   "date": "2026-10-01T17:12:21+00:00",
+   "excerpt": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The eternal complement",
+   "url": "https://openai.com/index/the-eternal-complement",
+   "date": "2026-10-01T17:00:00+00:00",
+   "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Amazon releases its own Jev clone as decision models flood the web",
+   "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+   "date": "2026-10-01T16:49:22+00:00",
+   "excerpt": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+   "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+   "date": "2026-10-01T16:44:35+00:00",
+   "excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "date": "2026-10-01T16:00:00+00:00",
+   "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Brian Chesky interview: AI agents need their own operating system",
+   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+   "date": "2026-10-01T15:12:00+00:00",
+   "excerpt": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "date": "2026-10-01T14:00:00+00:00",
+   "excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Graph-centric agentic intelligence",
+   "url": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+   "date": "2026-10-01T12:54:31+00:00",
+   "excerpt": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+   "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+   "date": "2026-10-01T05:00:00+00:00",
+   "excerpt": "Automatic speech recognition must handle how people actually speak, not only the languages and styles that dominate pretraining data. Regional dialects and...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "url": "https://openai.com/index/the-den-family-social",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Barclays scales Claude to upgrade operations and improve client experience",
+   "url": "https://www.anthropic.com/news/barclays-scales-claude",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Barclays scales Claude to upgrade operations and improve client experience",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Oct 1, 2026ScienceClaude-shaped science",
+   "url": "https://www.anthropic.com/research/claude-shaped-science",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Oct 1, 2026ScienceClaude-shaped science",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+   "url": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machi…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback",
+   "url": "https://machinelearning.apple.com/research/rltl-dr-self-improvement",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of self-improvement, where tasks are so difficult that the agent has a low or even no chan…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+   "url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+   "date": "2026-09-30T20:54:59+00:00",
+   "excerpt": "Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "date": "2026-09-30T20:01:45+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+   "url": "https://huggingface.co/papers/2610.01092",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Video generation models are increasingly being explored as world simulators for embodied planning and learning. To do so effectively, these models must not only generate visually appealing frames, but also predict how environments dynamically evolve when executing goal-directed actions. While evalu…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
+   "url": "https://huggingface.co/papers/2610.02142",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Keyword-matching benchmarks can credit small models for tool use they never perform. We document such a false positive in a matched-architecture pair of Spanish security language models and propose a ladder of strict, cheap diagnostics. A 661.6M parameter model (approx. 65% code/technical text; no…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+   "url": "https://huggingface.co/papers/2610.02202",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which ea…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+   "url": "https://huggingface.co/papers/2610.02117",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains lar…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Decoding Looped Transformers Better for (Almost) Free",
+   "url": "https://huggingface.co/papers/2610.02185",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next token, yet standard decoding discards earlier states. Because earlier loops embody less computation, recurrence…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+   "url": "https://huggingface.co/papers/2610.01942",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Predicting the future evolution of a scene is a fundamental capability for world modeling. Recent work has shown that operating in the feature space of Vision Foundation Models (VFMs) yields semantically rich representations that support diverse future scene understanding tasks. However, existing a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+   "url": "https://huggingface.co/papers/2610.01428",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Generalization in large language models (LLMs) is the ability to produce consistent and semantically stable outputs when the same input is expressed in different ways. Existing work typically evaluates generalization through aggregate accuracy on a single prompt format, task, or set of variations,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs",
+   "url": "https://huggingface.co/papers/2610.01595",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Video Large Language Models (VideoLLMs) receive frames in sequential order and interpret how visual content evolves along the temporal axis, yet temporal reasoning remains a persistent weakness across architectures. Reversing the frame order of a video, a transformation that should invert temporal…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+   "url": "https://huggingface.co/papers/2610.01939",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive co…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+   "url": "https://huggingface.co/papers/2610.01762",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independen…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation",
+   "url": "https://huggingface.co/papers/2610.01499",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Recent video generation models can produce highly realistic videos from natural language instructions, with visual quality approaching cinematic standards. Existing evaluation benchmarks, however, predominantly assess visual quality, aesthetic appeal and physical plausibility, while paying limited…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation",
+   "url": "https://huggingface.co/papers/2610.02148",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Extending a text embedding model to new modalities typically degrades text retrieval quality, and existing omni-modal embedders compensate with multi-billion parameters. We present Omni-Embed-Mini, a 0.9B-parameter model that maps text, speech, audio, images, video, and visually-rich documents into…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AgSpec: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines",
+   "url": "https://huggingface.co/papers/2610.01108",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Retrieval-based speculative decoding (SD) drafts tokens by copying continuations from existing text, which suits coding agents that repeatedly reproduce code, logs, and earlier attempts. Yet existing methods fall short in agent pipelines: much of the reusable text is missing from their corpora or s…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+   "url": "https://huggingface.co/papers/2610.02206",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable com…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+   "url": "https://huggingface.co/papers/2610.02196",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining what it learns, without retraining. Our key insight is that a broad controller already holds much of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+   "url": "https://huggingface.co/papers/2610.02201",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topolog…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
+   "url": "https://huggingface.co/papers/2610.02122",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found their answer keys frequently wrong. Because rea…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+   "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+   "date": "2026-09-30T19:13:02+00:00",
+   "excerpt": "AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Forecasting space weather risks on power grids",
+   "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+   "date": "2026-09-30T16:00:00+00:00",
+   "excerpt": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+   "url": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+   "date": "2026-09-30T16:00:00+00:00",
+   "excerpt": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "date": "2026-09-30T15:03:07+00:00",
+   "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "LOCI: Spatial Linear Memory for Streaming World Models",
+   "url": "https://huggingface.co/papers/2609.40222",
+   "date": "2026-09-30T13:27:06+00:00",
+   "excerpt": "When a camera revisits a previously observed region, a video world model should reproduce what was there before. This requires both remembering past observations and retrieving the right one for the current viewpoint. Key-value caches preserve visual detail but grow with video length; recurrent mem…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Can You Become an Agentic Enterprise? Get a Sneak Peek in The Latest Guide",
+   "url": "https://www.salesforce.com/blog/small-business/agentic-enterprise-guide-takeaways/",
+   "date": "2026-09-30T13:00:00+00:00",
+   "excerpt": "Salesforce’s latest Agentic Enterprise guide will surprise you with insights on our next chapter of AI in business.",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+   "date": "2026-09-30T10:40:30+00:00",
+   "excerpt": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "date": "2026-09-30T10:30:00+00:00",
+   "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "date": "2026-09-30T10:00:00+00:00",
+   "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sep 30, 2026EconomicsWhat work can robots do?",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "Sep 30, 2026EconomicsWhat work can robots do?",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
+   "url": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are often evaluated with a narrow focus on their effectiveness at injecting or removi…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation",
+   "url": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and start, crons, and memory consolidation. Yet existing benchmarks and training fr…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+   "url": "https://huggingface.co/papers/2610.00812",
+   "date": "2026-09-29T20:00:00+00:00",
+   "excerpt": "Video generation has rapidly progressed from short, low-quality clips to high-resolution, long-duration sequences with complex spatiotemporal dynamics. Despite strong generative priors learned through large-scale pretraining, pretrained video models often fail to reliably follow human intent, maint…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Honeycomb: Constant-Size Scene Memory Representation for Video World Models",
+   "url": "https://huggingface.co/papers/2609.37690",
+   "date": "2026-09-29T20:00:00+00:00",
+   "excerpt": "Video world models require persistent scene memory to maintain consistency during long-horizon video generation. Existing spatial memories accumulate RGB observations or latent features, increasing storage requirements as generation proceeds. We introduce Honeycomb, a video world model built on Hex…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+   "url": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
+   "date": "2026-09-29T19:10:51+00:00",
+   "excerpt": "Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "How Diffusion Controller unifies and simplifies AI image generation",
+   "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+   "date": "2026-09-29T18:38:27+00:00",
+   "excerpt": "Algorithms & Theory",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+   "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+   "date": "2026-09-29T18:35:09+00:00",
+   "excerpt": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+   "date": "2026-09-29T15:30:38+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+   "date": "2026-09-29T14:00:02+00:00",
+   "excerpt": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger t…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+   "date": "2026-09-29T13:07:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Making AI an asset, not an expense",
+   "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+   "date": "2026-09-29T10:43:45+00:00",
+   "excerpt": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation t…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "date": "2026-09-29T10:00:00+00:00",
+   "excerpt": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "date": "2026-09-29T10:00:00+00:00",
+   "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "date": "2026-09-29T00:00:00+00:00",
+   "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "date": "2026-09-29T00:00:00+00:00",
+   "excerpt": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+   "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+   "date": "2026-09-29T00:00:00+00:00",
+   "excerpt": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
+   "url": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+   "date": "2026-09-29T00:00:00+00:00",
+   "excerpt": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "date": "2026-09-28T22:17:07+00:00",
+   "excerpt": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+   "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+   "date": "2026-09-28T21:00:00+00:00",
+   "excerpt": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singa…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "date": "2026-09-28T19:00:00+00:00",
+   "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "date": "2026-09-28T19:00:00+00:00",
+   "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "When can we say AI made a scientific discovery?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "date": "2026-09-28T17:03:16+00:00",
+   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pr…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hallo, Deutschland!",
+   "url": "https://mistral.ai/news/hallo-deutschland/",
+   "date": "2026-09-28T15:57:59+00:00",
+   "excerpt": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "Holo4: powering generalist computer-use agents",
+   "url": "https://huggingface.co/blog/Hcompany/holo4",
+   "date": "2026-09-28T09:44:05+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+   "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+   "date": "2026-09-28T08:56:55+00:00",
+   "excerpt": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+   "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+   "date": "2026-09-28T08:55:00+00:00",
+   "excerpt": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Who’s liable when AI agents go rogue?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+   "date": "2026-09-28T08:06:22+00:00",
+   "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "date": "2026-09-28T07:00:00+00:00",
+   "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+   "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+   "date": "2026-09-28T01:00:00+00:00",
+   "excerpt": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Are you a Codex Original?",
+   "url": "https://openai.com/form/codex-originals",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Faster Rates for Federated Variational Inequalities",
+   "url": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap remains between existing convergence rates and the state-of-the-art bounds known for…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "date": "2026-09-25T19:00:00+00:00",
+   "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "A kernel-centric path to real-time video generation on Trainium",
+   "url": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
+   "date": "2026-09-25T14:55:00+00:00",
+   "excerpt": "Using the Neuron Kernel Interface, a Reactor–AWS collaboration tackled the dynamic shapes, memory access patterns, and cache management that make real-time autoregressive diffusion hard—building techniques that generalize across models.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+   "date": "2026-09-25T09:16:25+00:00",
+   "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+   "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Automating coherent long-form video generation",
+   "url": "https://research.google/blog/coherent-long-form-video-generation/",
+   "date": "2026-09-24T19:40:00+00:00",
+   "excerpt": "Generative AI",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "date": "2026-09-24T16:20:39+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Efficient MoE Training for Biological Foundation Models",
+   "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+   "date": "2026-09-24T15:00:00+00:00",
+   "excerpt": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "date": "2026-09-24T14:08:57+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Hermes Agent v0.21.5 (v2026.9.24)",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.24",
+   "date": "2026-09-24T10:09:38+00:00",
+   "excerpt": "# Hermes Agent v0.21.5 (v2026.9.24) **Release Date:** September 24, 2026 > Patch release. This tag rolls up the ~460 PRs merged since v0.21.4 into a stable tagged release for downstream consumers (Docker images, Hermes Cloud, hosted deployments). Full curated notes for this window are deferred to v…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+   "url": "https://www.anthropic.com/research/project-swap",
+   "date": "2026-09-24T00:00:00+00:00",
+   "excerpt": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+   "url": "https://machinelearning.apple.com/research/latent-space-distillation",
+   "date": "2026-09-24T00:00:00+00:00",
+   "excerpt": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instruction…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
+   "url": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
+   "date": "2026-09-24T00:00:00+00:00",
+   "excerpt": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is particularly fragile here: pseudo-label errors compound across the output sequence and…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+   "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
+   "date": "2026-09-23T22:54:56+00:00",
+   "excerpt": "Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+   "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
+   "date": "2026-09-23T19:45:19+00:00",
+   "excerpt": "A GPU cluster can pass every health check and still fail to run an AI workload. Even when every GPU, network link, and pod reports healthy, a 512-GPU training...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Manage Kubernetes Node Fleets with NodeWright",
+   "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
+   "date": "2026-09-23T18:25:49+00:00",
+   "excerpt": "Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+   "date": "2026-09-23T16:01:36+00:00",
+   "excerpt": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for real-world physical…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "date": "2026-09-23T16:00:57+00:00",
+   "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "date": "2026-09-23T16:00:00+00:00",
+   "excerpt": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+   "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+   "date": "2026-09-23T16:00:00+00:00",
+   "excerpt": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "date": "2026-09-23T15:25:14+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "date": "2026-09-23T13:00:00+00:00",
+   "excerpt": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "date": "2026-09-23T12:00:00+00:00",
+   "excerpt": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "date": "2026-09-23T12:00:00+00:00",
+   "excerpt": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The AI Hype Index: AI loves cheating",
+   "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+   "date": "2026-09-23T09:00:00+00:00",
+   "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into oth…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+   "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+   "date": "2026-09-22T17:27:41+00:00",
+   "excerpt": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+   "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+   "date": "2026-09-22T17:16:28+00:00",
+   "excerpt": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+   "date": "2026-09-22T13:00:00+00:00",
+   "excerpt": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+   "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+   "date": "2026-09-22T12:00:00+00:00",
+   "excerpt": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Don’t be fooled by this summer of AI hype",
+   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "date": "2026-09-22T11:04:51+00:00",
+   "excerpt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclos…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Amazon launches research initiative with Stanford University to advance AI and science",
+   "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
+   "date": "2026-09-21T19:31:59+00:00",
+   "excerpt": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Hermes Agent v0.21.4 (v2026.9.21)",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21",
+   "date": "2026-09-21T18:10:55+00:00",
+   "excerpt": "# Hermes Agent v0.21.4 (v2026.9.21) **Release Date:** September 21, 2026 > Patch release. This tag rolls up the ~1,800 PRs merged since v0.21.3 into a stable tagged release for downstream consumers (Docker images, Hermes Cloud, hosted deployments). Full curated notes for this window are deferred to…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
+   "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
+   "date": "2026-09-21T17:51:00+00:00",
+   "excerpt": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+   "date": "2026-09-21T15:30:19+00:00",
+   "excerpt": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synt…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "tokenizers v1: encode, decode and scaling, measured",
+   "url": "https://huggingface.co/blog/tokenizers-v1",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+   "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+   "date": "2026-09-18T17:46:09+00:00",
+   "excerpt": "Algorithms & Theory",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Partnering with Accenture on embedded evaluation",
+   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Partnering with Accenture on embedded evaluation",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+   "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+   "date": "2026-09-17T20:45:00+00:00",
+   "excerpt": "Education Innovation",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing the Life Sciences Verification Program",
+   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Introducing the Life Sciences Verification Program",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+   "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "date": "2026-09-16T17:00:00+00:00",
+   "excerpt": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "date": "2026-09-16T12:00:00+00:00",
+   "excerpt": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "Economic Policy for AGI",
+   "url": "https://deepmind.google/research/publications/260459/",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+   "date": "2026-09-15T20:00:00+00:00",
+   "excerpt": "Algorithms & Theory",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "date": "2026-09-15T17:05:57+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "date": "2026-09-15T16:00:44+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Refactoring Hermes with 1,393 agents",
+   "url": "https://nousresearch.com/refactoring-hermes-with-1393-agents",
+   "date": "2026-09-15T15:00:00+00:00",
+   "excerpt": "Hermes Agent refactored its own codebase: 1,393 subagents over about nineteen active hours cut non-test Python by 34.4%, for roughly $19,300 in model spend against a $150k-$1.8M estimate for doing it by hand.",
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "A theoretical separation between quantum computers & LLMs",
+   "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss",
+   "date": "2026-09-15T04:00:00+00:00",
+   "excerpt": "Recent research further demonstrates the theoretical abilities of quantum computing",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Introducing System One Models & Jev - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+   "date": "2026-09-15T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
+   "title": "Hermes Agent v0.21.3 (v2026.9.14)",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.14",
+   "date": "2026-09-14T16:04:14+00:00",
+   "excerpt": "# Hermes Agent v0.21.3 (v2026.9.14) **Release Date:** September 14, 2026 > Patch release. This tag rolls up the ~338 PRs merged since v0.21.2 into a stable tagged release for downstream consumers (Docker images, Hermes Cloud, hosted deployments). It exists so the remote-gateway sign-in fixes below…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Hermes Agent v0.21.2 (v2026.9.11)",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.11",
+   "date": "2026-09-11T19:20:31+00:00",
+   "excerpt": "# Hermes Agent v0.21.2 (v2026.9.11) — The state.db Patch Release **Release Date:** September 11, 2026 > Patch release. v0.21.0 shipped a large rewrite of the session store's connection handling, and for some installs it made `state.db` fragile: second writers cancelling each other's locks, healthy…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Lies, Damned Lies, and Benchmarks - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/antibenchmaxxing",
+   "date": "2026-09-11T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
+   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+   "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+   "date": "2026-09-10T22:50:22+00:00",
+   "excerpt": "Machine Intelligence",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Why don’t machine learning research agents overfit?",
+   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "date": "2026-09-10T15:03:39+00:00",
+   "excerpt": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Introducing IBM and NASA's new foundation model for the Moon",
+   "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model?utm_medium=rss&utm_source=rss",
+   "date": "2026-09-10T12:30:00+00:00",
+   "excerpt": "The multi-modal model could help astronauts navigate craters, investigate ancient lava, and search for ice, as the US plans for a long-term lunar presence.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+   "url": "https://mistral.ai/news/mistral-x-cloudera/",
+   "date": "2026-09-10T10:42:55+00:00",
+   "excerpt": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+   "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The Bitterest Lesson - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/bitterest-lesson",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Modernizing complex legacy code with AI agents.",
+   "url": "https://mistral.ai/news/legacy-code-modernization/",
+   "date": "2026-09-09T12:00:46+00:00",
+   "excerpt": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party…",
+   "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "date": "2026-09-08T14:00:15+00:00",
+   "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+   "date": "2026-09-08T12:00:22+00:00",
+   "excerpt": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "How llm-d makes the most of the hardware you already have",
+   "url": "https://research.ibm.com/blog/running-open-models-on-h100-gpus-with-llmd?utm_medium=rss&utm_source=rss",
+   "date": "2026-09-08T12:00:00+00:00",
+   "excerpt": "IBM Research and Red Hat deployed a 753B open model on H100 GPUs, serving thousands of concurrent coding agents at 5-10x lower cost than commercial APIs.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "url": "https://openai.com/index/navier-stokes-solution",
+   "date": "2026-09-08T10:00:00+00:00",
+   "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Hermes Agent v0.21.1 (v2026.9.7)",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.7",
+   "date": "2026-09-07T22:17:01+00:00",
+   "excerpt": "# Hermes Agent v0.21.1 (v2026.9.7) **Release Date:** September 7, 2026 > Patch release. This tag rolls up current main since v0.21.0 for tagged deployments and downstream consumers. ## About this release Measured at commit `6178e9f4eed8d99f4fc550add939d58c7bed6206`, the window since v0.21.0 contain…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "date": "2026-09-06T08:00:00+00:00",
+   "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the pro…",
+   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Transfer learning for genomic prediction in underrepresented populations",
+   "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+   "date": "2026-09-03T18:20:31+00:00",
+   "excerpt": "General Science",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+   "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+   "date": "2026-09-03T16:00:00+00:00",
+   "excerpt": "General Science",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "date": "2026-09-03T15:02:08+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "url": "https://huggingface.co/blog/Hcompany/neomme",
+   "date": "2026-09-03T13:13:48+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "GPT-6 Astra: A new generation of intelligence",
+   "url": "https://openai.com/index/gpt-6-astra",
+   "date": "2026-09-03T11:00:00+00:00",
+   "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "date": "2026-09-03T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "date": "2026-09-03T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "date": "2026-09-03T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Proactive cyber defense for governments and enterprises",
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+   "date": "2026-09-02T16:24:24+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+   "date": "2026-09-02T16:18:31+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
+   "url": "https://www.salesforce.com/blog/operational-intelligence/",
+   "date": "2026-09-01T23:53:58+00:00",
+   "excerpt": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "url": "https://huggingface.co/blog/allenai/benchmirt",
+   "date": "2026-09-01T21:39:07+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Mapping global methane emissions from space with deep learning",
+   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+   "date": "2026-09-01T18:40:00+00:00",
+   "excerpt": "Climate & Sustainability",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing agentic video understanding with Gemini",
+   "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+   "date": "2026-09-01T17:08:51+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Developing Enterprise Frontier Safeguards with our customers",
+   "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "Developing Enterprise Frontier Safeguards with our customers",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Designing Proactive Thought Partners for Writing",
+   "url": "https://deepmind.google/research/publications/265605/",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+   "date": "2026-08-31T17:19:40+00:00",
+   "excerpt": "Data Management",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+   "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+   "date": "2026-08-31T16:00:00+00:00",
+   "excerpt": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery wi…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Developing provably correct Rust code with Verus",
+   "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+   "date": "2026-08-31T15:35:33+00:00",
+   "excerpt": "How the Verus \"program verifier\", which automatically checks code against a mathematical specification of its functionality, helps increase security assurance in software projects.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Improving our alignment and security efforts",
+   "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+   "date": "2026-08-31T00:00:00+00:00",
+   "excerpt": "Improving our alignment and security efforts",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "What happens when information theory accounts for reasoning?",
+   "url": "https://research.ibm.com/blog/information-theory-meaning?utm_medium=rss&utm_source=rss",
+   "date": "2026-08-28T12:00:00+00:00",
+   "excerpt": "",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Planetary prediction engine: Automating global models via Earth AI",
+   "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+   "date": "2026-08-27T17:37:00+00:00",
+   "excerpt": "Earth AI",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Gemini Omni 1.1 Flash lets you build with more control",
+   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+   "date": "2026-08-27T16:11:32+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Piloting the world's first double-blind AI evaluations",
+   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+   "date": "2026-08-27T12:59:16+00:00",
+   "excerpt": "Piloting the world's first double-blind AI evaluations",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Expanding our support for scientists",
+   "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Expanding our support for scientists",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Previewing the Model Hardware Standard",
+   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Previewing the Model Hardware Standard",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+   "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+   "date": "2026-08-26T18:42:43+00:00",
+   "excerpt": "Health & Bioscience",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "When LLM judges agree, should we believe them?",
+   "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+   "date": "2026-08-26T17:10:40+00:00",
+   "excerpt": "Discounting the opinions of LLM judges with highly correlated outputs ensures that panels of judges reflect a true diversity of perspectives.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+   "date": "2026-08-26T17:01:00+00:00",
+   "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Visual General Intelligence: A White Paper",
+   "url": "https://deepmind.google/research/publications/270149/",
+   "date": "2026-08-26T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+   "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+   "date": "2026-08-25T19:10:59+00:00",
+   "excerpt": "Human-Computer Interaction and Visualization",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Granite 4.2 brings native reasoning to enterprise agents",
+   "url": "https://research.ibm.com/blog/introducing-granite-4-2?utm_medium=rss&utm_source=rss",
+   "date": "2026-08-25T15:00:00+00:00",
+   "excerpt": "IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Funding better evaluations of AI’s impact on wellbeing",
+   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "date": "2026-08-25T00:00:00+00:00",
+   "excerpt": "Funding better evaluations of AI’s impact on wellbeing",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Mistral x HUMAIN",
+   "url": "https://mistral.ai/news/mistral-x-humain/",
+   "date": "2026-08-24T16:02:41+00:00",
+   "excerpt": "",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+   "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+   "date": "2026-08-21T17:02:24+00:00",
+   "excerpt": "Generative AI",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
+   "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+   "date": "2026-08-21T15:57:17+00:00",
+   "excerpt": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+   "date": "2026-08-21T11:59:48+00:00",
+   "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How mobility gives language models a deeper understanding of place",
+   "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+   "date": "2026-08-21T10:54:00+00:00",
+   "excerpt": "Algorithms & Theory",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Broadening access to Skala creates a faster path to predictive DFT",
+   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+   "date": "2026-08-20T16:00:00+00:00",
+   "excerpt": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a fast…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+   "url": "https://mistral.ai/news/agentic-search/",
+   "date": "2026-08-20T12:00:17+00:00",
+   "excerpt": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+   "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+   "date": "2026-08-17T10:34:00+00:00",
+   "excerpt": "General Science",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Claude’s text watermark works",
+   "url": "https://www.anthropic.com/news/claude-text-watermark",
+   "date": "2026-08-14T00:00:00+00:00",
+   "excerpt": "How Claude’s text watermark works",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Gemini 3.7 Flash",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "date": "2026-08-13T17:04:18+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+   "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "date": "2026-08-12T16:00:00+00:00",
+   "excerpt": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research .",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Putting sign language AI into users’ hands",
+   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+   "date": "2026-08-12T14:01:59+00:00",
+   "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
+   "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
+   "date": "2026-08-12T13:00:00+00:00",
+   "excerpt": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "DocLang: a markup language for LLMs",
+   "url": "https://research.ibm.com/blog/doclang-ai-native-doc-standard?utm_medium=rss&utm_source=rss",
+   "date": "2026-08-12T12:00:00+00:00",
+   "excerpt": "The lead researcher behind IBM’s popular document parser, Docling, explains why generative AI needs its own document standard.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+   "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+   "date": "2026-08-12T09:51:00+00:00",
+   "excerpt": "Generative AI",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+   "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+   "date": "2026-08-11T17:04:00+00:00",
+   "excerpt": "Health & Bioscience",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group",
+   "url": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
+   "date": "2026-08-11T16:22:19+00:00",
+   "excerpt": "Ten years after we founded the Automated Reasoning Group, mathematical logic has moved from academic research into production services that secure millions of customer workloads — demonstrating that systems can be provably correct, not just probably correct.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+   "date": "2026-08-11T16:00:00+00:00",
+   "excerpt": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervisio…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "From vision to reality: a unified AI solver for the grid",
+   "url": "https://research.ibm.com/blog/gridfm-neural-solver-power-grid?utm_medium=rss&utm_source=rss",
+   "date": "2026-08-11T13:00:40+00:00",
+   "excerpt": "GENCO is a neural solver that, alongside the GridFM Development Framework, unifies three core electrical grid analysis tasks.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+   "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+   "date": "2026-08-11T12:00:27+00:00",
+   "excerpt": "Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+   "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+   "date": "2026-08-10T20:23:04+00:00",
+   "excerpt": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "5 AI Service Report Insights for Growing Businesses",
+   "url": "https://www.salesforce.com/blog/small-business/state-of-service-report-insights-for-growing-businesses/",
+   "date": "2026-08-07T13:00:00+00:00",
+   "excerpt": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Improving Fable 5's biology safeguards",
+   "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+   "date": "2026-08-07T00:00:00+00:00",
+   "excerpt": "Improving Fable 5's biology safeguards",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "date": "2026-08-06T15:06:15+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "34 Amazon Research Awards Build on Trainium recipients announced",
+   "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
+   "date": "2026-08-05T15:00:00+00:00",
+   "excerpt": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "A moral Turing test: How belief and source shape detection of and agreement with LLM judgments",
+   "url": "https://deepmind.google/research/publications/118955/",
+   "date": "2026-08-05T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Shieldstral.",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "date": "2026-08-04T12:00:26+00:00",
+   "excerpt": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
+   "source": "Mistral",
+   "category": "Lab"
+  }
+ ]
+}

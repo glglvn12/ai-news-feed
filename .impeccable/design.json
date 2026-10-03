@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-02T23:40:00+09:00",
+  "title": "Design System: AI News Feed",
+  "extensions": {
+    "colorMeta": {
+      "bulletin-red": {
+        "role": "primary",
+        "displayName": "Bulletin Red",
+        "canonical": "oklch(53.1% 0.196 29)",
+        "tonalRamp": [
+          "oklch(15% 0.114 29)",
+          "oklch(26% 0.114 29)",
+          "oklch(38% 0.19 29)",
+          "oklch(50% 0.19 29)",
+          "oklch(62% 0.19 29)",
+          "oklch(74% 0.19 29)",
+          "oklch(85% 0.19 29)",
+          "oklch(95% 0.114 29)"
+        ]
+      },
+      "bulletin-red-dark": {
+        "role": "primary",
+        "displayName": "Bulletin Coral (dark)",
+        "canonical": "oklch(68.8% 0.202 30)",
+        "tonalRamp": [
+          "oklch(15% 0.114 29)",
+          "oklch(26% 0.114 29)",
+          "oklch(38% 0.19 29)",
+          "oklch(50% 0.19 29)",
+          "oklch(62% 0.19 29)",
+          "oklch(74% 0.19 29)",
+          "oklch(85% 0.19 29)",
+          "oklch(95% 0.114 29)"
+        ]
+      },
+      "bulletin-red-ink": {
+        "role": "primary",
+        "displayName": "Bulletin Red Ink",
+        "canonical": "oklch(100% 0 0)"
+      },
+      "bulletin-red-ink-dark": {
+        "role": "primary",
+        "displayName": "Bulletin Red Ink (dark)",
+        "canonical": "oklch(15.8% 0.028 30)"
+      },
+      "lab-ochre": {
+        "role": "secondary",
+        "displayName": "Lab Ochre",
+        "canonical": "oklch(49% 0.105 72)",
+        "tonalRamp": [
+          "oklch(15% 0.066 72)",
+          "oklch(26% 0.066 72)",
+          "oklch(38% 0.11 72)",
+          "oklch(50% 0.11 72)",
+          "oklch(62% 0.11 72)",
+          "oklch(74% 0.11 72)",
+          "oklch(85% 0.11 72)",
+          "oklch(95% 0.066 72)"
+        ]
+      },
+      "lab-ochre-dark": {
+        "role": "secondary",
+        "displayName": "Lab Ochre (dark)",
+        "canonical": "oklch(77.2% 0.136 76)"
+      },
+      "paper-blue": {
+        "role": "tertiary",
+        "displayName": "Paper Blue",
+        "canonical": "oklch(42.1% 0.094 258)",
+        "tonalRamp": [
+          "oklch(15% 0.056 258)",
+          "oklch(26% 0.056 258)",
+          "oklch(38% 0.094 258)",
+          "oklch(50% 0.094 258)",
+          "oklch(62% 0.094 258)",
+          "oklch(74% 0.094 258)",
+          "oklch(85% 0.094 258)",
+          "oklch(95% 0.056 258)"
+        ]
+      },
+      "paper-blue-dark": {
+        "role": "tertiary",
+        "displayName": "Paper Blue (dark)",
+        "canonical": "oklch(76.8% 0.088 260)"
+      },
+      "press-grey": {
+        "role": "tertiary",
+        "displayName": "Press Grey",
+        "canonical": "oklch(46.6% 0.012 262)"
+      },
+      "press-grey-dark": {
+        "role": "tertiary",
+        "displayName": "Press Grey (dark)",
+        "canonical": "oklch(72% 0.013 260)"
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Cool Ground",
+        "canonical": "oklch(95.4% 0.003 248)",
+        "tonalRamp": [
+          "oklch(15% 0.007 262)",
+          "oklch(26% 0.007 262)",
+          "oklch(38% 0.012 262)",
+          "oklch(50% 0.012 262)",
+          "oklch(62% 0.012 262)",
+          "oklch(74% 0.012 262)",
+          "oklch(85% 0.012 262)",
+          "oklch(95% 0.007 262)"
+        ]
+      },
+      "ground-dark": {
+        "role": "neutral",
+        "displayName": "Carbon Ground",
+        "canonical": "oklch(18.2% 0.006 271)"
+      },
+      "raise": {
+        "role": "neutral",
+        "displayName": "Raised White",
+        "canonical": "oklch(100% 0 0)"
+      },
+      "raise-dark": {
+        "role": "neutral",
+        "displayName": "Raised Carbon",
+        "canonical": "oklch(22.2% 0.008 264)"
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Wire Ink",
+        "canonical": "oklch(20.1% 0.008 275)"
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "Wire Ink (dark)",
+        "canonical": "oklch(93.2% 0.005 118)"
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Slate",
+        "canonical": "oklch(45.9% 0.016 262)"
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "Muted Slate (dark)",
+        "canonical": "oklch(72% 0.013 260)"
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "oklch(88.1% 0.009 258)"
+      },
+      "rule-dark": {
+        "role": "neutral",
+        "displayName": "Hairline (dark)",
+        "canonical": "oklch(29.7% 0.012 264)"
+      },
+      "band": {
+        "role": "neutral",
+        "displayName": "Header Band",
+        "canonical": "oklch(20.1% 0.008 275)"
+      },
+      "band-dark": {
+        "role": "neutral",
+        "displayName": "Header Band (dark)",
+        "canonical": "oklch(23.5% 0.01 268)"
+      },
+      "band-ink": {
+        "role": "neutral",
+        "displayName": "Band Ink",
+        "canonical": "oklch(95.4% 0.003 248)"
+      },
+      "band-ink-dark": {
+        "role": "neutral",
+        "displayName": "Band Ink (dark)",
+        "canonical": "oklch(93.2% 0.005 118)"
+      },
+      "band-muted": {
+        "role": "neutral",
+        "displayName": "Band Muted",
+        "canonical": "oklch(74.9% 0.013 260)"
+      },
+      "band-muted-dark": {
+        "role": "neutral",
+        "displayName": "Band Muted (dark)",
+        "canonical": "oklch(70.7% 0.013 260)"
+      },
+      "band-rule": {
+        "role": "neutral",
+        "displayName": "Band Rule",
+        "canonical": "oklch(33.4% 0.013 273)"
+      },
+      "band-rule-dark": {
+        "role": "neutral",
+        "displayName": "Band Rule (dark)",
+        "canonical": "oklch(32.5% 0.013 267)"
+      },
+      "band-red": {
+        "role": "accent",
+        "displayName": "Band Red",
+        "canonical": "#ff6a55",
+        "purpose": "Red text on the header band (new count, failed sources); 6.4:1 on the band in both schemes."
+      }
+    },
+    "typographyMeta": {
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "Header band name only; uppercase, Archivo at 75% width."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section heads: Major labs, The wire, help summary."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Row headlines; 700 on major-lab rows."
+      },
+      "dateline": {
+        "displayName": "Dateline",
+        "purpose": "Uppercase day headings over the wire."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Help prose, 72ch max."
+      },
+      "excerpt": {
+        "displayName": "Excerpt",
+        "purpose": "Muted two-line clamp under a headline."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Buttons, tabs, status line, section notes."
+      },
+      "data": {
+        "displayName": "Data",
+        "purpose": "Mono tabular times, ages, counts, timestamps."
+      },
+      "code": {
+        "displayName": "Priority Code",
+        "purpose": "MAJOR LAB / LAB / PAPER / PRESS codes only."
+      }
+    },
+    "shadows": [],
+    "rules": [
+      {
+        "name": "hairline",
+        "value": "1px solid var(--rule)",
+        "purpose": "Between rows; control row underline; field borders."
+      },
+      {
+        "name": "dateline",
+        "value": "2px solid var(--ink)",
+        "purpose": "Under each day heading and above the help section."
+      },
+      {
+        "name": "priority",
+        "value": "3px solid var(--red)",
+        "purpose": "Header band bottom edge and top of the bulletin lane."
+      }
+    ],
+    "motion": [
+      {
+        "name": "arrive",
+        "value": "1.6s cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "One-time 14% red wash fading off a row new since the last visit; disabled under reduced motion."
+      },
+      {
+        "name": "spin",
+        "value": ".9s linear infinite",
+        "purpose": "Refresh icon while fetching; disabled under reduced motion."
+      },
+      {
+        "name": "state",
+        "value": ".2s",
+        "purpose": "Background and border-color changes on band buttons."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "640px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Band Button (Refresh)",
+      "kind": "button",
+      "refersTo": "button-band",
+      "description": "Outlined tool button on the ink header band; spins its icon while fetching.",
+      "html": "<div class=\"ds-band\"><button class=\"ds-btn\" type=\"button\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M21 12a9 9 0 1 1-2.64-6.36\"/><path d=\"M21 3v6h-6\"/></svg><span>Refresh</span></button></div>",
+      "css": ".ds-band { background: var(--band, #15161a); padding: 14px; } .ds-icon { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; } .ds-btn { font: 600 .875rem/1 var(--sans, Archivo, sans-serif); display: inline-flex; align-items: center; gap: 8px; height: 36px; padding: 0 14px; border-radius: 6px; cursor: pointer; border: 1px solid var(--band-rule, #34363d); background: transparent; color: var(--band-ink, #eef0f2); transition: background .2s, border-color .2s; } .ds-btn:hover { background: var(--band-rule, #34363d); } .ds-btn:focus-visible { outline: 2px solid var(--red, #c4241a); outline-offset: 2px; }"
+    },
+    {
+      "name": "Category Tabs",
+      "kind": "chip",
+      "refersTo": "tab",
+      "description": "Segmented group; the pressed tab inverts to ink.",
+      "html": "<div class=\"ds-tabs\" role=\"group\"><button class=\"ds-tab\" aria-pressed=\"true\">All</button><button class=\"ds-tab\" aria-pressed=\"false\">Labs</button><button class=\"ds-tab\" aria-pressed=\"false\">Research</button><button class=\"ds-tab\" aria-pressed=\"false\">Press</button></div>",
+      "css": ".ds-tabs { display: inline-flex; border: 1px solid var(--rule, #d4d8de); border-radius: 6px; background: var(--raise, #fff); padding: 3px; gap: 2px; } .ds-tab { font: 600 .875rem/1 var(--sans, Archivo, sans-serif); height: 30px; padding: 0 12px; border: 0; border-radius: 4px; background: transparent; color: var(--muted, #535861); cursor: pointer; } .ds-tab:hover { color: var(--ink, #15161a); } .ds-tab[aria-pressed=\"true\"] { background: var(--ink, #15161a); color: var(--ground, #eef0f2); } .ds-tab:focus-visible { outline: 2px solid var(--red, #c4241a); outline-offset: 2px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "input-search",
+      "description": "Raised field with inset stroke icon; border darkens on hover.",
+      "html": "<label class=\"ds-search\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input type=\"search\" placeholder=\"Search headlines and excerpts\" aria-label=\"Search\"></label>",
+      "css": ".ds-search { position: relative; display: flex; align-items: center; max-width: 420px; } .ds-icon { position: absolute; left: 12px; width: 16px; height: 16px; fill: none; stroke: var(--muted, #535861); stroke-width: 2; stroke-linecap: round; pointer-events: none; } .ds-search input { width: 100%; font: .9375rem var(--sans, Archivo, sans-serif); color: var(--ink, #15161a); background: var(--raise, #fff); border: 1px solid var(--rule, #d4d8de); border-radius: 6px; height: 38px; padding: 0 12px 0 36px; } .ds-search input::placeholder { color: var(--muted, #535861); } .ds-search input:hover { border-color: var(--muted, #535861); } .ds-search input:focus-visible { outline: 2px solid var(--red, #c4241a); outline-offset: 2px; }"
+    },
+    {
+      "name": "Priority Codes",
+      "kind": "chip",
+      "refersTo": "code-bulletin",
+      "description": "Mono priority stamps; only MAJOR LAB is filled.",
+      "html": "<div class=\"ds-codes\"><span class=\"ds-code ds-bulletin\">MAJOR LAB</span><span class=\"ds-code ds-lab\">LAB</span><span class=\"ds-code ds-paper\">PAPER</span><span class=\"ds-code ds-press\">PRESS</span></div>",
+      "css": ".ds-codes { display: flex; gap: 12px; align-items: center; } .ds-code { font: 600 .6875rem/1 var(--mono, 'JetBrains Mono', monospace); padding: 5px 6px; border-radius: 3px; border: 1px solid currentColor; } .ds-bulletin { background: var(--red, #c4241a); border-color: var(--red, #c4241a); color: var(--red-ink, #fff); } .ds-lab { color: var(--ochre, #845500); } .ds-paper { color: var(--blue, #2b4d80); } .ds-press { color: var(--press, #565a61); }"
+    },
+    {
+      "name": "Wire Row",
+      "kind": "custom",
+      "refersTo": "code-bulletin",
+      "description": "Four-column ruled row: time | code | source | headline + excerpt; major rows go red at the source.",
+      "html": "<article class=\"ds-row ds-major\"><div class=\"ds-time\"><span class=\"ds-dot\"></span>11h</div><span class=\"ds-code\">MAJOR LAB</span><p class=\"ds-src\">OpenAI</p><div><a class=\"ds-title\" href=\"#\">A model guide for the GPT-6 family</a><p class=\"ds-ex\">The source's own excerpt, clamped to two lines in muted text.</p></div></article><article class=\"ds-row\"><div class=\"ds-time\">20:45</div><span class=\"ds-code ds-press\">PRESS</span><p class=\"ds-src\">TechCrunch AI</p><div><a class=\"ds-title\" href=\"#\">Meta wants your next gadget to be Muse-infused</a></div></article>",
+      "css": ".ds-row { display: grid; grid-template-columns: 4.25rem 6.5rem 10rem minmax(0, 1fr); gap: 0 16px; padding: 14px 0; border-top: 1px solid var(--rule, #d4d8de); font-family: var(--sans, Archivo, sans-serif); color: var(--ink, #15161a); } .ds-time { font: .8125rem var(--mono, 'JetBrains Mono', monospace); font-variant-numeric: tabular-nums; color: var(--muted, #535861); padding-top: 3px; display: flex; align-items: center; gap: 6px; align-self: start; } .ds-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--red, #c4241a); } .ds-code { align-self: start; justify-self: start; font: 600 .6875rem/1 var(--mono, 'JetBrains Mono', monospace); padding: 5px 6px; border-radius: 3px; margin-top: 2px; border: 1px solid var(--red, #c4241a); background: var(--red, #c4241a); color: var(--red-ink, #fff); } .ds-code.ds-press { background: transparent; border-color: currentColor; color: var(--press, #565a61); } .ds-src { font-size: .875rem; font-weight: 600; color: var(--muted, #535861); margin: 0; padding-top: 1px; } .ds-major .ds-src { color: var(--red, #c4241a); } .ds-title { display: block; font-size: 1.0625rem; line-height: 1.35; font-weight: 600; font-stretch: 87.5%; text-decoration: none; color: inherit; } .ds-major .ds-title { font-weight: 700; } .ds-title:hover { text-decoration: underline; text-underline-offset: 3px; } .ds-title:focus-visible { outline: 2px solid var(--red, #c4241a); outline-offset: 2px; } .ds-ex { margin: 4px 0 0; color: var(--muted, #535861); font-size: .9375rem; max-width: 72ch; }"
+    },
+    {
+      "name": "Dateline",
+      "kind": "custom",
+      "refersTo": "dateline",
+      "description": "Uppercase day heading on a 2px ink rule with a mono count.",
+      "html": "<div class=\"ds-day\"><h3>Friday, 2 October 2026</h3><span>85</span></div>",
+      "css": ".ds-day { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 8px; border-bottom: 2px solid var(--ink, #15161a); font-family: var(--sans, Archivo, sans-serif); color: var(--ink, #15161a); } .ds-day h3 { margin: 0; font-size: .9375rem; font-weight: 700; font-stretch: 85%; text-transform: uppercase; letter-spacing: .02em; } .ds-day span { font: .8125rem var(--mono, 'JetBrains Mono', monospace); color: var(--muted, #535861); }"
+    },
+    {
+      "name": "Header Band",
+      "kind": "nav",
+      "refersTo": "button-band",
+      "description": "Ink band, 3px red bottom rule: wordmark, wire status, actions.",
+      "html": "<header class=\"ds-header\"><h1 class=\"ds-mark\">AI News Feed</h1><div class=\"ds-status\"><span>Updated <b>Oct 2, 11:24 PM</b></span><span><b>0</b> new since last visit</span><span><b>16</b> sources reporting</span></div><a class=\"ds-link\" href=\"#\">How to run</a></header>",
+      "css": ".ds-header { display: flex; align-items: center; gap: 24px; min-height: 64px; padding: 10px 24px; background: var(--band, #15161a); color: var(--band-ink, #eef0f2); border-bottom: 3px solid var(--red, #c4241a); font-family: var(--sans, Archivo, sans-serif); } .ds-mark { font-weight: 800; font-stretch: 75%; font-size: 1.55rem; line-height: 1; letter-spacing: -0.01em; text-transform: uppercase; margin: 0; white-space: nowrap; } .ds-status { flex: 1; font-size: .875rem; color: var(--band-muted, #a9aeb6); display: flex; flex-wrap: wrap; gap: 4px 18px; } .ds-status b { color: var(--band-ink, #eef0f2); font: 600 1em var(--mono, 'JetBrains Mono', monospace); } .ds-link { color: var(--band-muted, #a9aeb6); font-size: .875rem; text-decoration: none; } .ds-link:hover { color: var(--band-ink, #eef0f2); text-decoration: underline; } .ds-link:focus-visible { outline: 2px solid var(--red, #c4241a); outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Wire Desk",
+    "overview": "The page is a news-agency wire terminal, not a card gallery. Every item carries a priority code, and major-lab releases come in as MAJOR LAB items that sit above routine copy. The hierarchy comes from the wire's own conventions: an ink header band, ruled rows, datelines and codes. Coloured chips and floating cards play no part in it.\n\nDensity is high and calm. Rows are separated by hairline rules on a cool grey-white ground (light) or a carbon ground (dark), and nothing is lifted off the page. Red is the one loud colour, and it means priority: major labs, the bulletin lane, the new-item signal and focus. Ochre, blue and grey code the other categories quietly. Type works as two voices. Semi-condensed Archivo carries everything a person reads, and JetBrains Mono carries everything a machine stamps (times, codes, counts).\n\nThe page follows the system light/dark setting. Both modes share every role, and only the values change.",
+    "keyCharacteristics": [
+      "Ink-black header band with a 3px bulletin-red bottom rule.",
+      "Rows ruled by 1px lines, never boxed as cards.",
+      "A four-column wire grid: time | code | source | headline + excerpt.",
+      "Bordered mono priority codes (MAJOR LAB filled red; LAB, PAPER, PRESS and REPO outlined in their category colour).",
+      "Datelines ruled by a 2px ink line, with a mono item count right-aligned.",
+      "Flat throughout, with no shadows."
+    ],
+    "rules": [
+      {
+        "name": "The One Red Rule",
+        "body": "Red always means priority (major lab, bulletin, new, focus). It is never decoration, and no other hue is ever filled.",
+        "section": "colors"
+      },
+      {
+        "name": "The Outlined Rank Rule",
+        "body": "Only MAJOR LAB is a filled code. Every other category code is a 1px outline in its own ink, so rank shows at a glance without a field of coloured chips.",
+        "section": "colors"
+      },
+      {
+        "name": "The Stamp Rule",
+        "body": "Mono is only for machine-stamped data: times, codes, counts and commands. Prose, labels and headlines are never mono.",
+        "section": "typography"
+      },
+      {
+        "name": "The Narrow Voice Rule",
+        "body": "Width tracks importance. The wordmark is set at 75%, heads at 85% and headlines at 87.5%, while body text stays at 100%.",
+        "section": "typography"
+      },
+      {
+        "name": "The Rule-Weight Rule",
+        "body": "Hierarchy between regions comes from rule thickness (1px, 2px ink, 3px red), never from shadows or boxes.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do give every item a priority code, and keep MAJOR LAB the only filled one.",
+      "Do separate rows with 1px hairlines, and mark region breaks with 2px ink or 3px red rules.",
+      "Do set times, codes and counts in JetBrains Mono with tabular numbers, and everything else in Archivo.",
+      "Do narrow Archivo's width as importance rises (75% wordmark, 85% heads, 87.5% headlines).",
+      "Do define every colour role in both light and dark, following prefers-color-scheme.",
+      "Do show estimated or missing times honestly (est., —) rather than inventing a clock time."
+    ],
+    "donts": [
+      "Don't box items as cards or lift anything with shadows.",
+      "Don't use red for anything that isn't priority, newness or focus.",
+      "Don't fill LAB, PAPER or PRESS codes, or add new hue-filled chips.",
+      "Don't use lab logos or trademarks. The source name in text is the identifier.",
+      "Don't set prose or headlines in mono."
+    ]
+  }
+}

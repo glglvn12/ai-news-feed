@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI News Feed</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2315161a'/%3E%3Crect x='6' y='22' width='20' height='4' fill='%23c4241a'/%3E%3Crect x='6' y='8' width='20' height='3' fill='%23f1f2f0'/%3E%3Crect x='6' y='14' width='13' height='3' fill='%23f1f2f0'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ground: #eef0f2; --raise: #ffffff; --ink: #15161a; --muted: #535861; --rule: #d4d8de;
+    --band: #15161a; --band-ink: #eef0f2; --band-muted: #a9aeb6; --band-rule: #34363d;
+    --red: #c4241a; --red-ink: #ffffff; --band-red: #ff6a55;
+    --ochre: #845500; --blue: #2b4d80; --press: #565a61; --green: #1e6b41; --violet: #5b3d9e;
+    --sans: "Archivo", "Helvetica Neue", Arial, sans-serif;
+    --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #111215; --raise: #191b1f; --ink: #e8e9e5; --muted: #a0a5ad; --rule: #2a2d33;
+      --band: #1c1e23; --band-ink: #e8e9e5; --band-muted: #9ca1a9; --band-rule: #31343b;
+      --red: #ff5c49; --red-ink: #170806; --band-red: #ff6a55;
+      --ochre: #e6a842; --blue: #93b5ec; --press: #a0a5ad; --green: #6fd39a; --violet: #b9a3f2;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scrollbar-color: var(--rule) var(--ground); }
+  body { margin: 0; background: var(--ground); color: var(--ink); font: 16px/1.5 var(--sans); font-stretch: 100%; caret-color: var(--red); -webkit-font-smoothing: antialiased; }
+  ::selection { background: var(--red); color: var(--red-ink); }
+  :focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+  a { color: inherit; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 24px; }
+  .num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+  svg.icon { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+
+  /* Header band */
+  header { background: var(--band); color: var(--band-ink); border-bottom: 3px solid var(--red); }
+  header .wrap { display: flex; align-items: center; gap: 24px; min-height: 64px; flex-wrap: wrap; padding-block: 10px; }
+  .mark { font-weight: 800; font-stretch: 75%; font-size: 1.55rem; line-height: 1; letter-spacing: -0.01em; text-transform: uppercase; margin: 0; white-space: nowrap; }
+  .status { flex: 1; min-width: 0; font-size: .875rem; color: var(--band-muted); display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  .status b { color: var(--band-ink); font-weight: 600; }
+  .status .alert { color: var(--band-red); }
+  .status .fresh.has b { color: var(--band-red); }
+  .actions { display: flex; align-items: center; gap: 16px; }
+  .actions a { color: var(--band-muted); font-size: .875rem; text-decoration: none; }
+  .actions a:hover { color: var(--band-ink); text-decoration: underline; }
+  .btn { font: 600 .875rem/1 var(--sans); display: inline-flex; align-items: center; gap: 8px; height: 36px; padding: 0 14px; border-radius: 6px; cursor: pointer; border: 1px solid var(--band-rule); background: transparent; color: var(--band-ink); transition: background .2s, border-color .2s; }
+  .btn:hover { background: var(--band-rule); }
+  .btn:disabled { cursor: wait; color: var(--band-muted); }
+  .btn:disabled svg { animation: spin .9s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Controls */
+  .controls { position: sticky; top: 0; z-index: 2; background: var(--ground); border-bottom: 1px solid var(--rule); }
+  .controls .wrap { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: center; padding-block: 12px; }
+  .search { flex: 1 1 260px; position: relative; display: flex; align-items: center; }
+  .search svg { position: absolute; left: 12px; color: var(--muted); pointer-events: none; }
+  input, select { font: inherit; font-size: .9375rem; color: var(--ink); background: var(--raise); border: 1px solid var(--rule); border-radius: 6px; height: 38px; }
+  input { width: 100%; padding: 0 12px 0 36px; }
+  input::placeholder { color: var(--muted); }
+  select { padding: 0 32px 0 12px; appearance: none; cursor: pointer; background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%); background-position: calc(100% - 17px) 17px, calc(100% - 12px) 17px; background-size: 5px 5px; background-repeat: no-repeat; max-width: 100%; }
+  input:hover, select:hover { border-color: var(--muted); }
+  .to-top { font: 600 .875rem/1 var(--sans); display: inline-flex; align-items: center; gap: 6px; height: 38px; padding: 0 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--raise); color: var(--ink); cursor: pointer; transition: opacity .2s, visibility .2s, border-color .2s; }
+  .to-top:hover { border-color: var(--muted); }
+  .to-top.away { opacity: 0; visibility: hidden; }
+  .tabs { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; background: var(--raise); padding: 3px; gap: 2px; }
+  .tab { white-space: nowrap; font: 600 .875rem/1 var(--sans); height: 30px; padding: 0 12px; border: 0; border-radius: 4px; background: transparent; color: var(--muted); cursor: pointer; }
+  .tab:hover { color: var(--ink); }
+  .tab[aria-pressed="true"] { background: var(--ink); color: var(--ground); }
+
+  /* Sections */
+  main { padding-bottom: 72px; }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 36px 0 10px; }
+  h2 { font-size: 1.25rem; font-weight: 800; font-stretch: 85%; margin: 0; letter-spacing: -0.01em; }
+  .section-head p { margin: 0; color: var(--muted); font-size: .875rem; }
+
+  /* Major labs: the signature lane */
+  .bulletins { border-top: 3px solid var(--red); }
+  .bulletins .row:first-child { border-top: 0; }
+  .bulletins .ex { display: none; }
+  .more { font: 600 .875rem var(--sans); color: var(--red); background: none; border: 0; border-top: 1px solid var(--rule); width: 100%; text-align: left; padding: 12px 0; cursor: pointer; }
+  .more:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  /* Wire rows */
+  .day { display: flex; justify-content: space-between; align-items: baseline; margin: 32px 0 0; padding-bottom: 8px; border-bottom: 2px solid var(--ink); }
+  .day h3 { margin: 0; font-size: .9375rem; font-weight: 700; font-stretch: 85%; text-transform: uppercase; letter-spacing: .02em; }
+  .day span { font-size: .8125rem; color: var(--muted); }
+  .row { display: grid; grid-template-columns: 4.25rem 6.5rem 10rem minmax(0, 1fr); gap: 0 16px; padding: 14px 0; border-top: 1px solid var(--rule); }
+  .day + .row { border-top: 0; }
+  .time { align-self: start; font-size: .8125rem; color: var(--muted); padding-top: 3px; display: flex; align-items: center; gap: 6px; }
+  .new-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--red); flex: none; }
+  .code { align-self: start; justify-self: start; font: 600 .6875rem/1 var(--mono); padding: 5px 6px; border-radius: 3px; margin-top: 2px; border: 1px solid currentColor; }
+  .code.major { background: var(--red); border-color: var(--red); color: var(--red-ink); }
+  .code.lab { color: var(--ochre); }
+  .code.paper { color: var(--blue); }
+  .code.press { color: var(--press); }
+  .code.repo { color: var(--green); }
+  .code.big { color: var(--violet); }
+  .src { font-size: .875rem; font-weight: 600; color: var(--muted); margin: 0; padding-top: 1px; }
+  .row.major .src { color: var(--red); }
+  .row a.title { display: block; font-size: 1.0625rem; line-height: 1.35; font-weight: 600; font-stretch: 87.5%; text-decoration: none; text-wrap: pretty; }
+  .row.major a.title { font-weight: 700; }
+  .row a.title:hover { text-decoration: underline; }
+  .ex { margin: 4px 0 0; color: var(--muted); font-size: .9375rem; max-width: 72ch; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .row.is-new { animation: arrive 1.6s cubic-bezier(.16, 1, .3, 1); }
+  @keyframes arrive { from { background: color-mix(in srgb, var(--red) 14%, transparent); } }
+  @media (prefers-reduced-motion: reduce) { .row.is-new, .btn:disabled svg { animation: none; } }
+
+  .empty { padding: 56px 0; text-align: center; color: var(--muted); }
+  .empty button { margin-top: 12px; font: 600 .875rem var(--sans); color: var(--ink); background: var(--raise); border: 1px solid var(--rule); border-radius: 6px; height: 36px; padding: 0 14px; cursor: pointer; }
+
+  /* Help */
+  .help { margin-top: 48px; border-top: 2px solid var(--ink); padding-top: 4px; font-size: .9375rem; }
+  .help summary { cursor: pointer; font-weight: 800; font-stretch: 85%; font-size: 1.25rem; padding: 10px 0; list-style-position: inside; }
+  .help li .code { display: inline-block; margin-right: 8px; }
+  .help ul.tags { list-style: none; padding-left: 0; }
+  .help ul.tags li { margin: 6px 0; }
+  .help h3 { font-size: 1rem; font-weight: 700; margin: 24px 0 6px; }
+  .help p, .help ul, .help ol { margin: 6px 0; max-width: 72ch; }
+  .help ul, .help ol { padding-left: 20px; }
+  .help a { color: var(--red); }
+  .help code, .help kbd, .help pre { font-family: var(--mono); font-size: .8125rem; background: var(--raise); border: 1px solid var(--rule); border-radius: 4px; }
+  .help code, .help kbd { padding: 1px 5px; }
+  .help pre { padding: 10px 12px; overflow-x: auto; white-space: pre-wrap; word-break: break-word; max-width: 72ch; }
+
+  @media (max-width: 640px) {
+    .wrap { padding: 0 16px; }
+    header .wrap { gap: 8px 16px; }
+    .status { order: 3; flex-basis: 100%; }
+    .actions { margin-left: auto; }
+    .tabs { flex: 1 1 100%; overflow-x: auto; scrollbar-width: none; } .tab { flex: 1 0 auto; padding: 0 6px; font-size: .8125rem; }
+    select { flex: 1; min-width: 0; }
+    .to-top { padding: 0 11px; } .to-top span { display: none; }
+    .row { grid-template-columns: auto auto minmax(0, 1fr); gap: 6px 10px; }
+    .row .body { grid-column: 1 / -1; }
+    .time { padding-top: 0; }
+    .code { margin-top: 0; }
+    .src { align-self: center; padding-top: 0; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1 class="mark">AI News Feed</h1>
+    <div class="status" id="status" aria-live="polite">Loading the wire…</div>
+    <div class="actions">
+      <a href="#about" id="about-link">About</a>
+      <button class="btn" id="refresh" type="button">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+        <span>Refresh</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <label class="search">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search headlines and excerpts" aria-label="Search">
+    </label>
+    <div class="tabs" id="cats" role="group" aria-label="Category"></div>
+    <select id="source" aria-label="Source"><option value="">All sources</option></select>
+    <button class="to-top" id="to-top" type="button" aria-label="Back to top" title="Back to top">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5"/><path d="m5 12 7-7 7 7"/></svg>
+      <span>Top</span>
+    </button>
+  </div>
+</div>
+
+<main class="wrap">
+  <section id="bulletin-section" hidden>
+    <div class="section-head">
+      <h2>Major labs</h2>
+      <p>Last 7 days</p>
+    </div>
+    <div class="bulletins" id="bulletins"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2 id="wire-title">The wire</h2>
+      <p id="wire-count"></p>
+    </div>
+    <div id="list"></div>
+  </section>
+
+  <details class="help" id="about">
+    <summary>About this site</summary>
+
+    <p>AI News Feed collects the latest AI research and release news from 29 sources into one page, so you can see in seconds what is new without visiting each site. Every item links to the original post; the short text under a headline is the source's own excerpt, never a summary written here.</p>
+
+    <h3>What's on the page</h3>
+    <ul>
+      <li><b>Header:</b> when the data was last fetched, how many items are new since your last visit, and which sources failed, if any. <b>Refresh</b> fetches every source again.</li>
+      <li><b>Major labs:</b> the four newest posts from the major labs in the last 7 days. <b>+N more</b> shows the rest. Hidden while you search or filter.</li>
+      <li><b>The wire:</b> every item, newest first, grouped by day. Search and the category and source filters narrow it.</li>
+    </ul>
+
+    <h3>Tags</h3>
+    <p>Each item gets one tag, decided only by who published it.</p>
+    <ul class="tags">
+      <li><span class="code major">MAJOR LAB</span> The four frontier labs: OpenAI, Anthropic (Claude), Google (DeepMind, Gemini, Google Research) and Meta. News, research and publications.</li>
+      <li><span class="code big">BIG TECH</span> Research from other big tech companies: Microsoft, Apple, Amazon, NVIDIA, IBM, Salesforce. NVIDIA and IBM are filtered to AI-related posts only.</li>
+      <li><span class="code lab">LAB</span> Independent AI companies: Mistral, xAI, Hugging Face, TypeSafe (Jev), Nous Research (Hermes).</li>
+      <li><span class="code paper">PAPER</span> Research papers and universities: arXiv cs.AI and cs.CL (papers about AI agents only, 30 newest per category), Hugging Face Daily Papers, Berkeley AI Research (BAIR).</li>
+      <li><span class="code press">PRESS</span> Tech news: The Verge, TechCrunch, MIT Technology Review.</li>
+      <li><span class="code repo">REPO</span> AI-related repositories on GitHub Trending today.</li>
+    </ul>
+
+    <h3>Reading a row</h3>
+    <ul>
+      <li>The left column is the publish time in your time zone, or the age (<code>11h</code>, <code>2d</code>) in the Major labs section.</li>
+      <li><code>—</code> means the source gives a date but no time. <code>est.</code> means the source page has no date, so the item is dated the day it was first seen and listed last in that day.</li>
+      <li>A red dot marks an item that is new since your last visit. This is remembered by your browser only.</li>
+      <li>GitHub repositories are dated the day they first appeared on Trending.</li>
+    </ul>
+
+    <h3>How fresh is it</h3>
+    <p>Items older than 60 days drop off. On your own computer, Refresh fetches live. When published online, the data updates once an hour and Refresh only reloads it.</p>
+  </details>
+
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const CATS = [["", "All"], ["Major Lab", "Major labs"], ["Big Tech", "Big Tech"], ["Lab", "Labs"], ["Paper", "Papers"], ["Press", "Press"], ["GitHub", "GitHub"]];
+const TAGS = {"Major Lab": "MAJOR LAB", "Big Tech": "BIG TECH", Lab: "LAB", Paper: "PAPER", Press: "PRESS", GitHub: "REPO"};
+let items = [], cat = "", seen = null, failed = [], showAll = false;
+
+const store = {
+  get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+};
+
+function el(tag, props = {}, ...kids) {
+  const e = Object.assign(document.createElement(tag), props);
+  e.append(...kids.filter(k => k !== null && k !== ""));
+  return e;
+}
+
+function code(i) {
+  return TAGS[i.category] || "WIRE";
+}
+
+function timeOf(i) {
+  const d = new Date(i.date);
+  // Date-only feeds publish midnight UTC; a clock time there would be invented.
+  if (d.getUTCHours() === 0 && d.getUTCMinutes() === 0) return "—";
+  return d.toLocaleTimeString("en-GB", {hour: "2-digit", minute: "2-digit"});
+}
+
+function ago(i) {
+  const h = (Date.now() - new Date(i.date)) / 36e5;
+  if (h < 1) return "now";
+  if (h < 24) return Math.floor(h) + "h";
+  return Math.floor(h / 24) + "d";
+}
+
+const norm = t => (t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+
+function row(i, bulletin) {
+  const c = code(i), isNew = seen && !seen.has(i.url);
+  const when = i.date_estimated ? "est." : bulletin ? ago(i) : timeOf(i);
+  const ex = i.excerpt && norm(i.excerpt) !== norm(i.title) ? i.excerpt : "";
+  return el("article", {className: "row" + (c === "MAJOR LAB" ? " major" : "") + (isNew ? " is-new" : "")},
+    el("div", {className: "time num", title: i.date_estimated ? "No date on the source page; first seen " + new Date(i.date).toLocaleString("en-US") : new Date(i.date).toLocaleString("en-US")},
+      isNew ? el("span", {className: "new-dot", title: "New since your last visit"}) : null,
+      when),
+    el("span", {className: "code " + c.split(" ")[0].toLowerCase()}, c),
+    el("p", {className: "src", textContent: i.source}),
+    el("div", {className: "body"},
+      el("a", {className: "title", href: i.url, target: "_blank", rel: "noopener", textContent: i.title}),
+      ex ? el("p", {className: "ex", textContent: ex}) : null));
+}
+
+function render() {
+  const q = $("q").value.trim().toLowerCase(), src = $("source").value;
+  const filtering = q || cat || src;
+  const shown = items.filter(i =>
+    (!cat || i.category === cat) && (!src || i.source === src) &&
+    (!q || (i.title + " " + i.excerpt + " " + i.source).toLowerCase().includes(q)));
+  // Undated items keep their day but sink to its end, so first-seen time never tops the wire.
+  const dayKey = i => { const d = new Date(i.date); return d.getFullYear() * 1e4 + d.getMonth() * 100 + d.getDate(); };
+  shown.sort((a, b) => dayKey(b) - dayKey(a) || !!a.date_estimated - !!b.date_estimated);
+
+  const week = Date.now() - 7 * 864e5;
+  // Undated items would claim false recency here, so they only appear in the wire.
+  const bulletins = items.filter(i => i.category === "Major Lab" && !i.date_estimated && new Date(i.date) >= week);
+  const visible = showAll ? bulletins : bulletins.slice(0, 4);
+  $("bulletin-section").hidden = filtering || !bulletins.length;
+  $("bulletins").replaceChildren(...visible.map(i => row(i, true)));
+  if (bulletins.length > 4) {
+    const more = el("button", {className: "more", type: "button",
+      textContent: showAll ? "Show fewer" : `+${bulletins.length - 4} more from major labs`});
+    more.onclick = () => { showAll = !showAll; render(); };
+    $("bulletins").append(more);
+  }
+
+  $("wire-title").textContent = filtering ? "Results" : "The wire";
+  $("wire-count").textContent = `${shown.length} item${shown.length === 1 ? "" : "s"}`;
+  const list = $("list");
+  list.replaceChildren();
+  if (!shown.length) {
+    const clear = el("button", {type: "button", textContent: "Clear filters"});
+    clear.onclick = () => { $("q").value = ""; $("source").value = ""; setCat(""); };
+    return list.append(el("div", {className: "empty"},
+      el("p", {textContent: items.length ? "Nothing on the wire matches these filters." : "No items yet. Press Refresh to fetch the sources."}),
+      items.length ? clear : null));
+  }
+  let day = "", count = null;
+  for (const i of shown) {
+    const d = new Date(i.date).toLocaleDateString("en-GB", {weekday: "long", day: "numeric", month: "long", year: "numeric"});
+    if (d !== day) {
+      count = el("span", {className: "num"});
+      list.append(el("div", {className: "day"}, el("h3", {textContent: day = d}), count));
+      count.n = 0;
+    }
+    count.textContent = `${++count.n}`;
+    list.append(row(i));
+  }
+}
+
+function setCat(c) {
+  cat = c;
+  document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-pressed", t.dataset.cat === c));
+  render();
+}
+
+function status(note) {
+  const s = $("status");
+  const fresh = seen ? items.filter(i => !seen.has(i.url)).length : 0;
+  s.replaceChildren(
+    el("span", {}, "Updated ", el("b", {className: "num", textContent: new Date(window.updated).toLocaleString("en-US", {month: "short", day: "numeric", hour: "numeric", minute: "2-digit"})})),
+    el("span", {className: "fresh" + (fresh ? " has" : "")}, el("b", {className: "num", textContent: fresh}), " new since last visit"),
+    failed.length
+      ? el("span", {className: "alert", textContent: `Unavailable: ${failed.join(", ")}`})
+      : el("span", {}, el("b", {className: "num", textContent: new Set(items.map(i => i.source)).size}), " sources reporting"),
+    note ? el("span", {className: "alert", textContent: note}) : "");
+}
+
+function load(note) {
+  return fetch("items.json", {cache: "no-cache"}).then(r => r.json()).then(data => {
+    items = data.items;
+    failed = data.failed;
+    window.updated = data.updated;
+    const prev = store.get("seen");
+    seen = prev ? new Set(prev) : null;
+    store.set("seen", [...new Set([...(prev || []), ...items.map(i => i.url)])].slice(-2000));
+    const picked = $("source").value;
+    $("source").replaceChildren(el("option", {value: "", textContent: "All sources"}),
+      ...[...new Set(items.map(i => i.source))].sort().map(s => el("option", {value: s, textContent: s})));
+    $("source").value = picked;
+    status(note);
+    render();
+  }).catch(e => {
+    $("status").replaceChildren(el("span", {className: "alert", textContent: "Could not load items.json. Start the site by double-clicking launch.command."}));
+    render();
+  });
+}
+
+for (const [c, label] of CATS) {
+  const t = el("button", {className: "tab", type: "button", textContent: label});
+  t.dataset.cat = c;
+  t.setAttribute("aria-pressed", c === cat);
+  t.onclick = () => setCat(c);
+  $("cats").append(t);
+}
+
+// POST /refresh exists only under serve.py; on static hosting just reload items.json.
+$("refresh").onclick = async () => {
+  const btn = $("refresh"), label = btn.querySelector("span");
+  btn.disabled = true;
+  label.textContent = "Fetching…";
+  let note = "";
+  try {
+    const r = await fetch("refresh", {method: "POST"});
+    if (r.status === 409) note = "A refresh is already running.";
+    else if (!r.ok) note = "Live fetch unavailable here; showing saved data.";
+  } catch { note = "Live fetch unavailable here; showing saved data."; }
+  await load(note);
+  btn.disabled = false;
+  label.textContent = "Refresh";
+};
+
+$("about-link").onclick = () => { $("about").open = true; };
+$("q").oninput = $("source").onchange = render;
+const toTop = $("to-top");
+toTop.onclick = () => {
+  window.scrollTo({top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"});
+};
+// Only useful once the page has scrolled; space stays reserved so the bar doesn't shift.
+const syncTop = () => toTop.classList.toggle("away", scrollY < 300);
+addEventListener("scroll", syncTop, {passive: true});
+syncTop();
+load();
+</script>
+</body>
+</html>
