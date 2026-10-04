@@ -1,9 +1,25 @@
 {
- "updated": "2026-10-04T17:41:26+00:00",
+ "updated": "2026-10-04T21:36:09+00:00",
  "failed": [],
  "items": [
   {
-   "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "date": "2026-10-04T20:31:07+00:00",
+   "excerpt": "AI slop seems to be overwhelming bug bounty programs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+   "date": "2026-10-04T20:08:34+00:00",
+   "excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
    "date": "2026-10-04T16:16:04+00:00",
    "excerpt": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particular…",
@@ -1124,10 +1140,10 @@
    "category": "Major Lab"
   },
   {
-   "title": "Oct 1, 2026ScienceClaude-shaped science",
+   "title": "Claude-shaped science",
    "url": "https://www.anthropic.com/research/claude-shaped-science",
    "date": "2026-10-01T00:00:00+00:00",
-   "excerpt": "Oct 1, 2026ScienceClaude-shaped science",
+   "excerpt": "Claude-shaped science",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1372,10 +1388,10 @@
    "category": "Major Lab"
   },
   {
-   "title": "Sep 30, 2026EconomicsWhat work can robots do?",
+   "title": "What work can robots do?",
    "url": "https://www.anthropic.com/research/what-work-can-robots-do",
    "date": "2026-09-30T00:00:00+00:00",
-   "excerpt": "Sep 30, 2026EconomicsWhat work can robots do?",
+   "excerpt": "What work can robots do?",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1500,18 +1516,18 @@
    "category": "Major Lab"
   },
   {
-   "title": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
    "date": "2026-09-29T00:00:00+00:00",
-   "excerpt": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+   "excerpt": "GLM-5.3 and the spread of advanced cyber capabilities",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
   {
-   "title": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+   "title": "What do you want from AI?",
    "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
    "date": "2026-09-29T00:00:00+00:00",
-   "excerpt": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+   "excerpt": "What do you want from AI?",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1644,6 +1660,14 @@
    "category": "Big Tech"
   },
   {
+   "title": "Team Bots: shared AI teammates that learn as they work",
+   "url": "https://x.ai/news/team-bots",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "Team Bots: shared AI teammates that learn as they work",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
    "url": "https://openai.com/index/proaction",
    "date": "2026-09-25T19:00:00+00:00",
@@ -1668,10 +1692,10 @@
    "category": "Press"
   },
   {
-   "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+   "title": "Yes, Claude can do Nine Loops",
    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
    "date": "2026-09-25T00:00:00+00:00",
-   "excerpt": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+   "excerpt": "Yes, Claude can do Nine Loops",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1716,10 +1740,10 @@
    "category": "Lab"
   },
   {
-   "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+   "title": "Project Swap: What happens when agents trade for us?",
    "url": "https://www.anthropic.com/research/project-swap",
    "date": "2026-09-24T00:00:00+00:00",
-   "excerpt": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+   "excerpt": "Project Swap: What happens when agents trade for us?",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1839,8 +1863,8 @@
    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
    "date": "2026-09-23T00:00:00+00:00",
-   "excerpt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "source": "Anthropic",
+   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists.",
+   "source": "Anthropic Research",
    "category": "Major Lab"
   },
   {
@@ -1908,6 +1932,14 @@
    "category": "Lab"
   },
   {
+   "title": "How SpaceXAI is using Grok Bot to scale customer support",
+   "url": "https://x.ai/news/grok-bot-customer-support",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "How SpaceXAI is using Grok Bot to scale customer support",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "Amazon launches research initiative with Stanford University to advance AI and science",
    "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
    "date": "2026-09-21T19:31:59+00:00",
@@ -1948,6 +1980,14 @@
    "category": "Lab"
   },
   {
+   "title": "Introducing Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Sep 21, 2026",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
    "date": "2026-09-18T17:46:09+00:00",
@@ -1962,6 +2002,14 @@
    "excerpt": "Partnering with Accenture on embedded evaluation",
    "source": "Anthropic",
    "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Grok Voice Transcribe 2.0",
+   "url": "https://x.ai/news/grok-voice-transcribe-2",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Introducing Grok Voice Transcribe 2.0",
+   "source": "xAI",
+   "category": "Lab"
   },
   {
    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
@@ -1980,10 +2028,18 @@
    "category": "Major Lab"
   },
   {
-   "title": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+   "title": "How Claude is uplifting biomolecular modeling",
    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
    "date": "2026-09-17T00:00:00+00:00",
-   "excerpt": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+   "excerpt": "How Claude is uplifting biomolecular modeling",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Measurements for understanding the pace of AI development inside frontier labs",
+   "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -2010,6 +2066,14 @@
    "excerpt": "",
    "source": "Google DeepMind Research",
    "category": "Major Lab"
+  },
+  {
+   "title": "Memory in Grok Build",
+   "url": "https://x.ai/news/grok-build-memory",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Memory in Grok Build",
+   "source": "xAI",
+   "category": "Lab"
   },
   {
    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
@@ -2116,10 +2180,10 @@
    "category": "Lab"
   },
   {
-   "title": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+   "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
    "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
    "date": "2026-09-10T00:00:00+00:00",
-   "excerpt": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+   "excerpt": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -2156,10 +2220,10 @@
    "category": "Lab"
   },
   {
-   "title": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party…",
+   "title": "An alignment assessment of recent cybersecurity incidents",
    "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
    "date": "2026-09-09T00:00:00+00:00",
-   "excerpt": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+   "excerpt": "An alignment assessment of recent cybersecurity incidents",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -2212,12 +2276,20 @@
    "category": "Major Lab"
   },
   {
-   "title": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the pro…",
+   "title": "Formalizing Fermat's Last Theorem",
    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
    "date": "2026-09-04T00:00:00+00:00",
-   "excerpt": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+   "excerpt": "Formalizing Fermat's Last Theorem",
    "source": "Anthropic Research",
    "category": "Major Lab"
+  },
+  {
+   "title": "Setting Grok Bot loose on procurement",
+   "url": "https://x.ai/news/grok-bot-procurement",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
+   "source": "xAI",
+   "category": "Lab"
   },
   {
    "title": "Transfer learning for genomic prediction in underrepresented populations",
@@ -2281,6 +2353,22 @@
    "date": "2026-09-03T00:00:00+00:00",
    "excerpt": "",
    "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Grok Bot for Enterprise",
+   "url": "https://x.ai/news/grok-bot-for-enterprise",
+   "date": "2026-09-03T00:00:00+00:00",
+   "excerpt": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
+   "title": "Designing Grok Bot for a world of persistent agents",
+   "url": "https://x.ai/news/designing-grok-bot",
+   "date": "2026-09-03T00:00:00+00:00",
+   "excerpt": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+   "source": "xAI",
    "category": "Lab"
   },
   {
@@ -2356,6 +2444,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Biosecurity at the frontier",
+   "url": "https://x.ai/news/biosafety-at-the-frontier",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
    "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
    "date": "2026-08-31T17:19:40+00:00",
@@ -2388,12 +2484,28 @@
    "category": "Major Lab"
   },
   {
+   "title": "Grok Bot now works with X",
+   "url": "https://x.ai/news/grok-bot-and-x",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Grok Bot now has a tighter integration with X.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "What happens when information theory accounts for reasoning?",
    "url": "https://research.ibm.com/blog/information-theory-meaning?utm_medium=rss&utm_source=rss",
    "date": "2026-08-28T12:00:00+00:00",
    "excerpt": "",
    "source": "IBM Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Automated researchers can reliably mitigate alignment failures",
+   "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Automated researchers can reliably mitigate alignment failures",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "Planetary prediction engine: Automating global models via Earth AI",
@@ -2468,6 +2580,30 @@
    "category": "Major Lab"
   },
   {
+   "title": "Enabling independent research on how people use Claude",
+   "url": "https://www.anthropic.com/research/enabling-independent-research",
+   "date": "2026-08-26T00:00:00+00:00",
+   "excerpt": "Enabling independent research on how people use Claude",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Grok Bot is now included with more plans",
+   "url": "https://x.ai/news/grok-bot-more-plans",
+   "date": "2026-08-26T00:00:00+00:00",
+   "excerpt": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
+   "title": "Grok 4.6 on Microsoft Foundry",
+   "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
+   "date": "2026-08-26T00:00:00+00:00",
+   "excerpt": "Grok 4.6 is now available via Microsoft Foundry.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
    "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
    "date": "2026-08-25T19:10:59+00:00",
@@ -2532,6 +2668,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+   "url": "https://x.ai/news/grok-4-6-vertex-ai",
+   "date": "2026-08-21T00:00:00+00:00",
+   "excerpt": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "Broadening access to Skala creates a faster path to predictive DFT",
    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
    "date": "2026-08-20T16:00:00+00:00",
@@ -2546,6 +2690,30 @@
    "excerpt": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
    "source": "Mistral",
    "category": "Lab"
+  },
+  {
+   "title": "Grok Build on web and mobile",
+   "url": "https://x.ai/news/grok-build-for-everyone",
+   "date": "2026-08-19T00:00:00+00:00",
+   "excerpt": "Grok Build is now available on every plan, on the web and on mobile.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
+   "title": "Grok 4.6 on Amazon Bedrock",
+   "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+   "date": "2026-08-19T00:00:00+00:00",
+   "excerpt": "Grok 4.6 is now available via Amazon Bedrock.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
+   "title": "How Claude is accelerating protein design and analytical chemistry",
+   "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+   "date": "2026-08-18T00:00:00+00:00",
+   "excerpt": "How Claude is accelerating protein design and analytical chemistry",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
@@ -2564,11 +2732,27 @@
    "category": "Major Lab"
   },
   {
+   "title": "Grok 4.6 in GitHub Copilot",
+   "url": "https://x.ai/news/grok-4-6-github-copilot",
+   "date": "2026-08-14T00:00:00+00:00",
+   "excerpt": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "Introducing Gemini 3.7 Flash",
    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
    "date": "2026-08-13T17:04:18+00:00",
    "excerpt": "",
    "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Patterns and problems in emerging multiagent systems",
+   "url": "https://www.anthropic.com/research/multiagent-systems",
+   "date": "2026-08-13T00:00:00+00:00",
+   "excerpt": "Patterns and problems in emerging multiagent systems",
+   "source": "Anthropic Research",
    "category": "Major Lab"
   },
   {
@@ -2612,6 +2796,22 @@
    "category": "Major Lab"
   },
   {
+   "title": "Reviewing the evidence on worker retraining programs",
+   "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+   "date": "2026-08-12T00:00:00+00:00",
+   "excerpt": "Reviewing the evidence on worker retraining programs",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Grok 4.6",
+   "url": "https://x.ai/news/grok-4-6",
+   "date": "2026-08-12T00:00:00+00:00",
+   "excerpt": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
    "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
    "date": "2026-08-11T17:04:00+00:00",
@@ -2652,12 +2852,28 @@
    "category": "Lab"
   },
   {
+   "title": "Introducing Grok Bot",
+   "url": "https://x.ai/news/introducing-grok-bot",
+   "date": "2026-08-11T00:00:00+00:00",
+   "excerpt": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+   "source": "xAI",
+   "category": "Lab"
+  },
+  {
    "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
    "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
    "date": "2026-08-10T20:23:04+00:00",
    "excerpt": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
    "source": "Amazon Science",
    "category": "Big Tech"
+  },
+  {
+   "title": "Learning more about Claude's mathematical capabilities",
+   "url": "https://www.anthropic.com/research/riemann-zeta",
+   "date": "2026-08-10T00:00:00+00:00",
+   "excerpt": "Learning more about Claude's mathematical capabilities",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "5 AI Service Report Insights for Growing Businesses",
@@ -2674,6 +2890,14 @@
    "excerpt": "Improving Fable 5's biology safeguards",
    "source": "Anthropic",
    "category": "Major Lab"
+  },
+  {
+   "title": "Imagine Image 2.0",
+   "url": "https://x.ai/news/grok-imagine-image-2",
+   "date": "2026-08-07T00:00:00+00:00",
+   "excerpt": "Precise image generation and editing, built for real creative work.",
+   "source": "xAI",
+   "category": "Lab"
   },
   {
    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
