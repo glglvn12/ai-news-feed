@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-04T13:16:53+00:00",
+ "updated": "2026-10-04T17:41:26+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+   "date": "2026-10-04T16:16:04+00:00",
+   "excerpt": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particular…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "date": "2026-10-04T15:21:59+00:00",
+   "excerpt": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off a…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Trump unveils his new Super Intelligence Force",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "date": "2026-10-04T15:15:10+00:00",
+   "excerpt": "This new task force is Trump's latest response to the debate over AI safety.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
@@ -14,7 +38,7 @@
    "title": "calesthio/OpenMontage",
    "url": "https://github.com/calesthio/OpenMontage",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 292 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "excerpt": "Python · 361 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -206,7 +230,7 @@
    "title": "coreyhaines31/marketingskills",
    "url": "https://github.com/coreyhaines31/marketingskills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 345 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "excerpt": "JavaScript · 270 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2658,14 +2682,6 @@
    "excerpt": "",
    "source": "Google DeepMind",
    "category": "Major Lab"
-  },
-  {
-   "title": "34 Amazon Research Awards Build on Trainium recipients announced",
-   "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
-   "date": "2026-08-05T15:00:00+00:00",
-   "excerpt": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
   }
  ]
 }
