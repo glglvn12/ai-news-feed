@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-04T07:00:46+00:00",
+ "updated": "2026-10-04T13:16:53+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "earthtojake/text-to-cad",
+   "url": "https://github.com/earthtojake/text-to-cad",
+   "date": "2026-10-04T13:16:53+00:00",
+   "excerpt": "Python · 75 stars today — Give your agent CAD superpowers.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "calesthio/OpenMontage",
+   "url": "https://github.com/calesthio/OpenMontage",
+   "date": "2026-10-04T13:16:53+00:00",
+   "excerpt": "Python · 292 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "garrytan/gstack",
+   "url": "https://github.com/garrytan/gstack",
+   "date": "2026-10-04T13:16:53+00:00",
+   "excerpt": "TypeScript · 121 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "antirez/ds4",
+   "url": "https://github.com/antirez/ds4",
+   "date": "2026-10-04T13:16:53+00:00",
+   "excerpt": "C · 211 stars today — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
   {
    "title": "The Agent Said It Was Done. The Database Disagreed.",
    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -54,7 +86,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 79 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 627 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +102,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 252 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 336 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -118,7 +150,7 @@
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 1,696 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 979 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -142,7 +174,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,281 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 1,894 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -150,7 +182,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 699 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "JavaScript · 1,170 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -174,7 +206,7 @@
    "title": "coreyhaines31/marketingskills",
    "url": "https://github.com/coreyhaines31/marketingskills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 140 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "excerpt": "JavaScript · 345 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
