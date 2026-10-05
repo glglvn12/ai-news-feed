@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-04T21:36:09+00:00",
+ "updated": "2026-10-05T01:01:43+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "michael-denyer/pstack-claude",
+   "url": "https://github.com/michael-denyer/pstack-claude",
+   "date": "2026-10-05T01:01:43+00:00",
+   "excerpt": "JavaScript · 232 stars today — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
   {
    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
@@ -46,7 +54,7 @@
    "title": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 75 stars today — Give your agent CAD superpowers.",
+   "excerpt": "Python · 83 stars today — Give your agent CAD superpowers.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -54,7 +62,7 @@
    "title": "calesthio/OpenMontage",
    "url": "https://github.com/calesthio/OpenMontage",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 361 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "excerpt": "Python · 245 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +70,7 @@
    "title": "garrytan/gstack",
    "url": "https://github.com/garrytan/gstack",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "TypeScript · 121 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "excerpt": "TypeScript · 125 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -126,7 +134,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 627 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 628 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -190,7 +198,7 @@
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 979 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 980 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -222,7 +230,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,170 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "JavaScript · 1,171 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -246,7 +254,7 @@
    "title": "coreyhaines31/marketingskills",
    "url": "https://github.com/coreyhaines31/marketingskills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 270 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "excerpt": "JavaScript · 197 stars today — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
