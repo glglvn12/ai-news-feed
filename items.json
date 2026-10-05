@@ -1,12 +1,116 @@
 {
- "updated": "2026-10-05T16:08:56+00:00",
+ "updated": "2026-10-05T22:44:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+   "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+   "date": "2026-10-05T21:08:31+00:00",
+   "excerpt": "Education Innovation",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+   "date": "2026-10-05T20:36:48+00:00",
+   "excerpt": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "This startup is issuing AI-generated acne prescriptions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+   "date": "2026-10-05T20:14:57+00:00",
+   "excerpt": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloo…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "date": "2026-10-05T19:33:53+00:00",
+   "excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "All the drama around AI’s takeover of mathematics",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+   "date": "2026-10-05T19:28:59+00:00",
+   "excerpt": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in clas…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+   "date": "2026-10-05T19:05:19+00:00",
+   "excerpt": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+   "date": "2026-10-05T18:54:30+00:00",
+   "excerpt": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+   "date": "2026-10-05T18:29:00+00:00",
+   "excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+   "date": "2026-10-05T18:08:39+00:00",
+   "excerpt": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the wate…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+   "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+   "date": "2026-10-05T17:29:22+00:00",
+   "excerpt": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+   "date": "2026-10-05T16:55:42+00:00",
+   "excerpt": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+   "date": "2026-10-05T16:44:21+00:00",
+   "excerpt": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+   "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+   "date": "2026-10-05T16:43:35+00:00",
+   "excerpt": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "msitarzewski/agency-agents",
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-10-05T16:08:56+00:00",
-   "excerpt": "Shell · 595 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+   "excerpt": "Shell · 687 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +126,7 @@
    "title": "OpenAI launches visual ads that appear alongside image generation results",
    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
    "date": "2026-10-05T15:14:24+00:00",
-   "excerpt": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+   "excerpt": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -593,6 +697,14 @@
    "excerpt": "JavaScript · 222 stars today — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
+   "url": "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built. Despite decades of scholarship around systems that enable such authorship, these syst…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
   },
   {
    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -1700,6 +1812,38 @@
    "category": "Paper"
   },
   {
+   "title": "Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing",
+   "url": "https://huggingface.co/papers/2610.02772",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Large language models (LLMs) increasingly serve as general-purpose interfaces to factual knowledge, but their parameters do not automatically reflect information that changes after pretraining. Knowledge editing (KE) provides a targeted alternative to costly retraining by modifying selected knowled…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Self-Supervised Scaling of Terminal Environments for Scientific Domains",
+   "url": "https://huggingface.co/papers/2610.02710",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Terminal agents are increasingly deployed beyond software engineering in science and other specialized domains. Constructing training environments requires executable reference behavior and a domain-specific verifier that distinguishes semantic correctness from superficially plausible artifacts. Au…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+   "url": "https://huggingface.co/papers/2610.03710",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images ar…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+   "url": "https://huggingface.co/papers/2610.03715",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, b…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Google’s new Guided Vision feature can help you read the fine print",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
    "date": "2026-10-01T19:47:51+00:00",
@@ -2100,6 +2244,30 @@
    "category": "Paper"
   },
   {
+   "title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+   "url": "https://huggingface.co/papers/2610.01780",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "A companion that talks with a person for months should come to understand them. It should remember what they said, infer who they are, and know when the past bears on the message in front of it. Testing this requires a real person's record, and such records are private, so benchmarks generate the p…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2610.02381",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "On-policy distillation (OPD) trains a student on the responses it generates. Existing LLM multi-teacher OPD transfers what specialists predict through their output distributions. We introduce Latent-MOPD, to our knowledge the first representation-level multi-teacher OPD method for LLMs. It integrat…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2610.02179",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Qwen3-1.7B with four domain teachers trained with RL from the same initialization as the student, co…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
    "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
    "date": "2026-09-30T19:13:02+00:00",
@@ -2489,6 +2657,14 @@
    "date": "2026-09-25T00:00:00+00:00",
    "excerpt": "Yes, Claude can do Nine Loops",
    "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+   "url": "https://openai.com/index/wayfair",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+   "source": "OpenAI",
    "category": "Major Lab"
   },
   {
