@@ -1,7 +1,135 @@
 {
- "updated": "2026-10-05T07:10:04+00:00",
+ "updated": "2026-10-05T16:08:56+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "msitarzewski/agency-agents",
+   "url": "https://github.com/msitarzewski/agency-agents",
+   "date": "2026-10-05T16:08:56+00:00",
+   "excerpt": "Shell · 595 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Connecting AI agents to enterprise knowledge",
+   "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+   "date": "2026-10-05T15:47:52+00:00",
+   "excerpt": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to r…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI launches visual ads that appear alongside image generation results",
+   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+   "date": "2026-10-05T15:14:24+00:00",
+   "excerpt": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Our approach to EU text provenance rules",
+   "url": "https://openai.com/index/eu-text-provenance",
+   "date": "2026-10-05T15:00:00+00:00",
+   "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+   "date": "2026-10-05T15:00:00+00:00",
+   "excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+   "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+   "date": "2026-10-05T14:35:09+00:00",
+   "excerpt": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+   "date": "2026-10-05T14:30:00+00:00",
+   "excerpt": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+   "date": "2026-10-05T14:30:00+00:00",
+   "excerpt": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+   "date": "2026-10-05T14:00:00+00:00",
+   "excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+   "date": "2026-10-05T13:47:14+00:00",
+   "excerpt": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk,…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Bringing predictive analytics to the agentic AI era",
+   "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+   "date": "2026-10-05T13:29:32+00:00",
+   "excerpt": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from p…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI is sticking more ads in ChatGPT",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+   "date": "2026-10-05T13:09:48+00:00",
+   "excerpt": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to C…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+   "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+   "date": "2026-10-05T12:00:00+00:00",
+   "excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Building advertising for the way people use AI",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "date": "2026-10-05T10:00:00+00:00",
+   "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Our minds aren’t equipped to handle AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+   "date": "2026-10-05T10:00:00+00:00",
+   "excerpt": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turin…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "People really hate AI, so why can’t they get enough?",
+   "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+   "date": "2026-10-05T08:00:00+00:00",
+   "excerpt": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
    "url": "https://arxiv.org/abs/2610.02267",
@@ -451,10 +579,18 @@
    "category": "Paper"
   },
   {
+   "title": "EmTech Future 2026: When AI Meets Everything",
+   "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+   "date": "2026-10-05T04:00:00+00:00",
+   "excerpt": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp a…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
    "title": "michael-denyer/pstack-claude",
    "url": "https://github.com/michael-denyer/pstack-claude",
    "date": "2026-10-05T01:01:43+00:00",
-   "excerpt": "JavaScript · 232 stars today — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+   "excerpt": "JavaScript · 222 stars today — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -502,7 +638,7 @@
    "title": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 83 stars today — Give your agent CAD superpowers.",
+   "excerpt": "Python · 456 stars today — Give your agent CAD superpowers.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -510,7 +646,7 @@
    "title": "calesthio/OpenMontage",
    "url": "https://github.com/calesthio/OpenMontage",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 245 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "excerpt": "Python · 758 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -582,7 +718,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 628 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 534 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -590,7 +726,7 @@
    "title": "cloudflare/cloudflare-os",
    "url": "https://github.com/cloudflare/cloudflare-os",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 85 stars today — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+   "excerpt": "TypeScript · 102 stars today — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -646,7 +782,7 @@
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 980 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 1,156 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1508,6 +1644,62 @@
    "category": "Paper"
   },
   {
+   "title": "Language Models that Play Chess and Explain Their Moves",
+   "url": "https://huggingface.co/papers/2610.03695",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+   "url": "https://huggingface.co/papers/2610.03675",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization sho…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+   "url": "https://huggingface.co/papers/2610.03367",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "We understand little about how capabilities acquired in one language carry over to another, or what governs this transfer: evaluations rely on incomparable, saturation-prone datasets and rarely examine its determinants jointly. Identifying what predicts transfer would let us avoid exhaustive evalua…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+   "url": "https://huggingface.co/papers/2610.03240",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment. Despite recent advances, LLMs often perpetuate or amplify bias embedded in their training data, posing challenges to fairness. While self-debiasing…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability",
+   "url": "https://huggingface.co/papers/2610.03509",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Chain-of-thought (CoT) reasoning allows humans to inspect how large language models reach their answers, and oversee model behaviour. This reasoning comes at an increased inference cost, motivating efficient methods that train models to solve tasks using fewer tokens. However, a common concern is t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Native Action-Prior Learning from Videos for World Action Models",
+   "url": "https://huggingface.co/papers/2610.03391",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "World action models integrate future visual dynamics with robot action prediction, but their scalability remains limited by the need for action-annotated robot trajectories. Observation-only videos contain rich evidence about interaction dynamics, but existing approaches typically use them either t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+   "url": "https://huggingface.co/papers/2610.03665",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and s…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Google’s new Guided Vision feature can help you read the fine print",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
    "date": "2026-10-01T19:47:51+00:00",
@@ -1876,6 +2068,38 @@
    "category": "Paper"
   },
   {
+   "title": "World Action Modeling with Progressive Visual Planning",
+   "url": "https://huggingface.co/papers/2610.02508",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "World action models (WAMs) have emerged as a promising paradigm for robotic control by jointly predicting future visual dynamics and actions from an initial observation and instruction. However, existing WAMs struggle with long-horizon prediction, as generating dense video rollouts is highly ineffi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory",
+   "url": "https://huggingface.co/papers/2610.02521",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Long-video generation and world models have shown strong potential for interactive entertainment and embodied simulation by predicting future observations conditioned on user actions and historical memory. However, as memory sequences grow longer and their structures become increasingly complex, ma…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
+   "url": "https://huggingface.co/papers/2610.00972",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging. We study how verification capability can be strengthened with a fixed base model, without access to reference answers or grading rubrics at test time. Repeated sampling yields…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
+   "url": "https://huggingface.co/papers/2610.02486",
+   "date": "2026-09-30T20:00:00+00:00",
+   "excerpt": "Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whether biomedical sentence encoders trained for retrieval are good starting points for such models. We present SBERT2S1, which converts Sentence-Trans…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
    "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
    "date": "2026-09-30T19:13:02+00:00",
@@ -2225,6 +2449,14 @@
    "date": "2026-09-28T00:00:00+00:00",
    "excerpt": "Team Bots: shared AI teammates that learn as they work",
    "source": "xAI",
+   "category": "Lab"
+  },
+  {
+   "title": "Welcome RL Environments to the hub",
+   "url": "https://huggingface.co/blog/rl-environments",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
    "category": "Lab"
   },
   {
@@ -3458,14 +3690,6 @@
    "excerpt": "Precise image generation and editing, built for real creative work.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-   "date": "2026-08-06T15:06:15+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
   }
  ]
 }
