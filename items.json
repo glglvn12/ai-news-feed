@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-05T22:44:11+00:00",
+ "updated": "2026-10-06T03:05:30+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "date": "2026-10-05T23:09:55+00:00",
+   "excerpt": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes lat…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
@@ -110,7 +118,7 @@
    "title": "msitarzewski/agency-agents",
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-10-05T16:08:56+00:00",
-   "excerpt": "Shell · 687 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+   "excerpt": "Shell · 744 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -750,7 +758,7 @@
    "title": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 456 stars today — Give your agent CAD superpowers.",
+   "excerpt": "Python · 437 stars today — Give your agent CAD superpowers.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -758,7 +766,7 @@
    "title": "calesthio/OpenMontage",
    "url": "https://github.com/calesthio/OpenMontage",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 758 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "excerpt": "Python · 742 stars today — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -785,6 +793,22 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "ASCENT: Online Test-Time Training of Long-Horizon Agents via Self-Distillation of Verified Experience",
+   "url": "https://huggingface.co/papers/2610.05303",
+   "date": "2026-10-03T20:00:00+00:00",
+   "excerpt": "A large language model (LLM) agent solves long-horizon tasks through many reasoning-action turns, with one verification signal at termination. Deployed agents face streams of related tasks, making their trajectories a natural resource for improvement. In-context adaptation agents store reflections,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training",
+   "url": "https://huggingface.co/papers/2610.05416",
+   "date": "2026-10-03T20:00:00+00:00",
+   "excerpt": "Natively training joint video-audio generation models at higher resolutions empowers them to learn richer visual details and sharper motion dynamics. However, full attention incurs quadratic cost and, as resolution increases, spreads attention over increasingly redundant tokens, diluting learning s…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -838,7 +862,7 @@
    "title": "cloudflare/cloudflare-os",
    "url": "https://github.com/cloudflare/cloudflare-os",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 102 stars today — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+   "excerpt": "TypeScript · 101 stars today — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -894,7 +918,7 @@
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 1,156 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 1,155 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1042,6 +1066,22 @@
    "excerpt": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only d…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "PaLoRA: Paced Low-Rank Adaptation for Continual Learning",
+   "url": "https://huggingface.co/papers/2610.04226",
+   "date": "2026-10-02T20:00:00+00:00",
+   "excerpt": "LoRA-based continual learning methods mitigate catastrophic forgetting through various mechanisms, yet nearly all complement these with small learning rates as a heuristic to restrict gradient scaling magnitude. Such fixed heuristics lack theoretical guidance on how the strength of this restriction…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency",
+   "url": "https://huggingface.co/papers/2610.04318",
+   "date": "2026-10-02T20:00:00+00:00",
+   "excerpt": "Efficient long-video understanding with vision-language models (VLMs) is often framed as selecting informative frames or visual tokens at a fixed native resolution. We show that per-frame resolution can instead be traded for denser temporal coverage, while front-end decoding latency depends on the…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -1840,6 +1880,22 @@
    "url": "https://huggingface.co/papers/2610.03715",
    "date": "2026-10-01T20:00:00+00:00",
    "excerpt": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, b…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation",
+   "url": "https://huggingface.co/papers/2610.02840",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "World action models jointly learn to forecast world dynamics and predict robot actions, such that the learned internal world dynamics guide accurate actions. Existing approaches typically represent the world as RGB frames or latent counterparts while predicting actions as end-effector poses or join…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+   "url": "https://huggingface.co/papers/2610.04116",
+   "date": "2026-10-01T20:00:00+00:00",
+   "excerpt": "The prevailing approach to computer-use agents couples a model with a domain-specific harness: a browser or desktop environment equipped with human engineered tools that are fixed before task execution. As models' coding capabilities improve, the GUI native and static harness prevents them from dir…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -3850,22 +3906,6 @@
    "excerpt": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
    "source": "Salesforce AI Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "Improving Fable 5's biology safeguards",
-   "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-   "date": "2026-08-07T00:00:00+00:00",
-   "excerpt": "Improving Fable 5's biology safeguards",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Imagine Image 2.0",
-   "url": "https://x.ai/news/grok-imagine-image-2",
-   "date": "2026-08-07T00:00:00+00:00",
-   "excerpt": "Precise image generation and editing, built for real creative work.",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
