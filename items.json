@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-06T21:44:49+00:00",
+ "updated": "2026-10-07T01:38:01+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "OpenAI drops another batch of mathematical breakthroughs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+   "date": "2026-10-06T23:26:38+00:00",
+   "excerpt": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathe…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+   "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+   "date": "2026-10-06T22:34:03+00:00",
+   "excerpt": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "How AI decision models could change content moderation",
    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -46,7 +62,7 @@
    "title": "ayghri/i-have-adhd",
    "url": "https://github.com/ayghri/i-have-adhd",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "Python · 318 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+   "excerpt": "Python · 326 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -54,7 +70,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 2,963 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 2,956 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +78,7 @@
    "title": "deepseek-ai/DeepGEMM",
    "url": "https://github.com/deepseek-ai/DeepGEMM",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "Cuda · 363 stars today — DeepGEMM: clean and efficient BLAS kernel library on GPU",
+   "excerpt": "Cuda · 199 stars today — DeepGEMM: clean and efficient BLAS kernel library on GPU",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +86,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 227 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 228 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -169,6 +185,22 @@
    "excerpt": "",
    "source": "Mistral",
    "category": "Lab"
+  },
+  {
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading",
+   "date": "2026-10-06T12:00:00+00:00",
+   "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "date": "2026-10-06T12:00:00+00:00",
+   "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
   },
   {
    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
@@ -790,7 +822,7 @@
    "title": "msitarzewski/agency-agents",
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-10-05T16:08:56+00:00",
-   "excerpt": "Shell · 621 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+   "excerpt": "Shell · 623 stars today — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1587,6 +1619,22 @@
    "category": "Paper"
   },
   {
+   "title": "LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches",
+   "url": "https://huggingface.co/papers/2610.06647",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Reinforcement learning (RL) has greatly advanced the capabilities of large language models (LLMs), but its memory demands remain a barrier to broader adoption. We introduce LoGRA, an approach to RL post-training that reduces memory by retaining useful learning signals in low-rank gradient sketches.…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Capability-Driven Self-Evolution of Agent Memory",
+   "url": "https://huggingface.co/papers/2610.06361",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Memory self-evolution uses task feedback to iteratively improve executable memory programs that store and retrieve information from past interactions. Existing approaches typically adopt holistic evolution, deriving revision directions from mixed feedback and judging progress by overall performance…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
    "date": "2026-10-04T16:16:04+00:00",
@@ -1614,7 +1662,7 @@
    "title": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "Python · 620 stars today — Give your agent CAD superpowers.",
+   "excerpt": "Python · 619 stars today — Give your agent CAD superpowers.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1755,6 +1803,14 @@
    "category": "Press"
   },
   {
+   "title": "Agentic discovery of blood biomarker from distilled private health records",
+   "url": "https://huggingface.co/papers/2610.04749",
+   "date": "2026-10-03T16:30:38+00:00",
+   "excerpt": "Routine complete blood counts (CBCs) could yield new biomarkers, but the private records needed to evaluate candidates cannot be shared with frontier language model agents that excel at discovery. We distilled the evidence held in the Clalit Health Services panel of over 5.4 million patients into a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
    "date": "2026-10-03T16:30:01+00:00",
@@ -1782,7 +1838,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 536 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 534 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1878,7 +1934,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 609 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "JavaScript · 616 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1886,7 +1942,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 972 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 889 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
