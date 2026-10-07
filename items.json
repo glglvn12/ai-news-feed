@@ -1,7 +1,111 @@
 {
- "updated": "2026-10-07T16:37:05+00:00",
+ "updated": "2026-10-07T22:03:40+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "date": "2026-10-07T20:48:45+00:00",
+   "excerpt": "The developer of Hermes agent raised a $90 million Series B.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "date": "2026-10-07T20:22:37+00:00",
+   "excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Does better work always mean better workers?",
+   "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+   "date": "2026-10-07T20:19:57+00:00",
+   "excerpt": "",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "date": "2026-10-07T19:10:42+00:00",
+   "excerpt": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons,…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+   "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+   "date": "2026-10-07T18:42:22+00:00",
+   "excerpt": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration wi…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "date": "2026-10-07T18:30:57+00:00",
+   "excerpt": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The Machines that Make the Machines",
+   "url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+   "date": "2026-10-07T18:21:03+00:00",
+   "excerpt": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "date": "2026-10-07T18:15:28+00:00",
+   "excerpt": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "date": "2026-10-07T18:01:20+00:00",
+   "excerpt": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "date": "2026-10-07T18:00:19+00:00",
+   "excerpt": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+   "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+   "date": "2026-10-07T17:46:44+00:00",
+   "excerpt": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Multimodal open d1 decision models for the edge",
+   "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+   "date": "2026-10-07T16:54:33+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "date": "2026-10-07T16:53:46+00:00",
+   "excerpt": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "manaflow-ai/cmux",
    "url": "https://github.com/manaflow-ai/cmux",
@@ -14,7 +118,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 538 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 617 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -78,7 +182,7 @@
    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
    "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
    "date": "2026-10-07T14:40:52+00:00",
-   "excerpt": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into Biohub, the nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan, as reported by Reuters. The funding is part of a $1.8 billion initiative to bu…",
+   "excerpt": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organizatio…",
    "source": "The Verge AI",
    "category": "Press"
   },
@@ -153,6 +257,14 @@
    "excerpt": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "date": "2026-10-07T07:00:00+00:00",
+   "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
@@ -633,6 +745,14 @@
    "excerpt": "arXiv:2610.08670v1 Announce Type: cross Abstract: Language models increasingly act as agents. An agent that says an action is wrong and then takes it anyway is a different failure from one that does not know better, and evaluations of stated values cannot see it. We build a pre-registered panel of…",
    "source": "arXiv cs.CL",
    "category": "Paper"
+  },
+  {
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "date": "2026-10-07T00:00:00+00:00",
+   "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -1299,6 +1419,30 @@
    "category": "Paper"
   },
   {
+   "title": "Sensor-Language-Action Models",
+   "url": "https://huggingface.co/papers/2610.08244",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Sensors are useful not only for understanding the world but also for deciding what to do next. Existing sensor models however largely stop at perception: they recognize states or predict outcomes, leaving actions modeled separately through task-specific and often closed label spaces. We introduce S…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?",
+   "url": "https://huggingface.co/papers/2610.07557",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Static-analysis checker synthesis requires agents to interpret a defect specification, inspect a repository, implement analyzer-specific logic, and refine the checker through repeated compilation and analysis feedback. Existing coding-agent benchmarks focus on tasks such as patch generation or vuln…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+   "url": "https://huggingface.co/papers/2610.08778",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on demonstrations, preference data, or predefined pedagogical criteria that specify what…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
    "date": "2026-10-05T19:33:53+00:00",
@@ -1511,6 +1655,14 @@
    "url": "https://huggingface.co/papers/2610.05954",
    "date": "2026-10-05T04:07:18+00:00",
    "excerpt": "Reward post-training of flow models either reweights the model's own samples under a KL penalty or a frozen reference, often for thousands of updates, or backpropagates the reward and moves every sample without checking that the move is worth its size. We introduce MEND, a reinforcement learning me…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco",
+   "url": "https://huggingface.co/papers/2610.05949",
+   "date": "2026-10-05T04:04:09+00:00",
+   "excerpt": "Site-specific fertilizer recommendation systems adapt nutrient advice to location, soil properties, crop type, and production targets, but scientific reuse is constrained when recommendation functions remain accessible mainly through interactive interfaces, outputs are not versioned, and trained ap…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2251,6 +2403,14 @@
    "category": "Paper"
   },
   {
+   "title": "DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency",
+   "url": "https://huggingface.co/papers/2609.39096",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Autoregressive video diffusion supports streaming generation and interactive control, but its KV cache grows continuously with the generated history. Existing compression strategies either discard history using fixed windows or select tokens through local attention and similarity signals, which do…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
    "date": "2026-10-04T16:16:04+00:00",
@@ -2470,7 +2630,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 453 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 693 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
