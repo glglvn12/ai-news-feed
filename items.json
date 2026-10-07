@@ -1,7 +1,159 @@
 {
- "updated": "2026-10-07T08:48:11+00:00",
+ "updated": "2026-10-07T16:37:05+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "manaflow-ai/cmux",
+   "url": "https://github.com/manaflow-ai/cmux",
+   "date": "2026-10-07T16:37:05+00:00",
+   "excerpt": "Swift · 96 stars today — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "cloudflare/security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "date": "2026-10-07T16:37:05+00:00",
+   "excerpt": "JavaScript · 538 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+   "date": "2026-10-07T16:00:00+00:00",
+   "excerpt": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+   "url": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+   "date": "2026-10-07T16:00:00+00:00",
+   "excerpt": "AI factories are some of the most complex operations in the world, combining GPUs, CPUs, switches, DPUs, and SuperNICs alongside schedulers, orchestration...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "ChatGPT is getting college planning tools",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+   "date": "2026-10-07T16:00:00+00:00",
+   "excerpt": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a stu…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Muse launches on the iPad",
+   "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+   "date": "2026-10-07T15:37:23+00:00",
+   "excerpt": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was rele…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+   "date": "2026-10-07T15:07:08+00:00",
+   "excerpt": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "A Note on Our Fundraise",
+   "url": "https://nousresearch.com/a-note-on-our-fundraise",
+   "date": "2026-10-07T15:00:00+00:00",
+   "excerpt": "Nous Research raised $90 million to create AI that serves the people. A note on what we have built, why it stays open, and where we go next.",
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+   "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+   "date": "2026-10-07T14:41:38+00:00",
+   "excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+   "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+   "date": "2026-10-07T14:40:52+00:00",
+   "excerpt": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into Biohub, the nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan, as reported by Reuters. The funding is part of a $1.8 billion initiative to bu…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google experiments with an AI-powered gaming platform",
+   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+   "date": "2026-10-07T14:36:23+00:00",
+   "excerpt": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+   "date": "2026-10-07T14:30:00+00:00",
+   "excerpt": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+   "date": "2026-10-07T14:15:00+00:00",
+   "excerpt": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s new SynthID website can identify AI-generated media",
+   "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+   "date": "2026-10-07T14:00:00+00:00",
+   "excerpt": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+   "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+   "date": "2026-10-07T14:00:00+00:00",
+   "excerpt": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+   "date": "2026-10-07T12:45:31+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Helping teens learn, plan, and shape the future of AI",
+   "url": "https://openai.com/index/teens-learn-and-plan",
+   "date": "2026-10-07T12:00:00+00:00",
+   "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "AI could upend food delivery",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+   "date": "2026-10-07T12:00:00+00:00",
+   "excerpt": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed sta…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+   "date": "2026-10-07T09:00:00+00:00",
+   "excerpt": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
    "url": "https://arxiv.org/abs/2610.03872",
@@ -542,7 +694,7 @@
    "title": "ayghri/i-have-adhd",
    "url": "https://github.com/ayghri/i-have-adhd",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "Python · 326 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+   "excerpt": "Python · 620 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -550,7 +702,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 2,956 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 4,666 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -566,7 +718,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 228 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 828 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1119,6 +1271,30 @@
    "url": "https://huggingface.co/papers/2610.07727",
    "date": "2026-10-05T20:00:00+00:00",
    "excerpt": "As human--AI interactions become more conversational, full-duplex speech language models capable of natural real-time dialogue are growing in importance. Beyond generating appropriate responses, these models must coordinate turn-taking, backchanneling, and floor management in real time. Reinforceme…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "A Safe Action Is Not Enough: Feasible-Future Decoding for Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2610.05166",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "A safe action is not necessarily a viable one. A frozen vision-language-action (VLA) policy can favor a locally admissible move that leaves no policy-supported route to safe task completion. We call this the feasibility-likelihood gap: likelihood ranks the next move, while feasibility depends on th…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
+   "url": "https://huggingface.co/papers/2610.08048",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "LLM agents often lack the operational knowledge to act reliably in new environments, as they must discover specific tool behaviors or environment conventions on their own. Without memory of past attempts, they repeat the same mistakes across tasks, leading to more task failures and longer trajector…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+   "url": "https://huggingface.co/papers/2610.08777",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user controls. Many systems use chunk-wise autoregressive generation with few-step denoising, but each chunk still requires several costly denoising iterations. Training-free caching can redu…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2043,6 +2219,38 @@
    "category": "Paper"
   },
   {
+   "title": "Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+   "url": "https://huggingface.co/papers/2610.07348",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Training large language models (LLMs) is resource-intensive, and adapting them for diverse deployment scenarios with varying computational constraints remains challenging. While elastic architectures enable flexible model deployment and sparsely activated models allow input-adaptive computation, ex…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding",
+   "url": "https://huggingface.co/papers/2610.07342",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "On-policy reinforcement learning has become a central paradigm for improving the reasoning abilities of large language models. However, its effectiveness is often limited by reward sparsity: when a model fails to discover correct trajectories for difficult problems, the optimization process receive…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+   "url": "https://huggingface.co/papers/2610.06847",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregres…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+   "url": "https://huggingface.co/papers/2610.06104",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Multimodal imitation learning requires diverse executable futures under the same observation and consistent behavior across replanning cycles. We present Conditional Trajectory Peaks (CTP), a single-pass policy framework that jointly predicts complete action-chunk candidates, probability masses, an…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
    "date": "2026-10-04T16:16:04+00:00",
@@ -2246,7 +2454,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 534 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 578 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2262,7 +2470,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 336 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 453 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2350,7 +2558,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 889 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,406 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4279,7 +4487,7 @@
    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
    "date": "2026-09-23T00:00:00+00:00",
-   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists.",
+   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
