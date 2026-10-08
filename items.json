@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-07T22:03:40+00:00",
+ "updated": "2026-10-08T02:02:10+00:00",
  "failed": [],
  "items": [
   {
    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
    "date": "2026-10-07T20:48:45+00:00",
-   "excerpt": "The developer of Hermes agent raised a $90 million Series B.",
+   "excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -110,7 +110,7 @@
    "title": "manaflow-ai/cmux",
    "url": "https://github.com/manaflow-ai/cmux",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "Swift · 96 stars today — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+   "excerpt": "Swift · 44 stars today — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -118,7 +118,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 617 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 576 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -755,6 +755,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Jack & Jill & Jev: Cutting candidate screening costs by 88% - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/jack-jill-jev-case-study",
+   "date": "2026-10-07T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
    "title": "OpenAI drops another batch of mathematical breakthroughs",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
    "date": "2026-10-06T23:26:38+00:00",
@@ -787,6 +795,38 @@
    "category": "Press"
   },
   {
+   "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+   "url": "https://huggingface.co/papers/2610.10114",
+   "date": "2026-10-06T20:00:00+00:00",
+   "excerpt": "The architectural design of Large Language Models (LLMs) is shifting from traditional full-attention-only models to hybrid models, which combine different attention modules to improve long-context efficiency and performance in length extrapolation and context extension. To explain why hybrid models…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites",
+   "url": "https://huggingface.co/papers/2610.03036",
+   "date": "2026-10-06T20:00:00+00:00",
+   "excerpt": "We present WebFovea, a vision-based web agent that placed 2nd in the WebRetriever Challenge 2026 with a final score of 57.0 out of 100. The challenge evaluates agents end to end on Protocol III of the WebRetriever benchmark (arXiv:2607.06118): starting from an entry URL on a live website, the agent…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning",
+   "url": "https://huggingface.co/papers/2610.09455",
+   "date": "2026-10-06T20:00:00+00:00",
+   "excerpt": "Recently, approaches that leverage human video datasets for robot policy training have become increasingly prevalent. However, most existing hand trackers regress pose from cropped frames with limited priors on hand motion and object interaction, resulting in inaccurate and physically inconsistent…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "We Query, Therefore We Compute: On Oracle Computation beyond the Machine, with an Application to Agents",
+   "url": "https://huggingface.co/papers/2610.09243",
+   "date": "2026-10-06T20:00:00+00:00",
+   "excerpt": "Agentic systems use large language models (LLMs) to carry out concrete tasks. Prior work often borrows abstractions such as scheduling, caching or isolation piecemeal from operating systems, so the mechanisms it builds share little common ground, and the shared view of the two forms of agentic syst…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "date": "2026-10-06T19:57:04+00:00",
@@ -814,7 +854,7 @@
    "title": "ayghri/i-have-adhd",
    "url": "https://github.com/ayghri/i-have-adhd",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "Python · 620 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+   "excerpt": "Python · 619 stars today — A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -822,7 +862,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 4,666 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 4,655 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -838,7 +878,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 828 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 825 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1439,6 +1479,22 @@
    "url": "https://huggingface.co/papers/2610.08778",
    "date": "2026-10-05T20:00:00+00:00",
    "excerpt": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on demonstrations, preference data, or predefined pedagogical criteria that specify what…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "On KL-Regularized Policy Optimization",
+   "url": "https://huggingface.co/papers/2610.08963",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Asynchronous reinforcement learning (RL) for large language model (LLM) agents trains one policy on trajectories generated by another: rollouts come from stale checkpoints, and the inference engine's probabilities differ from the trainer's even at identical parameters. Standard remedies either clip…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+   "url": "https://huggingface.co/papers/2610.08699",
+   "date": "2026-10-05T20:00:00+00:00",
+   "excerpt": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a perso…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2411,6 +2467,22 @@
    "category": "Paper"
   },
   {
+   "title": "Structuring MoE Expert Selection for Agentic Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2610.07332",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Long-horizon LLM agents are frequently implemented using sparse mixture-of-experts (MoE) models, yet the co-design of agentic behavior and MoE structures remains underexplored. In this work, we comprehensively study the connections between agentic post-training and MoE expert selection. In off-the-…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2610.07043",
+   "date": "2026-10-04T20:00:00+00:00",
+   "excerpt": "Low-precision execution can substantially accelerate reinforcement learning (RL) for large language models, but discrepancies between learner and sampler execution can destabilize policy optimization. In this paper, we characterize the interaction between mismatch and the policy-gradient direction,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
    "date": "2026-10-04T16:16:04+00:00",
@@ -2630,7 +2702,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 693 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 677 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2718,7 +2790,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,406 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,403 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
