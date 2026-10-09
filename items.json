@@ -1,7 +1,127 @@
 {
- "updated": "2026-10-09T09:17:45+00:00",
+ "updated": "2026-10-09T17:02:05+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "date": "2026-10-09T17:02:05+00:00",
+   "excerpt": "Go · 323 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "BerriAI/litellm",
+   "url": "https://github.com/BerriAI/litellm",
+   "date": "2026-10-09T17:02:05+00:00",
+   "excerpt": "Python · 95 stars today — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Robbyant/lingbot-map",
+   "url": "https://github.com/Robbyant/lingbot-map",
+   "date": "2026-10-09T17:02:05+00:00",
+   "excerpt": "Python · 109 stars today — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "twostraws/SwiftUI-Agent-Skill",
+   "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+   "date": "2026-10-09T17:02:05+00:00",
+   "excerpt": "88 stars today — SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+   "date": "2026-10-09T16:56:42+00:00",
+   "excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+   "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+   "date": "2026-10-09T16:53:02+00:00",
+   "excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+   "date": "2026-10-09T16:45:00+00:00",
+   "excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "We can’t help treating AI like it’s human. But should we?",
+   "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+   "date": "2026-10-09T16:40:14+00:00",
+   "excerpt": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "a16z’s Olivia Moore on the state of consumer AI",
+   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+   "date": "2026-10-09T15:43:33+00:00",
+   "excerpt": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Impactful scheduling for GPU clusters",
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "date": "2026-10-09T15:20:29+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Trump’s attempt to rename AI is looking awfully artificial",
+   "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+   "date": "2026-10-09T14:25:43+00:00",
+   "excerpt": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+   "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+   "date": "2026-10-09T14:00:00+00:00",
+   "excerpt": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text m…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+   "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+   "date": "2026-10-09T14:00:00+00:00",
+   "excerpt": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+   "date": "2026-10-09T09:48:26+00:00",
+   "excerpt": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling se…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "We’re putting too much faith in AI’s ability to say no",
+   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+   "date": "2026-10-09T09:00:00+00:00",
+   "excerpt": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recentl…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
    "url": "https://openai.com/index/sophos",
@@ -476,6 +596,14 @@
    "category": "Press"
   },
   {
+   "title": "TypeSafe A raises Series AI - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "date": "2026-10-09T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
    "title": "Anthropic launches free AI security scans for open-source projects",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
    "date": "2026-10-08T21:53:51+00:00",
@@ -599,7 +727,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 392 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 714 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1448,6 +1576,54 @@
    "url": "https://huggingface.co/papers/2610.11366",
    "date": "2026-10-07T20:00:00+00:00",
    "excerpt": "Spatial coding agents significantly improve spatial reasoning in Multimodal Large Language Models (MLLMs) by using external tools to generate verified execution traces. However, this paradigm inherently suffers from prohibitive inference-time overhead and external dependencies. In this paper, we ex…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Pumpire: Unified Benchmark for Metric Distance Estimation",
+   "url": "https://huggingface.co/papers/2610.12423",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "We present Pumpire, a unified benchmark for evaluating metric point-pair distance estimation capability of both image- and video-level 3D foundation models, with or without depth priors. In contrast to previous approaches that normally evaluate depth and camera intrinsics separately or evaluate poi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Incremental Open-Ended Deep Research with Structured Harness",
+   "url": "https://huggingface.co/papers/2610.11566",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Existing Open-Ended Deep Research (OEDR) systems primarily generate reports from scratch, making them inefficient for scenarios where research reports need to be continuously maintained as new information emerges. We introduce Incremental Open-Ended Deep Research (Incremental-OEDR), a research sett…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+   "url": "https://huggingface.co/papers/2610.12448",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+   "url": "https://huggingface.co/papers/2610.12183",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Black-box optimization (BBO) arises in many scientific and engineering problems where objective evaluations are expensive and limited. Recent large language model (LLM) agents offer a new way to approach BBO by combining task semantics, computation, optimization tools, and feedback-driven decision…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+   "url": "https://huggingface.co/papers/2610.11794",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Learning to act in unfamiliar environments requires agents to infer how the world works and revise that understanding as new evidence arrives. Yet limited observations can support multiple world models that explain past interactions but predict different outcomes in unseen states. We introduce Meme…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SpaceFlow: Locally Controllable 3D Generation",
+   "url": "https://huggingface.co/papers/2610.12399",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2487,7 +2663,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 7,738 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 15,335 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2503,7 +2679,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,160 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,744 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4335,7 +4511,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 677 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 523 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4423,7 +4599,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,774 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,696 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
