@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-08T22:10:11+00:00",
+ "updated": "2026-10-09T02:15:54+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Contact | Nous Research",
+   "url": "https://nousresearch.com/contact",
+   "date": "2026-10-09T02:15:42+00:00",
+   "excerpt": "Reach the right team at Nous Research. Support for Nous Portal, Hermes Agent, billing and invoices; enterprise for bringing Hermes to your company; general for everything else.",
+   "date_estimated": true,
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "date": "2026-10-09T00:08:24+00:00",
+   "excerpt": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be nex…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "Anthropic launches free AI security scans for open-source projects",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
@@ -126,7 +143,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 309 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 392 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -231,6 +248,14 @@
    "url": "https://openai.com/index/pollo-ai",
    "date": "2026-10-08T12:00:00+00:00",
    "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "date": "2026-10-08T12:00:00+00:00",
+   "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -763,6 +788,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "The model that didn't exist, so you made it yourself",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "date": "2026-10-08T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
    "date": "2026-10-07T20:48:45+00:00",
@@ -785,6 +818,22 @@
    "excerpt": "",
    "source": "Google Research",
    "category": "Major Lab"
+  },
+  {
+   "title": "AgentGarten: Code Worlds for Evolving Agents",
+   "url": "https://huggingface.co/papers/2610.12374",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distrib…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "V-CoLA: Vision Token Compression with Linear Attention",
+   "url": "https://huggingface.co/papers/2610.11251",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Vision-language models (VLMs) have demonstrated impressive capabilities but suffer from substantial computational overhead, as vision tokens dominate the input sequence. This motivates vision token compression as a key direction to alleviate the burden. However, with the emergence of hybrid archite…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
@@ -1779,6 +1828,14 @@
    "category": "Paper"
   },
   {
+   "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+   "url": "https://huggingface.co/papers/2610.10845",
+   "date": "2026-10-06T20:00:00+00:00",
+   "excerpt": "A large language model can only use the text that fits in its context window, and it recomputes its internal key-value (KV) state for a prompt every time the prompt is sent. We test a memory layer, the public package galahad-kv, that saves the KV state of each block of about 16,000 tokens to encryp…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "date": "2026-10-06T19:57:04+00:00",
@@ -1814,7 +1871,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 7,744 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 7,738 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1830,7 +1887,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,163 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,160 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3646,7 +3703,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 662 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 670 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3750,7 +3807,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,770 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,774 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6682,14 +6739,6 @@
    "excerpt": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
    "source": "Amazon Science",
    "category": "Big Tech"
-  },
-  {
-   "title": "Learning more about Claude's mathematical capabilities",
-   "url": "https://www.anthropic.com/research/riemann-zeta",
-   "date": "2026-08-10T00:00:00+00:00",
-   "excerpt": "Learning more about Claude's mathematical capabilities",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
   }
  ]
 }
