@@ -1,7 +1,47 @@
 {
- "updated": "2026-10-09T17:02:05+00:00",
+ "updated": "2026-10-09T21:45:01+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "date": "2026-10-09T21:41:29+00:00",
+   "excerpt": "TypeSafe AI raised $870 million in a round led by a16Z.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "date": "2026-10-09T21:15:38+00:00",
+   "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investiga…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "date": "2026-10-09T19:36:56+00:00",
+   "excerpt": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "date": "2026-10-09T19:09:44+00:00",
+   "excerpt": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this we…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+   "date": "2026-10-09T18:06:57+00:00",
+   "excerpt": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airw…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
@@ -127,6 +167,14 @@
    "url": "https://openai.com/index/sophos",
    "date": "2026-10-09T07:00:00+00:00",
    "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "date": "2026-10-09T07:00:00+00:00",
+   "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -1624,6 +1672,30 @@
    "url": "https://huggingface.co/papers/2610.12399",
    "date": "2026-10-07T20:00:00+00:00",
    "excerpt": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+   "url": "https://huggingface.co/papers/2609.33987",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Long-horizon coding agents need timely corrections, yet feedback can be ineffective or even harmful when it misjudges ongoing work or fails to address the underlying problem. Existing critics focus on evaluating trajectories and generating feedback, but rarely track what happens after feedback is d…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+   "url": "https://huggingface.co/papers/2610.11169",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Agent skills are SKILL.md instructions and scripts that AI coding agents such as Claude Code and Codex run with the permissions of their user. Developers share skills by copying them between repositories, which makes them a software supply chain without a registry, versions or provenance. The origi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Predicting Cable Dynamics with Physical Attention Bias",
+   "url": "https://huggingface.co/papers/2610.11975",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Learned simulators for deformable linear objects (DLOs) such as cables have to predict the motion of cables they were not trained on and stay stable over long rollouts. Most of their error occurs where the cable touches itself or the floor. Attention over all pairs of cable segments can represent c…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -7523,14 +7595,6 @@
    "excerpt": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
-   "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
-   "date": "2026-08-10T20:23:04+00:00",
-   "excerpt": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
   }
  ]
 }
