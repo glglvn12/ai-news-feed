@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-10T15:26:55+00:00",
+ "updated": "2026-10-10T20:08:35+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "date": "2026-10-10T19:50:00+00:00",
+   "excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "date": "2026-10-10T18:52:07+00:00",
+   "excerpt": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "tensorflow/tensorflow",
    "url": "https://github.com/tensorflow/tensorflow",
@@ -14,7 +30,7 @@
    "title": "hugohe3/ppt-master",
    "url": "https://github.com/hugohe3/ppt-master",
    "date": "2026-10-10T15:26:55+00:00",
-   "excerpt": "Python · 372 stars today — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+   "excerpt": "Python · 515 stars today — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -41,6 +57,14 @@
    "excerpt": "279 stars today — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+   "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+   "date": "2026-10-10T15:00:00+00:00",
+   "excerpt": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+   "source": "TechCrunch AI",
+   "category": "Press"
   },
   {
    "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -7651,30 +7675,6 @@
    "excerpt": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-   "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-   "date": "2026-08-11T17:04:00+00:00",
-   "excerpt": "Health & Bioscience",
-   "source": "Google Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group",
-   "url": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
-   "date": "2026-08-11T16:22:19+00:00",
-   "excerpt": "Ten years after we founded the Automated Reasoning Group, mathematical logic has moved from academic research into production services that secure millions of customer workloads — demonstrating that systems can be provably correct, not just probably correct.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-   "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-   "date": "2026-08-11T16:00:00+00:00",
-   "excerpt": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervisio…",
-   "source": "Microsoft Research",
-   "category": "Big Tech"
   }
  ]
 }
