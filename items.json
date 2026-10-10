@@ -1,12 +1,20 @@
 {
- "updated": "2026-10-09T21:45:01+00:00",
+ "updated": "2026-10-10T01:48:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "date": "2026-10-10T00:18:32+00:00",
+   "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
    "date": "2026-10-09T21:41:29+00:00",
-   "excerpt": "TypeSafe AI raised $870 million in a round led by a16Z.",
+   "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -46,7 +54,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 323 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 326 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +70,7 @@
    "title": "Robbyant/lingbot-map",
    "url": "https://github.com/Robbyant/lingbot-map",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Python · 109 stars today — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+   "excerpt": "Python · 110 stars today — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +78,7 @@
    "title": "twostraws/SwiftUI-Agent-Skill",
    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "88 stars today — SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+   "excerpt": "65 stars today — SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -652,6 +660,30 @@
    "category": "Lab"
   },
   {
+   "title": "Investigating unintended model actions in our evaluations and internal use",
+   "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+   "date": "2026-10-09T00:00:00+00:00",
+   "excerpt": "Investigating unintended model actions in our evaluations and internal use",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "AI: too good to be true, too bad to be useful | TypeSafe AI - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/ai-too-good-to-be-true-too-bad-to-be-useful-typesafe-ai",
+   "date": "2026-10-09T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
+   "title": "Diogo Almeida - Founders You Should Know - TypeSafe AI Blog",
+   "url": "https://typesafe.ai/blog/diogo-almeida---founders-you-should-know",
+   "date": "2026-10-09T00:00:00+00:00",
+   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+   "source": "TypeSafe (Jev)",
+   "category": "Lab"
+  },
+  {
    "title": "Anthropic launches free AI security scans for open-source projects",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
    "date": "2026-10-08T21:53:51+00:00",
@@ -775,7 +807,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 714 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 709 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1696,6 +1728,14 @@
    "url": "https://huggingface.co/papers/2610.11975",
    "date": "2026-10-07T20:00:00+00:00",
    "excerpt": "Learned simulators for deformable linear objects (DLOs) such as cables have to predict the motion of cables they were not trained on and stay stable over long rollouts. Most of their error occurs where the cable touches itself or the floor. Attention over all pairs of cable segments can represent c…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "The Lattice of Transition Laws",
+   "url": "https://huggingface.co/papers/2610.11216",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Diffusion and autoregression (AR) have long been seen as different categories of generative models, with diffusion specialising in continuous fields and AR specialising in discrete tokens. Recent work seeks to combine the advantages of the two models, and each hybrid fixes its decoding schedule by…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2735,7 +2775,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 15,335 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 14,927 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2751,7 +2791,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,744 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,739 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4583,7 +4623,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 523 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 436 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4671,7 +4711,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,696 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,687 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7586,14 +7626,6 @@
    "date": "2026-08-11T12:00:27+00:00",
    "excerpt": "Mistral is bringing together the inference infrastructure, open models, and long-term commitments Europe needs to control its AI future, and setting a roadmap for the world.",
    "source": "Mistral",
-   "category": "Lab"
-  },
-  {
-   "title": "Introducing Grok Bot",
-   "url": "https://x.ai/news/introducing-grok-bot",
-   "date": "2026-08-11T00:00:00+00:00",
-   "excerpt": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-   "source": "xAI",
    "category": "Lab"
   }
  ]
