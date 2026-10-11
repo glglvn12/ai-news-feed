@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-11T05:57:43+00:00",
+ "updated": "2026-10-11T13:02:24+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "lyogavin/airllm",
+   "url": "https://github.com/lyogavin/airllm",
+   "date": "2026-10-11T13:02:24+00:00",
+   "excerpt": "Jupyter Notebook · 541 stars today — AirLLM 70B inference with single 4GB GPU",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "date": "2026-10-11T11:00:00+00:00",
+   "excerpt": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -54,7 +70,7 @@
    "title": "pytorch/pytorch",
    "url": "https://github.com/pytorch/pytorch",
    "date": "2026-10-10T15:26:55+00:00",
-   "excerpt": "Python · 84 stars today — Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+   "excerpt": "Python · 314 stars today — Tensors and Dynamic neural networks in Python with strong GPU acceleration",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2879,7 +2895,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 25,793 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 25,585 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2895,7 +2911,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,190 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,083 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7650,30 +7666,6 @@
    "date": "2026-08-12T14:01:59+00:00",
    "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
    "source": "Google DeepMind",
-   "category": "Major Lab"
-  },
-  {
-   "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
-   "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
-   "date": "2026-08-12T13:00:00+00:00",
-   "excerpt": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
-   "source": "Salesforce AI Research",
-   "category": "Big Tech"
-  },
-  {
-   "title": "DocLang: a markup language for LLMs",
-   "url": "https://research.ibm.com/blog/doclang-ai-native-doc-standard?utm_medium=rss&utm_source=rss",
-   "date": "2026-08-12T12:00:00+00:00",
-   "excerpt": "The lead researcher behind IBM’s popular document parser, Docling, explains why generative AI needs its own document standard.",
-   "source": "IBM Research",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
-   "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-   "date": "2026-08-12T09:51:00+00:00",
-   "excerpt": "Generative AI",
-   "source": "Google Research",
    "category": "Major Lab"
   }
  ]
