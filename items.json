@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-11T22:05:46+00:00",
+ "updated": "2026-10-12T01:24:08+00:00",
  "failed": [],
  "items": [
   {
    "title": "Will the HomeView be Apple’s first smart home success?",
    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
    "date": "2026-10-11T21:14:40+00:00",
-   "excerpt": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gu…",
+   "excerpt": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -46,7 +46,7 @@
    "title": "lyogavin/airllm",
    "url": "https://github.com/lyogavin/airllm",
    "date": "2026-10-11T13:02:24+00:00",
-   "excerpt": "Jupyter Notebook · 541 stars today — AirLLM 70B inference with single 4GB GPU",
+   "excerpt": "Jupyter Notebook · 548 stars today — AirLLM 70B inference with single 4GB GPU",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -110,7 +110,7 @@
    "title": "pytorch/pytorch",
    "url": "https://github.com/pytorch/pytorch",
    "date": "2026-10-10T15:26:55+00:00",
-   "excerpt": "Python · 314 stars today — Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+   "excerpt": "Python · 315 stars today — Tensors and Dynamic neural networks in Python with strong GPU acceleration",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2935,7 +2935,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 25,585 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 25,599 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7682,14 +7682,6 @@
    "date": "2026-08-13T17:04:18+00:00",
    "excerpt": "",
    "source": "Google DeepMind",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Patterns and problems in emerging multiagent systems",
-   "url": "https://www.anthropic.com/research/multiagent-systems",
-   "date": "2026-08-13T00:00:00+00:00",
-   "excerpt": "Patterns and problems in emerging multiagent systems",
-   "source": "Anthropic Research",
    "category": "Major Lab"
   }
  ]
