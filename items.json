@@ -1,7 +1,127 @@
 {
- "updated": "2026-10-12T09:22:08+00:00",
+ "updated": "2026-10-12T19:52:00+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "open-webui/open-webui",
+   "url": "https://github.com/open-webui/open-webui",
+   "date": "2026-10-12T19:52:00+00:00",
+   "excerpt": "Python · 142 stars today — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "microsoft/BitNet",
+   "url": "https://github.com/microsoft/BitNet",
+   "date": "2026-10-12T19:52:00+00:00",
+   "excerpt": "C++ · 134 stars today — Official inference framework for 1-bit LLMs",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Alishahryar1/free-claude-code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "date": "2026-10-12T19:52:00+00:00",
+   "excerpt": "Python · 705 stars today — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Meta releases its first frontier model, Muse Wonder",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "date": "2026-10-12T17:56:56+00:00",
+   "excerpt": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Can we change an AI model’s architecture without retraining it from scratch?",
+   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+   "date": "2026-10-12T17:36:18+00:00",
+   "excerpt": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+   "date": "2026-10-12T17:19:14+00:00",
+   "excerpt": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta has some Wonder Full new AI models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "date": "2026-10-12T17:00:00+00:00",
+   "excerpt": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+   "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+   "date": "2026-10-12T16:00:54+00:00",
+   "excerpt": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Simulating student learning for better AI tutoring",
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "date": "2026-10-12T16:00:00+00:00",
+   "excerpt": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learn…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "date": "2026-10-12T15:45:00+00:00",
+   "excerpt": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+   "date": "2026-10-12T15:31:19+00:00",
+   "excerpt": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+   "date": "2026-10-12T15:27:59+00:00",
+   "excerpt": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+   "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+   "date": "2026-10-12T14:00:00+00:00",
+   "excerpt": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $1…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "date": "2026-10-12T13:00:00+00:00",
+   "excerpt": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest re…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "date": "2026-10-12T12:47:59+00:00",
+   "excerpt": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Hermes Agent v0.21.7",
    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.7",
@@ -443,6 +563,22 @@
    "category": "Paper"
   },
   {
+   "title": "How distributed inference keeps large AI models moving",
+   "url": "https://research.ibm.com/blog/distributed-inference?utm_medium=rss&utm_source=rss",
+   "date": "2026-10-12T04:00:00+00:00",
+   "excerpt": "Distributed inference serving is an air traffic control tower for AI traffic, and agentic workflows make it more necessary than ever.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "url": "https://www.anthropic.com/research/self-replicating-ai",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "AI models may be capable of self-replicating without access to a datacenter",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Will the HomeView be Apple’s first smart home success?",
    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
    "date": "2026-10-11T21:14:40+00:00",
@@ -478,7 +614,7 @@
    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
    "date": "2026-10-11T14:00:00+00:00",
-   "excerpt": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "excerpt": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -486,7 +622,7 @@
    "title": "lyogavin/airllm",
    "url": "https://github.com/lyogavin/airllm",
    "date": "2026-10-11T13:02:24+00:00",
-   "excerpt": "Jupyter Notebook · 548 stars today — AirLLM 70B inference with single 4GB GPU",
+   "excerpt": "Jupyter Notebook · 886 stars today — AirLLM 70B inference with single 4GB GPU",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -843,10 +979,10 @@
    "category": "Paper"
   },
   {
-   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
    "date": "2026-10-10T00:18:32+00:00",
-   "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+   "excerpt": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Phi…",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -2132,6 +2268,14 @@
    "category": "Paper"
   },
   {
+   "title": "GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images",
+   "url": "https://huggingface.co/papers/2610.11215",
+   "date": "2026-10-08T00:13:04+00:00",
+   "excerpt": "Reconstructing complete, scene-aligned 3D objects from casual images requires integrating sparse, uncertain observations and inferring surfaces hidden by occlusions. We present GATOR, a generative and agentic framework that recovers textured object assets and their scene-relative pose from one or m…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Disrupting AI-enabled “false front” operations",
    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
    "date": "2026-10-08T00:00:00+00:00",
@@ -2480,6 +2624,46 @@
    "url": "https://huggingface.co/papers/2610.12570",
    "date": "2026-10-07T20:00:00+00:00",
    "excerpt": "Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusion-based drafters make this paradigm particularly attractive: deep attention-based neural backbones…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion",
+   "url": "https://huggingface.co/papers/2610.12307",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Most image generation models rely on uniform tokenization, allocating the exact same computational budget to equally-sized image patches. This static paradigm cannot adapt to different resource constraints at inference time, and yields suboptimal quality-cost tradeoff by devoting the same effort to…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Clinician use of language models diverges from how the models are evaluated",
+   "url": "https://huggingface.co/papers/2610.11069",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Large language model (LLM) assistants are being deployed to clinicians across health systems, and judgments about their readiness rest largely on benchmark scores, most of them derived from examination questions or curated cases. A benchmark predicts performance in deployment only to the extent tha…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Few-Step Generation via Data-Space Iteration",
+   "url": "https://huggingface.co/papers/2610.12102",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Flow matching has emerged as a scalable paradigm for training high-quality generative models, but sampling from the learned probability flow requires many network evaluations. Distillation can reduce this cost to one or a few evaluations; however, one-step generation often sacrifices quality, makin…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
+   "url": "https://huggingface.co/papers/2610.12582",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "A latent recurrent language model applies a shared block of layers repeatedly, so one checkpoint can trade inference compute for accuracy by changing the loop count. At one loop, however, such models typically fall well short of a non-recurrent model of the same size, a one-loop tax that makes a se…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Self-Preservation in Language Models",
+   "url": "https://huggingface.co/papers/2610.12602",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Continual learning (CL) seeks to adapt pretrained models while preserving prior capabilities. Yet the tasks supplied for preservation cover only part of what a model knows, while forgetting can extend beyond them. Recent work shows that language models can supplement this limited evidence by genera…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -3519,7 +3703,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 25,599 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 45,495 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3535,7 +3719,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,083 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 2,100 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5479,7 +5663,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 178 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 394 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7967,7 +8151,7 @@
   {
    "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
    "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-   "date": "2026-08-31T17:19:40+00:00",
+   "date": "2026-08-31T17:19:00+00:00",
    "excerpt": "Data Management",
    "source": "Google Research",
    "category": "Major Lab"
@@ -8251,14 +8435,6 @@
    "excerpt": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "date": "2026-08-13T17:04:18+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
   }
  ]
 }
