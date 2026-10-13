@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-13T02:05:30+00:00",
+ "updated": "2026-10-13T09:31:53+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "AI labs are buying data from dead startups to train their models",
+   "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "date": "2026-10-13T09:00:00+00:00",
+   "excerpt": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pend…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
@@ -1632,6 +1640,30 @@
    "url": "https://huggingface.co/papers/2610.13630",
    "date": "2026-10-08T20:00:00+00:00",
    "excerpt": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head attention along the sequence axis, we introduce Multi-Stream Attention Residuals (MSAR), an extens…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+   "url": "https://huggingface.co/papers/2610.12933",
+   "date": "2026-10-08T20:00:00+00:00",
+   "excerpt": "Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proportional performance gains. In this study, we therefore ask: how far can reasoning supervision be comp…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+   "url": "https://huggingface.co/papers/2610.13361",
+   "date": "2026-10-08T20:00:00+00:00",
+   "excerpt": "As the production of software passes into the hands of software itself, coding agents are increasingly commissioned to build agents fitted to their users' own workflows. This delegation carries a quiet assumption, that the delivered agent will faithfully serve the requirement it was built for, rath…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+   "url": "https://huggingface.co/papers/2610.13166",
+   "date": "2026-10-08T20:00:00+00:00",
+   "excerpt": "Terminal agents are moving beyond local operations toward completing real-world professional tasks. Short trajectories can demonstrate commands and tool calls, but they do not fully show how agents accumulate evidence through exploration, use it to inform judgments, continually adjust strategies ba…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
