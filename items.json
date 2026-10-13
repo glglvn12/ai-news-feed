@@ -1,7 +1,87 @@
 {
- "updated": "2026-10-13T17:39:04+00:00",
+ "updated": "2026-10-13T22:53:16+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Cerebras CEO pushes back on AI doomsday warnings",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+   "date": "2026-10-13T22:36:59+00:00",
+   "excerpt": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+   "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
+   "date": "2026-10-13T21:33:21+00:00",
+   "excerpt": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "date": "2026-10-13T20:45:25+00:00",
+   "excerpt": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral comm…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "date": "2026-10-13T20:36:44+00:00",
+   "excerpt": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "date": "2026-10-13T19:43:07+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Shopify opens its catalog up to more AI agents",
+   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "date": "2026-10-13T19:42:42+00:00",
+   "excerpt": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+   "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+   "date": "2026-10-13T19:00:48+00:00",
+   "excerpt": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+   "date": "2026-10-13T18:30:00+00:00",
+   "excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Facebook is giving users more control over their algorithm",
+   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+   "date": "2026-10-13T18:05:24+00:00",
+   "excerpt": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+   "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+   "date": "2026-10-13T18:00:00+00:00",
+   "excerpt": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "vercel-labs/skills",
    "url": "https://github.com/vercel-labs/skills",
@@ -14,7 +94,7 @@
    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
    "date": "2026-10-13T17:30:00+00:00",
-   "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+   "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -22,7 +102,7 @@
    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
    "date": "2026-10-13T17:18:25+00:00",
-   "excerpt": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+   "excerpt": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -51,7 +131,7 @@
    "category": "Press"
   },
   {
-   "title": "Google Play now supports private, vibe-coded apps built just for you",
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
    "date": "2026-10-13T17:00:00+00:00",
    "excerpt": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
@@ -59,7 +139,7 @@
    "category": "Press"
   },
   {
-   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
    "date": "2026-10-13T16:42:51+00:00",
    "excerpt": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black…",
@@ -67,7 +147,7 @@
    "category": "Press"
   },
   {
-   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
    "date": "2026-10-13T16:30:00+00:00",
    "excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
@@ -110,7 +190,7 @@
    "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
    "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
    "date": "2026-10-13T14:19:40+00:00",
-   "excerpt": "Today, NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...",
+   "excerpt": "NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...",
    "source": "NVIDIA Developer Blog",
    "category": "Big Tech"
   },
@@ -177,6 +257,14 @@
    "excerpt": "Open models and llm-d enabled IBM Research to explore quantum error correction hardware at 11.5× lower inference cost than an all-proprietary configuration.",
    "source": "IBM Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "date": "2026-10-13T12:00:00+00:00",
+   "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Character.AI files for bankruptcy",
@@ -2984,6 +3072,14 @@
    "url": "https://huggingface.co/papers/2610.12453",
    "date": "2026-10-07T20:00:00+00:00",
    "excerpt": "Large foundation models have accelerated progress toward general-purpose agents that interact with humans and other agents through language and multimodal signals. However, robust multi-agent decision-making requires reasoning about what other agents know, intend, and are likely to do under partial…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation",
+   "url": "https://huggingface.co/papers/2610.12099",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "World action models (WAMs) aim to answer a coupled physical question: given a task instruction, what motion should the robot execute, and how will that motion change the surrounding world? Most existing WAMs build on pretrained video generators and represent world evolution through images or visual…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
