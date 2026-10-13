@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-12T19:52:00+00:00",
+ "updated": "2026-10-13T02:05:30+00:00",
  "failed": [],
  "items": [
   {
    "title": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "date": "2026-10-12T19:52:00+00:00",
-   "excerpt": "Python · 142 stars today — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "excerpt": "Python · 157 stars today — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +14,7 @@
    "title": "microsoft/BitNet",
    "url": "https://github.com/microsoft/BitNet",
    "date": "2026-10-12T19:52:00+00:00",
-   "excerpt": "C++ · 134 stars today — Official inference framework for 1-bit LLMs",
+   "excerpt": "C++ · 97 stars today — Official inference framework for 1-bit LLMs",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +22,7 @@
    "title": "Alishahryar1/free-claude-code",
    "url": "https://github.com/Alishahryar1/free-claude-code",
    "date": "2026-10-12T19:52:00+00:00",
-   "excerpt": "Python · 705 stars today — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+   "excerpt": "Python · 626 stars today — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -579,6 +579,38 @@
    "category": "Major Lab"
   },
   {
+   "title": "Strengthening our defenses against distillation attacks",
+   "url": "https://www.anthropic.com/research/distillation-defenses",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "Strengthening our defenses against distillation attacks",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged",
+   "url": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with powe…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Self-Compacting Language Model Agents",
+   "url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajector…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
    "title": "Will the HomeView be Apple’s first smart home success?",
    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
    "date": "2026-10-11T21:14:40+00:00",
@@ -622,7 +654,7 @@
    "title": "lyogavin/airllm",
    "url": "https://github.com/lyogavin/airllm",
    "date": "2026-10-11T13:02:24+00:00",
-   "excerpt": "Jupyter Notebook · 886 stars today — AirLLM 70B inference with single 4GB GPU",
+   "excerpt": "Jupyter Notebook · 879 stars today — AirLLM 2.8T LLM inference with single 4GB GPU",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1584,6 +1616,22 @@
    "url": "https://huggingface.co/papers/2610.13395",
    "date": "2026-10-08T20:00:00+00:00",
    "excerpt": "Coding agents are increasingly used to build programs from scratch as software engineers do rather than to resolve issues within a repository or to generate a repository from a given requirements document. However, scalable verifiable training environments that force agents to discover what is requ…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+   "url": "https://huggingface.co/papers/2610.13832",
+   "date": "2026-10-08T20:00:00+00:00",
+   "excerpt": "When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Large Vision-Language Models (LVLMs) proactively think in the same way? We term this ability Active Sp…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Multi-Stream Attention Residuals",
+   "url": "https://huggingface.co/papers/2610.13630",
+   "date": "2026-10-08T20:00:00+00:00",
+   "excerpt": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head attention along the sequence axis, we introduce Multi-Stream Attention Residuals (MSAR), an extens…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2668,6 +2716,30 @@
    "category": "Paper"
   },
   {
+   "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+   "url": "https://huggingface.co/papers/2610.11765",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Large Language Models (LLMs) increasingly ship with explicit \"thinking modes\", yet their counterpart, \"no-thinking\", has received far less attention. We study LLMs' no-thinking behavior along two axes. a. How to measure no-thinking? Prior work typically defines no-thinking through proxies such as a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+   "url": "https://huggingface.co/papers/2610.08966",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars; a few seconds of video reveals who holds authority in a room; and a fleeting clip highlights subt…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Mental-Models for Multi-Agent Systems",
+   "url": "https://huggingface.co/papers/2610.12453",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Large foundation models have accelerated progress toward general-purpose agents that interact with humans and other agents through language and multimodal signals. However, robust multi-agent decision-making requires reasoning about what other agents know, intend, and are likely to do under partial…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
    "date": "2026-10-07T19:10:42+00:00",
@@ -3703,7 +3775,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 45,495 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 45,327 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3719,7 +3791,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 2,100 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 2,081 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5663,7 +5735,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 394 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 246 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8419,22 +8491,6 @@
    "excerpt": "General Science",
    "source": "Google Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "How Claude’s text watermark works",
-   "url": "https://www.anthropic.com/news/claude-text-watermark",
-   "date": "2026-08-14T00:00:00+00:00",
-   "excerpt": "How Claude’s text watermark works",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Grok 4.6 in GitHub Copilot",
-   "url": "https://x.ai/news/grok-4-6-github-copilot",
-   "date": "2026-08-14T00:00:00+00:00",
-   "excerpt": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
