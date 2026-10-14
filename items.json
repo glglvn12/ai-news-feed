@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-13T22:53:16+00:00",
+ "updated": "2026-10-14T01:58:21+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "date": "2026-10-13T23:13:31+00:00",
+   "excerpt": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "date": "2026-10-13T23:05:34+00:00",
+   "excerpt": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+   "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+   "date": "2026-10-13T23:00:00+00:00",
+   "excerpt": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Cerebras CEO pushes back on AI doomsday warnings",
    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
@@ -86,7 +110,7 @@
    "title": "vercel-labs/skills",
    "url": "https://github.com/vercel-labs/skills",
    "date": "2026-10-13T17:39:04+00:00",
-   "excerpt": "TypeScript · 187 stars today — The open agent skills tool - npx skills",
+   "excerpt": "TypeScript · 190 stars today — The open agent skills tool - npx skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -950,7 +974,7 @@
    "title": "lyogavin/airllm",
    "url": "https://github.com/lyogavin/airllm",
    "date": "2026-10-11T13:02:24+00:00",
-   "excerpt": "Jupyter Notebook · 1,004 stars today — AirLLM 2.8T LLM inference with single 4GB GPU",
+   "excerpt": "Jupyter Notebook · 1,001 stars today — AirLLM 2.8T LLM inference with single 4GB GPU",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1329,6 +1353,14 @@
    "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investiga…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+   "url": "https://huggingface.co/papers/2610.15208",
+   "date": "2026-10-09T20:00:00+00:00",
+   "excerpt": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must maintain research state across model calls and check findings before errors propagate into subsequent work. We int…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -3084,6 +3116,14 @@
    "category": "Paper"
   },
   {
+   "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+   "url": "https://huggingface.co/papers/2610.12417",
+   "date": "2026-10-07T20:00:00+00:00",
+   "excerpt": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different model…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
    "date": "2026-10-07T19:10:42+00:00",
@@ -4119,7 +4159,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 54,706 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 54,679 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4135,7 +4175,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,813 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,815 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6079,7 +6119,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 978 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 969 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
