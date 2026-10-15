@@ -1,7 +1,39 @@
 {
- "updated": "2026-10-14T22:21:35+00:00",
+ "updated": "2026-10-15T01:33:02+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "date": "2026-10-15T01:01:32+00:00",
+   "excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories an…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hermes Agent v0.22.1",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.1",
+   "date": "2026-10-14T23:59:24+00:00",
+   "excerpt": "# Hermes Agent v0.22.1 (rc.5-v0.22.1) **Release Date:** October 14, 2026 This is a patch release, with a handful of fixes for the Windows Store, plugin updates, and more. ## ✨ Features - Agent): add nemotron super 3.5 default parameters ([`c59d2994`](https://github.com/NousResearch/hermes-agent/com…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "McKinsey is making job applicants spar with a fake AI client",
+   "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+   "date": "2026-10-14T22:53:31+00:00",
+   "excerpt": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants migh…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
@@ -198,7 +230,7 @@
    "title": "K-Dense-AI/scientific-agent-skills",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 146 stars today — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Clau…",
+   "excerpt": "Python · 163 stars today — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Clau…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -206,7 +238,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 94 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 103 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -214,7 +246,7 @@
    "title": "ifixai-ai/iFixAi",
    "url": "https://github.com/ifixai-ai/iFixAi",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 2,143 stars today — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+   "excerpt": "Python · 2,109 stars today — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -222,7 +254,7 @@
    "title": "vxcontrol/pentagi",
    "url": "https://github.com/vxcontrol/pentagi",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Go · 1,070 stars today — Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+   "excerpt": "Go · 1,025 stars today — Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -255,6 +287,14 @@
    "url": "https://openai.com/index/third-moment-research",
    "date": "2026-10-14T07:00:00+00:00",
    "excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "date": "2026-10-14T07:00:00+00:00",
+   "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -1367,6 +1407,22 @@
    "url": "https://huggingface.co/papers/2610.18497",
    "date": "2026-10-12T20:00:00+00:00",
    "excerpt": "Tool-call judges evaluate argument values proposed by LLM agents. We find that they accept a correct value less often when their input holds no reference for it, that is, no text that says what the value should be. This happens when the value is a default value from the function schema that the use…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Simplifying and Improving On-Policy Distillation for Few-Step Diffusion",
+   "url": "https://huggingface.co/papers/2610.18472",
+   "date": "2026-10-12T20:00:00+00:00",
+   "excerpt": "Few-step distillation reduces the sampling cost of diffusion and flow models, but existing approaches often require auxiliary score models or specialized architectures. We show that simple on-policy velocity regression already provides a strong foundation for 4-NFE generation. To represent teacher…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Model-Based Online Decision Making via Generative Trajectory Planning",
+   "url": "https://huggingface.co/papers/2610.18677",
+   "date": "2026-10-12T20:00:00+00:00",
+   "excerpt": "Online decision-making faces a tension between efficient inference and long-horizon reasoning. Value-based methods rely on short-horizon bootstrapping that limits the propagation of long-term information, while trajectory optimization methods plan explicitly but must solve a high-dimensional optimi…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -5207,7 +5263,7 @@
    "title": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "TypeScript · 41,187 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "excerpt": "TypeScript · 41,034 stars today — Reverse engineer anything with agents, from app behavior down to native binaries.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7167,7 +7223,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 946 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 947 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
