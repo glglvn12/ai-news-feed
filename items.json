@@ -1,12 +1,116 @@
 {
- "updated": "2026-10-15T13:30:50+00:00",
+ "updated": "2026-10-15T18:22:17+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+   "date": "2026-10-15T18:15:36+00:00",
+   "excerpt": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and A…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+   "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+   "date": "2026-10-15T18:01:00+00:00",
+   "excerpt": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+   "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+   "date": "2026-10-15T18:00:01+00:00",
+   "excerpt": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+   "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+   "date": "2026-10-15T18:00:00+00:00",
+   "excerpt": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Friends don’t let friends feed their data to AI agents",
+   "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+   "date": "2026-10-15T16:21:45+00:00",
+   "excerpt": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "date": "2026-10-15T16:08:03+00:00",
+   "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "date": "2026-10-15T16:00:00+00:00",
+   "excerpt": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "AI agents are coming to Rivian’s cars",
+   "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+   "date": "2026-10-15T15:02:36+00:00",
+   "excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+   "date": "2026-10-15T14:30:00+00:00",
+   "excerpt": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s Universal Cart shopping tool launches in the US",
+   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+   "date": "2026-10-15T14:29:33+00:00",
+   "excerpt": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nobody is safe from celebrity AI deepfakes",
+   "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+   "date": "2026-10-15T14:03:42+00:00",
+   "excerpt": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the son…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+   "date": "2026-10-15T14:00:00+00:00",
+   "excerpt": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the cre…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Last day",
+   "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+   "date": "2026-10-15T14:00:00+00:00",
+   "excerpt": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "anthropics/claude-plugins-official",
    "url": "https://github.com/anthropics/claude-plugins-official",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "Python · 181 stars today — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+   "excerpt": "Python · 525 stars today — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +118,7 @@
    "title": "ruvnet/ruflo",
    "url": "https://github.com/ruvnet/ruflo",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "TypeScript · 146 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
+   "excerpt": "TypeScript · 224 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -43,6 +147,14 @@
    "category": "Press"
   },
   {
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "date": "2026-10-15T13:00:00+00:00",
+   "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
    "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
    "date": "2026-10-15T12:00:00+00:00",
@@ -57,6 +169,14 @@
    "excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting…",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Introducing Timestral",
+   "url": "https://mistral.ai/news/timestral/",
+   "date": "2026-10-15T12:00:00+00:00",
+   "excerpt": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+   "source": "Mistral",
+   "category": "Lab"
   },
   {
    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
@@ -582,9 +702,41 @@
    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
    "date": "2026-10-15T00:00:00+00:00",
-   "excerpt": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories an…",
+   "excerpt": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "An update on independent evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "An update on independent evaluators",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "url": "https://huggingface.co/blog/meta-muse-spark-open",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Welcome FLUX.3 Image Klein in Diffusers",
+   "url": "https://huggingface.co/blog/flux-3",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
   },
   {
    "title": "Hermes Agent v0.22.1",
@@ -677,7 +829,7 @@
   {
    "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
    "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-   "date": "2026-10-14T16:14:34+00:00",
+   "date": "2026-10-14T16:14:00+00:00",
    "excerpt": "General Science",
    "source": "Google Research",
    "category": "Major Lab"
@@ -1443,6 +1595,38 @@
    "category": "Paper"
   },
   {
+   "title": "Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching",
+   "url": "https://huggingface.co/papers/2610.19628",
+   "date": "2026-10-13T20:00:00+00:00",
+   "excerpt": "Recent work has explored visual reasoning through image generation, where models solve visual-reasoning problems by directly generating solution images. Intuitively, iterative samplers such as flow matching are well suited to this task, since each sampling step may resemble one reasoning step. Howe…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement",
+   "url": "https://huggingface.co/papers/2610.19361",
+   "date": "2026-10-13T20:00:00+00:00",
+   "excerpt": "Embodied visual tracking requires a robot to identify a designated target from visual observations and control its own motion to follow that target through an environment. Following an isolated person is a comparatively simple demonstration of embodied visual tracking, but following the intended pe…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "A Diagnostic Study of World-Space Human Recovery Under High Camera Dynamics",
+   "url": "https://huggingface.co/papers/2610.19729",
+   "date": "2026-10-13T20:00:00+00:00",
+   "excerpt": "Monocular world-space human recovery methods excel on current benchmarks, but these rarely include fast camera motion. We introduce the K-Pop stress test, broadcast dance videos that combine fast, large camera motion with dense multi-person choreography. Leading methods produce plausible per-frame…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents",
+   "url": "https://huggingface.co/papers/2610.19420",
+   "date": "2026-10-13T20:00:00+00:00",
+   "excerpt": "Simulated environments enable scalable training data generation for embodied agents, but more data does not necessarily provide what a particular agent needs to learn. Existing environment-generation pipelines largely optimize generic properties such as realism, diversity, or task coverage, while d…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Developing Gemini 4 Argon responsibly and safely",
    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
    "date": "2026-10-13T19:43:07+00:00",
@@ -1967,6 +2151,14 @@
    "url": "https://huggingface.co/papers/2610.18677",
    "date": "2026-10-12T20:00:00+00:00",
    "excerpt": "Online decision-making faces a tension between efficient inference and long-horizon reasoning. Value-based methods rely on short-horizon bootstrapping that limits the propagation of long-term information, while trajectory optimization methods plan explicitly but must solve a high-dimensional optimi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
+   "url": "https://huggingface.co/papers/2610.19128",
+   "date": "2026-10-12T20:00:00+00:00",
+   "excerpt": "Vision-language models (VLMs) are increasingly deployed in multi-agent systems to automate complex computer-use workflows, yet existing benchmarks mostly assume consistent, cooperative environments. In contrast, real-world collaboration rarely runs on consistent information: peer or sub-agents freq…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -7703,7 +7895,7 @@
    "title": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Go · 398 stars today — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+   "excerpt": "Go · 530 stars today — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7711,7 +7903,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 534 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 688 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
