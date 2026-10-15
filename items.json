@@ -1,7 +1,79 @@
 {
- "updated": "2026-10-15T18:22:17+00:00",
+ "updated": "2026-10-15T22:25:56+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "The tech backlash is now in theaters",
+   "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "date": "2026-10-15T21:39:52+00:00",
+   "excerpt": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabi…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Trump posts AI-edited photo to brag about White House restoration work",
+   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "date": "2026-10-15T21:09:33+00:00",
+   "excerpt": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "date": "2026-10-15T20:34:01+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "date": "2026-10-15T20:04:53+00:00",
+   "excerpt": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+   "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+   "date": "2026-10-15T19:57:16+00:00",
+   "excerpt": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "date": "2026-10-15T19:55:25+00:00",
+   "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "date": "2026-10-15T19:14:26+00:00",
+   "excerpt": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "date": "2026-10-15T19:00:00+00:00",
+   "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+   "date": "2026-10-15T18:56:46+00:00",
+   "excerpt": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
@@ -737,6 +809,22 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+   "url": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selectio…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+   "url": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+   "date": "2026-10-15T00:00:00+00:00",
+   "excerpt": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
   },
   {
    "title": "Hermes Agent v0.22.1",
@@ -1627,6 +1715,14 @@
    "category": "Paper"
   },
   {
+   "title": "Lluna: Collaborative Unimodal Models for Missing-Modality Inference",
+   "url": "https://huggingface.co/papers/2610.20526",
+   "date": "2026-10-13T20:00:00+00:00",
+   "excerpt": "Pretrained unimodal models offer a flexible route to multimodal prediction through collaboration, but this collaboration can become less accurate than a surviving unimodal model when modalities are missing. We study this setting using fixed surviving-model anchors and find that collaborative gains…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Developing Gemini 4 Argon responsibly and safely",
    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
    "date": "2026-10-13T19:43:07+00:00",
@@ -1817,6 +1913,14 @@
    "excerpt": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
+   "url": "https://huggingface.co/papers/2610.18762",
+   "date": "2026-10-13T13:23:19+00:00",
+   "excerpt": "Evaluation for automatic crisis reporting should measure what practitioners need, not what is convenient to compare. Through LLM-assisted, author-approved content analysis, we derive a 15-slot information schema from professional humanitarian situation reports using qualitative content analysis, th…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Apple launches HomeView, its first smart display for the home",
