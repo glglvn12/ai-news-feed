@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-16T07:18:10+00:00",
+ "updated": "2026-10-16T13:19:05+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "android/skills",
+   "url": "https://github.com/android/skills",
+   "date": "2026-10-16T13:19:05+00:00",
+   "excerpt": "Kotlin · 35 stars today —",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "MadsLorentzen/ai-job-search",
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "date": "2026-10-16T13:19:05+00:00",
+   "excerpt": "Python · 879 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "date": "2026-10-16T12:55:09+00:00",
+   "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
    "url": "https://arxiv.org/abs/2610.20665",
@@ -419,6 +443,14 @@
    "category": "Lab"
   },
   {
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
    "date": "2026-10-15T23:44:56+00:00",
@@ -622,7 +654,7 @@
    "title": "anthropics/claude-plugins-official",
    "url": "https://github.com/anthropics/claude-plugins-official",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "Python · 307 stars today — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+   "excerpt": "Python · 1,552 stars today — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -630,7 +662,7 @@
    "title": "ruvnet/ruflo",
    "url": "https://github.com/ruvnet/ruflo",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "TypeScript · 147 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
+   "excerpt": "TypeScript · 672 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -646,7 +678,7 @@
    "title": "xerj-org/xerj",
    "url": "https://github.com/xerj-org/xerj",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "Rust · 715 stars today — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep.…",
+   "excerpt": "Rust · 1,647 stars today — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than gre…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1467,6 +1499,70 @@
    "category": "Paper"
   },
   {
+   "title": "Gen4P: Video Generators are 4D Perceivers",
+   "url": "https://huggingface.co/papers/2610.22371",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a sing…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill",
+   "url": "https://huggingface.co/papers/2610.21500",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Reusing the attention KV cache across requests is a standard way to cut prefill cost in long-context LLM serving, and production systems increasingly back the per-engine cache with a remote tier shared by every engine. We study such a tier in a disaggregated deployment of GLM-5.3, an FP8 mixture-of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+   "url": "https://huggingface.co/papers/2610.22352",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts when fusing inconsistent multi-view predictions or struggle to preserve fine details through implicit…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Can World and Action Modeling Benefit Each Other under Unified Causal Training?",
+   "url": "https://huggingface.co/papers/2610.21095",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "World and action modeling are closely related, yet their reciprocal benefits under unified causal training remain unclear. We introduce OneWM, a simple framework for unified causal training that treats actions as both conditions for world prediction and targets for policy learning within a shared v…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FDE-Gym: The Last Mile of AI Delivery",
+   "url": "https://huggingface.co/papers/2610.22350",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constra…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Data World: Scaling Data Environments from Scratch",
+   "url": "https://huggingface.co/papers/2610.21656",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Data agents use code to process heterogeneous files and derive analytical insights. Scaling their training faces costly environment curation, privacy and intellectual-property restrictions, and difficulty verifying open-ended findings without known generative truth. Our core insight is to specify t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+   "url": "https://huggingface.co/papers/2610.22355",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond conventional binary verifiers that produce only True/False discrete judgments and…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness",
+   "url": "https://huggingface.co/papers/2610.21910",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "As Vision-Language Models (VLMs) advance, they are increasingly expected to perform spatiotemporal reasoning over motion, actions, and view changes beyond what the input images show. Video World Models (VWMs) provide a natural unified engine for visual imagination by generating task-relevant visual…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "The AI race is back on",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
    "date": "2026-10-14T19:06:03+00:00",
@@ -1654,7 +1750,7 @@
    "title": "K-Dense-AI/scientific-agent-skills",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 1,091 stars today — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Cl…",
+   "excerpt": "Python · 1,158 stars today — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Cl…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1662,7 +1758,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 103 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 716 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8551,7 +8647,7 @@
    "title": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 1,013 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "excerpt": "JavaScript · 1,057 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8639,7 +8735,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 582 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 973 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8695,7 +8791,7 @@
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 904 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+   "excerpt": "TypeScript · 449 stars today — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8719,7 +8815,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 163 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 214 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -11442,14 +11538,6 @@
    "date": "2026-08-18T00:00:00+00:00",
    "excerpt": "How Claude is accelerating protein design and analytical chemistry",
    "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-   "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-   "date": "2026-08-17T10:34:00+00:00",
-   "excerpt": "General Science",
-   "source": "Google Research",
    "category": "Major Lab"
   }
  ]
