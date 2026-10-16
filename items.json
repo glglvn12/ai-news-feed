@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-16T18:08:55+00:00",
+ "updated": "2026-10-16T21:19:34+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+   "date": "2026-10-16T18:11:34+00:00",
+   "excerpt": "General Science",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "date": "2026-10-16T18:00:00+00:00",
+   "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "India becomes the latest country to report rogue AI agent activity",
    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -86,7 +102,7 @@
    "title": "android/skills",
    "url": "https://github.com/android/skills",
    "date": "2026-10-16T13:19:05+00:00",
-   "excerpt": "Kotlin · 35 stars today —",
+   "excerpt": "Kotlin · 163 stars today —",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -535,6 +551,22 @@
    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "date": "2026-10-16T00:00:00+00:00",
    "excerpt": "Designing more efficient quantum circuits with Claude",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Claude reveals ECDSA curve origins",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1663,6 +1695,22 @@
    "url": "https://huggingface.co/papers/2610.22127",
    "date": "2026-10-14T20:00:00+00:00",
    "excerpt": "Personalization of Large Language Models (LLMs) is increasingly important for user-centric applications, yet prior methods mainly adapt dense LLMs, whose polysemantic neurons, each encoding multiple unrelated concepts, hinder localizing the components behind personalization, and thus understanding…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+   "url": "https://huggingface.co/papers/2610.21261",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction or…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+   "url": "https://huggingface.co/papers/2610.22280",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when need…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
