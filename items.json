@@ -1,7 +1,87 @@
 {
- "updated": "2026-10-16T13:19:05+00:00",
+ "updated": "2026-10-16T18:08:55+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "date": "2026-10-16T17:52:24+00:00",
+   "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+   "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+   "date": "2026-10-16T17:00:00+00:00",
+   "excerpt": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "date": "2026-10-16T16:30:00+00:00",
+   "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who bel…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "date": "2026-10-16T16:30:00+00:00",
+   "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who bel…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "date": "2026-10-16T16:01:37+00:00",
+   "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "date": "2026-10-16T15:33:49+00:00",
+   "excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+   "date": "2026-10-16T15:00:00+00:00",
+   "excerpt": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel,…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "date": "2026-10-16T14:26:51+00:00",
+   "excerpt": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s new terms may allow it to train AI on news sites for free",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "date": "2026-10-16T14:02:40+00:00",
+   "excerpt": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"dev…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "date": "2026-10-16T14:00:00+00:00",
+   "excerpt": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "android/skills",
    "url": "https://github.com/android/skills",
@@ -449,6 +529,14 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "Designing more efficient quantum circuits with Claude",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Designing more efficient quantum circuits with Claude",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -1563,6 +1651,22 @@
    "category": "Paper"
   },
   {
+   "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+   "url": "https://huggingface.co/papers/2610.22358",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantities such as cumulat…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+   "url": "https://huggingface.co/papers/2610.22127",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Personalization of Large Language Models (LLMs) is increasingly important for user-centric applications, yet prior methods mainly adapt dense LLMs, whose polysemantic neurons, each encoding multiple unrelated concepts, hinder localizing the components behind personalization, and thus understanding…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "The AI race is back on",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
    "date": "2026-10-14T19:06:03+00:00",
@@ -1758,7 +1862,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 716 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 323 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8815,7 +8919,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 214 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 282 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
