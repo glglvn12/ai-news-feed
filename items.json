@@ -1,7 +1,247 @@
 {
- "updated": "2026-10-17T00:33:41+00:00",
+ "updated": "2026-10-17T05:39:40+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+   "url": "https://arxiv.org/abs/2610.20665",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across si…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+   "url": "https://arxiv.org/abs/2610.20675",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+   "url": "https://arxiv.org/abs/2610.20681",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for in…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+   "url": "https://arxiv.org/abs/2610.20780",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a l…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+   "url": "https://arxiv.org/abs/2610.20786",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome-based reinforcemen…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
+   "url": "https://arxiv.org/abs/2610.20809",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20809v1 Announce Type: new Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers have to be exactly r…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+   "url": "https://arxiv.org/abs/2610.20845",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20845v1 Announce Type: new Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank it trained with (th…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+   "url": "https://arxiv.org/abs/2610.20926",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement may…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
+   "url": "https://arxiv.org/abs/2610.20935",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those decisions, leading to fail…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+   "url": "https://arxiv.org/abs/2610.20939",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20939v1 Announce Type: new Abstract: Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments and the scarcity of…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+   "url": "https://arxiv.org/abs/2610.20960",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted agent safety guardrails from post-hoc trajectory-leve…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
+   "url": "https://arxiv.org/abs/2610.21045",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21045v1 Announce Type: new Abstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We study supervised fi…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+   "url": "https://arxiv.org/abs/2610.21055",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21055v1 Announce Type: new Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with public data, as a test…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
+   "url": "https://arxiv.org/abs/2610.21074",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We present OmicsBench…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+   "url": "https://arxiv.org/abs/2610.21082",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisi…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
+   "url": "https://arxiv.org/abs/2610.21088",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21088v1 Announce Type: new Abstract: Test-time search can improve agent performance by exploring alternative actions and using a critic to select promising branches. We study this approach in terminal-based computer-use environments, which expose only a partial view of a large underlying…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2610.21091",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected an…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Planning Commitment of LLM under Partial Observability",
+   "url": "https://arxiv.org/abs/2610.21108",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21108v1 Announce Type: new Abstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservatively plan only over…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
+   "url": "https://arxiv.org/abs/2610.21109",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21109v1 Announce Type: new Abstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) than on an agent's ab…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+   "url": "https://arxiv.org/abs/2610.21147",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and memory construction se…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
+   "url": "https://arxiv.org/abs/2610.21167",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pipelines typically ex…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "MemScope: Evolving Agent Memory Architectures through Localized Code Repair",
+   "url": "https://arxiv.org/abs/2610.21170",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21170v1 Announce Type: new Abstract: Agent memory architectures define how LLM agents store and reuse experience across tasks, but they are typically fixed after deployment, limiting their adaptability across task types. Recent self-evolving approaches instead adapt these memory architec…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
+   "url": "https://arxiv.org/abs/2610.21177",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21177v1 Announce Type: new Abstract: Task completion alone does not determine whether a stateful agent satisfied its obligations, and a recorded judgment does not guarantee that its supporting evidence remains valid. We present AgentEval, a system that carries a contract-bound assessment…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Who May Release an Agent's Promise? Standing over Commitments in Multi-Party Chat",
+   "url": "https://arxiv.org/abs/2610.21203",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21203v1 Announce Type: new Abstract: When an assistant serving a team makes a promise to Alice, who may cancel it? We call this standing: only the creditor (the person owed) or someone the creditor or operator policy authorizes may release a commitment, regardless of rank. In a controlle…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "AutoOnboarder: Autonomously Onboarding LLM Agents",
+   "url": "https://arxiv.org/abs/2610.21218",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21218v1 Announce Type: new Abstract: Agentic large language models have been documented to lose reasoning capability when placed inside a harness, the software that mediates their observations and actions. To reconcile these losses, we introduce AutoOnboarder, an autonomous system that a…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Auditing Escalation Reliability in Healthcare LLM Agents: A Perturbation-Controlled Benchmark of Workflow-State Failures",
+   "url": "https://arxiv.org/abs/2610.21270",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21270v1 Announce Type: new Abstract: Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow ep…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
+   "url": "https://arxiv.org/abs/2610.21281",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21281v1 Announce Type: new Abstract: Root-cause analysis (RCA) in large-scale distributed systems is challenging because a single symptom can cross service, data, configuration, compute, and organizational boundaries. Responders must assemble incomplete evidence and coordinate experts wh…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
+   "url": "https://arxiv.org/abs/2610.21283",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21283v1 Announce Type: new Abstract: Code world models represent world dynamics through explicit state and executable rules. We investigate how to coordinate object representations, behavioral revisions, and visual memory within this formulation. We present Mallea, a system for building,…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Bias Control and Injection for Multi-Agent Aggregation",
+   "url": "https://arxiv.org/abs/2610.21290",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21290v1 Announce Type: new Abstract: Multi-agent reasoning with large language models (LLMs) raises a central question for collective decision-making: when agents disagree, whose decision should be trusted? Resolving such disagreements is difficult because agents' decisions are susceptib…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Constrained Multi-Agent Reinforcement Learning in Imagination",
+   "url": "https://arxiv.org/abs/2610.21319",
+   "date": "2026-10-17T04:00:00+00:00",
+   "excerpt": "arXiv:2610.21319v1 Announce Type: new Abstract: Predicting cost in a multi-agent world model moves most constrained policy updates into imagination: the stronger model-free baseline needs $10$ to $20$ times CA-MAMBA's interactions on the median SMAC configuration, and CA-MAMBA earns $2.8$ to $12$ t…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
   {
    "title": "Replit is no longer working with Anthropic, CEO says",
    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -137,246 +377,6 @@
    "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
    "source": "TechCrunch AI",
    "category": "Press"
-  },
-  {
-   "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-   "url": "https://arxiv.org/abs/2610.20665",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across si…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-   "url": "https://arxiv.org/abs/2610.20675",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-   "url": "https://arxiv.org/abs/2610.20681",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for in…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-   "url": "https://arxiv.org/abs/2610.20780",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20780v1 Announce Type: cross Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
-   "url": "https://arxiv.org/abs/2610.20786",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome-based reinforcemen…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
-   "url": "https://arxiv.org/abs/2610.20809",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20809v1 Announce Type: cross Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers have to be exactly…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
-   "url": "https://arxiv.org/abs/2610.20845",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20845v1 Announce Type: cross Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank it trained with (…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
-   "url": "https://arxiv.org/abs/2610.20926",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20926v1 Announce Type: cross Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement m…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
-   "url": "https://arxiv.org/abs/2610.20935",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those decisions, leading to fail…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
-   "url": "https://arxiv.org/abs/2610.20939",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20939v1 Announce Type: new Abstract: Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments and the scarcity of…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
-   "url": "https://arxiv.org/abs/2610.20960",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted agent safety guardrails from post-hoc trajectory-leve…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
-   "url": "https://arxiv.org/abs/2610.21045",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21045v1 Announce Type: new Abstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We study supervised fi…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
-   "url": "https://arxiv.org/abs/2610.21055",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21055v1 Announce Type: cross Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with public data, as a te…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
-   "url": "https://arxiv.org/abs/2610.21074",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We present OmicsBench…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-   "url": "https://arxiv.org/abs/2610.21082",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisi…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
-   "url": "https://arxiv.org/abs/2610.21088",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21088v1 Announce Type: new Abstract: Test-time search can improve agent performance by exploring alternative actions and using a critic to select promising branches. We study this approach in terminal-based computer-use environments, which expose only a partial view of a large underlying…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2610.21091",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21091v1 Announce Type: cross Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "Planning Commitment of LLM under Partial Observability",
-   "url": "https://arxiv.org/abs/2610.21108",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21108v1 Announce Type: cross Abstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservatively plan only ov…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
-   "url": "https://arxiv.org/abs/2610.21109",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21109v1 Announce Type: cross Abstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) than on an agent's…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
-   "url": "https://arxiv.org/abs/2610.21147",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and memory construction se…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
-   "url": "https://arxiv.org/abs/2610.21167",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pipelines typically ex…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "MemScope: Evolving Agent Memory Architectures through Localized Code Repair",
-   "url": "https://arxiv.org/abs/2610.21170",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21170v1 Announce Type: new Abstract: Agent memory architectures define how LLM agents store and reuse experience across tasks, but they are typically fixed after deployment, limiting their adaptability across task types. Recent self-evolving approaches instead adapt these memory architec…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
-   "url": "https://arxiv.org/abs/2610.21177",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21177v1 Announce Type: new Abstract: Task completion alone does not determine whether a stateful agent satisfied its obligations, and a recorded judgment does not guarantee that its supporting evidence remains valid. We present AgentEval, a system that carries a contract-bound assessment…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Who May Release an Agent's Promise? Standing over Commitments in Multi-Party Chat",
-   "url": "https://arxiv.org/abs/2610.21203",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21203v1 Announce Type: cross Abstract: When an assistant serving a team makes a promise to Alice, who may cancel it? We call this standing: only the creditor (the person owed) or someone the creditor or operator policy authorizes may release a commitment, regardless of rank. In a control…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "AutoOnboarder: Autonomously Onboarding LLM Agents",
-   "url": "https://arxiv.org/abs/2610.21218",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21218v1 Announce Type: new Abstract: Agentic large language models have been documented to lose reasoning capability when placed inside a harness, the software that mediates their observations and actions. To reconcile these losses, we introduce AutoOnboarder, an autonomous system that a…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Auditing Escalation Reliability in Healthcare LLM Agents: A Perturbation-Controlled Benchmark of Workflow-State Failures",
-   "url": "https://arxiv.org/abs/2610.21270",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21270v1 Announce Type: new Abstract: Trustworthy biomedical AI requires reliable action selection when evidence is missing, stale, conflicting, or late, not only accurate answers on static inputs. We instantiate an episode-level evaluation protocol as 400 synthetic healthcare workflow ep…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Diviner: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure",
-   "url": "https://arxiv.org/abs/2610.21281",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21281v1 Announce Type: new Abstract: Root-cause analysis (RCA) in large-scale distributed systems is challenging because a single symptom can cross service, data, configuration, compute, and organizational boundaries. Responders must assemble incomplete evidence and coordinate experts wh…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Mallea: Building, Steering, and Memorizing Worlds with Coding Agent",
-   "url": "https://arxiv.org/abs/2610.21283",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21283v1 Announce Type: new Abstract: Code world models represent world dynamics through explicit state and executable rules. We investigate how to coordinate object representations, behavioral revisions, and visual memory within this formulation. We present Mallea, a system for building,…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Bias Control and Injection for Multi-Agent Aggregation",
-   "url": "https://arxiv.org/abs/2610.21290",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21290v1 Announce Type: new Abstract: Multi-agent reasoning with large language models (LLMs) raises a central question for collective decision-making: when agents disagree, whose decision should be trusted? Resolving such disagreements is difficult because agents' decisions are susceptib…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Constrained Multi-Agent Reinforcement Learning in Imagination",
-   "url": "https://arxiv.org/abs/2610.21319",
-   "date": "2026-10-16T04:00:00+00:00",
-   "excerpt": "arXiv:2610.21319v1 Announce Type: new Abstract: Predicting cost in a multi-agent world model moves most constrained policy updates into imagination: the stronger model-free baseline needs $10$ to $20$ times CA-MAMBA's interactions on the median SMAC configuration, and CA-MAMBA earns $2.8$ to $12$ t…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
   },
   {
    "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
@@ -608,6 +608,14 @@
    "date": "2026-10-16T00:00:00+00:00",
    "excerpt": "The AI expectations gap",
    "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "source": "OpenAI",
    "category": "Major Lab"
   },
   {
@@ -1751,6 +1759,14 @@
    "url": "https://huggingface.co/papers/2610.22280",
    "date": "2026-10-14T20:00:00+00:00",
    "excerpt": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when need…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+   "url": "https://huggingface.co/papers/2610.21185",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
