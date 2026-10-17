@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-16T21:19:34+00:00",
+ "updated": "2026-10-17T00:33:41+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "date": "2026-10-16T21:22:28+00:00",
+   "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "date": "2026-10-16T19:00:00+00:00",
+   "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
@@ -102,7 +118,7 @@
    "title": "android/skills",
    "url": "https://github.com/android/skills",
    "date": "2026-10-16T13:19:05+00:00",
-   "excerpt": "Kotlin · 163 stars today —",
+   "excerpt": "Kotlin · 36 stars today —",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -110,7 +126,7 @@
    "title": "MadsLorentzen/ai-job-search",
    "url": "https://github.com/MadsLorentzen/ai-job-search",
    "date": "2026-10-16T13:19:05+00:00",
-   "excerpt": "Python · 879 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "excerpt": "Python · 898 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -571,6 +587,30 @@
    "category": "Major Lab"
   },
   {
+   "title": "Working at the frontier shapes expectations for the future",
+   "url": "https://www.anthropic.com/research/expectations-for-the-future",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Working at the frontier shapes expectations for the future",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How employment is changing at Anthropic",
+   "url": "https://www.anthropic.com/research/employment-at-anthropic",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "How employment is changing at Anthropic",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The AI expectations gap",
+   "url": "https://www.anthropic.com/research/ai-expectations-gap",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "The AI expectations gap",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
    "date": "2026-10-15T23:44:56+00:00",
@@ -798,7 +838,7 @@
    "title": "xerj-org/xerj",
    "url": "https://github.com/xerj-org/xerj",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "Rust · 1,647 stars today — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than gre…",
+   "excerpt": "Rust · 1,648 stars today — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than gre…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1910,7 +1950,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 323 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 281 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8967,7 +9007,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 282 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 278 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -11683,14 +11723,6 @@
    "excerpt": "Grok 4.6 is now available via Amazon Bedrock.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "How Claude is accelerating protein design and analytical chemistry",
-   "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-   "date": "2026-08-18T00:00:00+00:00",
-   "excerpt": "How Claude is accelerating protein design and analytical chemistry",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
   }
  ]
 }
