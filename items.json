@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-17T17:19:27+00:00",
+ "updated": "2026-10-17T20:42:30+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "date": "2026-10-17T20:21:19+00:00",
+   "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "date": "2026-10-17T18:48:08+00:00",
+   "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Meta removes language that may have allowed it to scrape news sites",
    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
@@ -30,7 +46,7 @@
    "title": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "TypeScript · 829 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "excerpt": "TypeScript · 829 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
