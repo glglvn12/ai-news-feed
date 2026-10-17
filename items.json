@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-17T05:39:40+00:00",
+ "updated": "2026-10-17T10:54:15+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "akitaonrails/ai-memory",
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "date": "2026-10-17T10:54:15+00:00",
+   "excerpt": "Rust · 159 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "date": "2026-10-17T10:54:15+00:00",
+   "excerpt": "TypeScript · 1,102 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "anomalyco/opencode",
+   "url": "https://github.com/anomalyco/opencode",
+   "date": "2026-10-17T10:54:15+00:00",
+   "excerpt": "TypeScript · 488 stars today — The open source coding agent.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
   {
    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
    "url": "https://arxiv.org/abs/2610.20665",
@@ -8895,7 +8919,7 @@
    "title": "anthropics/claude-code",
    "url": "https://github.com/anthropics/claude-code",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 128 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+   "excerpt": "TypeScript · 168 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
