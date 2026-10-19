@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-19T04:54:05+00:00",
+ "updated": "2026-10-19T10:53:09+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "headroomlabs-ai/headroom",
+   "url": "https://github.com/headroomlabs-ai/headroom",
+   "date": "2026-10-19T10:53:09+00:00",
+   "excerpt": "Python · 317 stars today — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "shiyu-coder/Kronos",
+   "url": "https://github.com/shiyu-coder/Kronos",
+   "date": "2026-10-19T10:53:09+00:00",
+   "excerpt": "Python · 355 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "date": "2026-10-19T09:08:05+00:00",
+   "excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—wer…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
    "url": "https://arxiv.org/abs/2610.22507",
@@ -1095,6 +1119,46 @@
    "url": "https://huggingface.co/papers/2610.23839",
    "date": "2026-10-15T20:00:00+00:00",
    "excerpt": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncer…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Xiaomi-Lens-0 Technical Report",
+   "url": "https://huggingface.co/papers/2610.23279",
+   "date": "2026-10-15T20:00:00+00:00",
+   "excerpt": "Multimodal large language models (MLLMs) answer questions about whole images well, yet they still struggle with fine-grained region understanding. A key reason is that text-only supervision never specifies which regions support an answer. To close this gap, we present Xiaomi-Lens-0, a 4B MLLM built…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing",
+   "url": "https://huggingface.co/papers/2610.23751",
+   "date": "2026-10-15T20:00:00+00:00",
+   "excerpt": "Multi-turn image editing aims to modify an image according to a sequence of instructions, making it better aligned with human-AI collaborative creation than single-turn editing. However, constructing high-quality multi-turn training data remains challenging, as conventional sequential rollout accum…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+   "url": "https://huggingface.co/papers/2610.23121",
+   "date": "2026-10-15T20:00:00+00:00",
+   "excerpt": "Generating complete, coherent, and usable 3D indoor scenes from natural language requires strong design intelligence: the ability to design high-quality scenes and critique their quality. However, existing approaches either rely on general-purpose models lacking domain-specific design experience or…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars",
+   "url": "https://huggingface.co/papers/2610.23230",
+   "date": "2026-10-15T20:00:00+00:00",
+   "excerpt": "Making a conference poster is visual coding in miniature: an entire paper must be compressed onto a single page, which exercises summarization, visual design, and code implementation at once, using nothing beyond the paper itself. Yet benchmarks for this task in the context of visual coding remain…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
+   "url": "https://huggingface.co/papers/2610.23194",
+   "date": "2026-10-15T20:00:00+00:00",
+   "excerpt": "AI agents increasingly use files and software tools to produce professional deliverables. Such work draws on materials, decisions, and feedback accumulated across assignments. We introduce OfficeTown, a generative simulation framework for professional organizations in which tasks and their context…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2279,6 +2343,54 @@
    "url": "https://huggingface.co/papers/2610.22471",
    "date": "2026-10-14T20:00:00+00:00",
    "excerpt": "GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In this report, we ask not only how capable GPT-6-Astra is, but what its capabilities imply for the fi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AI-Driven Disaster Response and Displacement Monitoring",
+   "url": "https://huggingface.co/papers/2610.21482",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For instance, in addressing climate change, AI-powered models are being used for faster and more accura…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+   "url": "https://huggingface.co/papers/2610.22428",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, it is also most of the file once the rest of the model is compressed. We ask what that table actual…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics",
+   "url": "https://huggingface.co/papers/2610.22169",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "The vocabulary of a language model is its native semantics: the embedding and the unembedding fix the meaning of a state at the two ends of the residual stream. Between them, existing methods either reuse a fixed lens or treat the states as a point cloud, and neither reads a state the way the model…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning to Think and Explore in 3D World",
+   "url": "https://huggingface.co/papers/2610.21783",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "We study how vision-language models (VLMs) can learn to think and actively explore in 3D space. Instead of providing multi-view images, videos, or 3D representations to the model, we preserve the native visual encoding of VLMs, i.e., a single image, one at a time, just like humans, and treat the 3D…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+   "url": "https://huggingface.co/papers/2610.21082",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended and depend on project context…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models",
+   "url": "https://huggingface.co/papers/2610.22602",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Retrieval is a fundamental task in multimodal systems: given an image or text query, the goal is to find the most relevant images or texts in a collection, often using a shared embedding space. Reliable retrieval requires these embeddings to capture not only which concepts are present, but also how…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -9407,7 +9519,7 @@
    "title": "anthropics/claude-code",
    "url": "https://github.com/anthropics/claude-code",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 179 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+   "excerpt": "TypeScript · 895 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
