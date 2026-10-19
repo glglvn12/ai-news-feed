@@ -1,7 +1,55 @@
 {
- "updated": "2026-10-19T10:53:09+00:00",
+ "updated": "2026-10-19T17:33:17+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "People are using AI to make their smart TVs dumb again",
+   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+   "date": "2026-10-19T16:13:22+00:00",
+   "excerpt": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "date": "2026-10-19T15:37:09+00:00",
+   "excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+   "date": "2026-10-19T14:30:00+00:00",
+   "excerpt": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "date": "2026-10-19T13:58:41+00:00",
+   "excerpt": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "New course teaches how AI models run on modern accelerators",
+   "url": "https://research.ibm.com/blog/coursera-dataflow-accelerator-architecture-specialization?utm_medium=rss&utm_source=rss",
+   "date": "2026-10-19T12:00:00+00:00",
+   "excerpt": "'Dataflow Architectures for AI' is a 6-course specialization from IBM Research that compares leading accelerator architectures through hands-on labs.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Democrats think cracking down on AI could give them an edge",
+   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+   "date": "2026-10-19T12:00:00+00:00",
+   "excerpt": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee l…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
@@ -270,7 +318,7 @@
    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
    "date": "2026-10-18T20:37:40+00:00",
-   "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
+   "excerpt": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -283,7 +331,7 @@
    "category": "Press"
   },
   {
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "title": "Disney agrees to hire the majority of Character AI’s workforce",
    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
    "date": "2026-10-18T16:30:00+00:00",
    "excerpt": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
@@ -302,7 +350,7 @@
    "title": "Comfy-Org/ComfyUI",
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "date": "2026-10-18T11:19:27+00:00",
-   "excerpt": "Python · 154 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "excerpt": "Python · 1,011 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -358,7 +406,7 @@
    "title": "akitaonrails/ai-memory",
    "url": "https://github.com/akitaonrails/ai-memory",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "Rust · 512 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "excerpt": "Rust · 666 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -366,7 +414,7 @@
    "title": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "TypeScript · 1,146 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "excerpt": "TypeScript · 1,591 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -374,7 +422,7 @@
    "title": "anomalyco/opencode",
    "url": "https://github.com/anomalyco/opencode",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "TypeScript · 1,414 stars today — The open source coding agent.",
+   "excerpt": "TypeScript · 1,310 stars today — The open source coding agent.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -742,7 +790,7 @@
    "title": "MadsLorentzen/ai-job-search",
    "url": "https://github.com/MadsLorentzen/ai-job-search",
    "date": "2026-10-16T13:19:05+00:00",
-   "excerpt": "Python · 2,232 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "excerpt": "Python · 3,860 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1318,7 +1366,7 @@
    "title": "ruvnet/ruflo",
    "url": "https://github.com/ruvnet/ruflo",
    "date": "2026-10-15T13:30:50+00:00",
-   "excerpt": "TypeScript · 513 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
+   "excerpt": "TypeScript · 564 stars today — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Herme…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2395,6 +2443,54 @@
    "category": "Paper"
   },
   {
+   "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
+   "url": "https://huggingface.co/papers/2610.22448",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Enhancing the agentic capabilities of Large Language Models (LLMs) to tackle complex software engineering (SWE) and general terminal-usage problems is a pressing challenge. Current state-of-the-art LLMs often go through large-scale agentic Reinforcement Learning (RL). However, they mostly rely on h…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing",
+   "url": "https://huggingface.co/papers/2610.22744",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Creative intent in video editing can be expressed through text instructions (e.g., \"remove the people\"), image references (e.g., subject appearance), video references (e.g., camera movement), or a combination of the above. We introduce OmniXRef, a unified framework for multimodal multi-reference vi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+   "url": "https://huggingface.co/papers/2610.22273",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-document reasoning at inference time, while precomputed structures like knowledge graphs often fall short because…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations",
+   "url": "https://huggingface.co/papers/2610.22708",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Text-based world models have recently shown potential to simulate complex RL environment state transitions for a diverse set of use cases. However, no standardized benchmark exists to compare, study and improve these models. Through this paper, we attempt to solve this problem by building GlobeBenc…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
+   "url": "https://huggingface.co/papers/2610.22697",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "AI agents increasingly browse the web on users' behalf, yet they consume webpages as screenshots or text, exposing their LLMs to unvetted third-party content. Browsers enforce semantics under which what an element can do depends on what it is and where it comes from, not on what it says. Agents fla…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+   "url": "https://huggingface.co/papers/2610.22306",
+   "date": "2026-10-14T20:00:00+00:00",
+   "excerpt": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Robust, Compensated SORT), a tracking-by-detection tracker that trains nothing and runs in real time.…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "The AI race is back on",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
    "date": "2026-10-14T19:06:03+00:00",
@@ -2590,7 +2686,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 589 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 607 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -9519,7 +9615,7 @@
    "title": "anthropics/claude-code",
    "url": "https://github.com/anthropics/claude-code",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 895 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+   "excerpt": "TypeScript · 167 stars today — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -12330,22 +12426,6 @@
    "date": "2026-08-21T00:00:00+00:00",
    "excerpt": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
    "source": "xAI",
-   "category": "Lab"
-  },
-  {
-   "title": "Broadening access to Skala creates a faster path to predictive DFT",
-   "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-   "date": "2026-08-20T16:00:00+00:00",
-   "excerpt": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a fast…",
-   "source": "Microsoft Research",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Agentic Search. More accurate and efficient results from your AI systems.",
-   "url": "https://mistral.ai/news/agentic-search/",
-   "date": "2026-08-20T12:00:17+00:00",
-   "excerpt": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents",
-   "source": "Mistral",
    "category": "Lab"
   }
  ]
