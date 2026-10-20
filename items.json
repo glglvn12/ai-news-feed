@@ -1,7 +1,55 @@
 {
- "updated": "2026-10-20T18:31:09+00:00",
+ "updated": "2026-10-20T22:22:53+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "date": "2026-10-20T22:11:34+00:00",
+   "excerpt": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini abo…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "date": "2026-10-20T21:25:22+00:00",
+   "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "SpaceX’s AI business is beating expectations",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "date": "2026-10-20T20:40:41+00:00",
+   "excerpt": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "date": "2026-10-20T20:35:10+00:00",
+   "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "date": "2026-10-20T18:38:24+00:00",
+   "excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT now lets you lock your chats",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "date": "2026-10-20T18:36:53+00:00",
+   "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
@@ -1433,6 +1481,14 @@
    "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video",
+   "url": "https://huggingface.co/papers/2610.25288",
+   "date": "2026-10-17T20:00:00+00:00",
+   "excerpt": "Estimating a humanoid robot's internal state from video has a wide range of real-world applications but remains unexplored. During interactions with a robot, its onboard state information may be unavailable due to privacy, ownership, or communication constraints. Meanwhile, online and AI-generated…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
