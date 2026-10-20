@@ -1,12 +1,108 @@
 {
- "updated": "2026-10-20T13:38:06+00:00",
+ "updated": "2026-10-20T18:31:09+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "date": "2026-10-20T18:17:47+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "date": "2026-10-20T18:07:34+00:00",
+   "excerpt": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Strengthening AI safety evaluation through independent third-party review",
+   "url": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+   "date": "2026-10-20T17:57:55+00:00",
+   "excerpt": "How Amazon partnered with AVERI to independently assess — and improve — our internal safety testing of Amazon models.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "date": "2026-10-20T17:55:12+00:00",
+   "excerpt": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "date": "2026-10-20T17:12:48+00:00",
+   "excerpt": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "url": "https://huggingface.co/blog/allenai/fairstress",
+   "date": "2026-10-20T16:09:19+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Called to serve: Tech, research, and positive impact",
+   "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+   "date": "2026-10-20T16:00:00+00:00",
+   "excerpt": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech,…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "date": "2026-10-20T16:00:00+00:00",
+   "excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The new economics of enterprise AI",
+   "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+   "date": "2026-10-20T15:20:25+00:00",
+   "excerpt": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “h…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "date": "2026-10-20T15:19:48+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+   "date": "2026-10-20T14:18:37+00:00",
+   "excerpt": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+   "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+   "date": "2026-10-20T14:13:32+00:00",
+   "excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 751 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "excerpt": "Python · 906 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -59,6 +155,14 @@
    "category": "Press"
   },
   {
+   "title": "Voxtral 3",
+   "url": "https://mistral.ai/news/voxtral-3/",
+   "date": "2026-10-20T12:00:22+00:00",
+   "excerpt": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
    "title": "llm-d 1.0 hardens open-source AI inference for production",
    "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
    "date": "2026-10-20T12:00:00+00:00",
@@ -89,6 +193,14 @@
    "excerpt": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "date": "2026-10-20T10:00:00+00:00",
+   "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "A visit to Samsung’s massive new semiconductor hub",
@@ -581,6 +693,30 @@
   {
    "title": "MPS in PyTorch 2.15",
    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Claude designed protein binders against scorpion neurotoxins",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
    "date": "2026-10-20T00:00:00+00:00",
    "excerpt": "",
    "source": "Hugging Face",
@@ -1235,6 +1371,14 @@
    "category": "Paper"
   },
   {
+   "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale",
+   "url": "https://huggingface.co/papers/2604.11331",
+   "date": "2026-10-18T20:00:00+00:00",
+   "excerpt": "Scene-level 3D generation has long been dominated by 2D multi-view or video diffusion models. Typically, these 2D-based approaches perform scene generation in a 2D latent space, which introduces two fundamental issues: (i) representing 3D scenes via 2D views leads to significant representation redu…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "A woman was arrested in Philly for blocking a delivery robot",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
    "date": "2026-10-18T18:28:10+00:00",
@@ -1270,7 +1414,7 @@
    "title": "Investing in the public benefit",
    "url": "https://www.anthropic.com/news/public-benefit-fund",
    "date": "2026-10-18T00:00:00+00:00",
-   "excerpt": "Investing in the public benefit",
+   "excerpt": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -1902,7 +2046,7 @@
    "title": "Designing more efficient quantum circuits with Claude",
    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "date": "2026-10-16T00:00:00+00:00",
-   "excerpt": "Designing more efficient quantum circuits with Claude",
+   "excerpt": "We gave Claude plain-language specifications for eight quantum circuits, along with an automated evaluator to check and score its designs. Working largely on its own, Claude improved on the best published circuits, in some cases by an order of magnitude or more, which could bring practical quantum…",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1918,7 +2062,7 @@
    "title": "Claude reveals ECDSA curve origins",
    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "date": "2026-10-16T00:00:00+00:00",
-   "excerpt": "Claude reveals ECDSA curve origins",
+   "excerpt": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1926,7 +2070,7 @@
    "title": "Working at the frontier shapes expectations for the future",
    "url": "https://www.anthropic.com/research/expectations-for-the-future",
    "date": "2026-10-16T00:00:00+00:00",
-   "excerpt": "Working at the frontier shapes expectations for the future",
+   "excerpt": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1934,7 +2078,7 @@
    "title": "How employment is changing at Anthropic",
    "url": "https://www.anthropic.com/research/employment-at-anthropic",
    "date": "2026-10-16T00:00:00+00:00",
-   "excerpt": "How employment is changing at Anthropic",
+   "excerpt": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -1942,7 +2086,7 @@
    "title": "The AI expectations gap",
    "url": "https://www.anthropic.com/research/ai-expectations-gap",
    "date": "2026-10-16T00:00:00+00:00",
-   "excerpt": "The AI expectations gap",
+   "excerpt": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -2878,7 +3022,7 @@
    "title": "An update on independent evaluators",
    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
    "date": "2026-10-15T00:00:00+00:00",
-   "excerpt": "An update on independent evaluators",
+   "excerpt": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -3950,7 +4094,7 @@
    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
    "url": "https://www.anthropic.com/news/singapore-office-opening",
    "date": "2026-10-14T00:00:00+00:00",
-   "excerpt": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+   "excerpt": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -3974,7 +4118,7 @@
    "title": "Preparing for the 2026 US midterms",
    "url": "https://www.anthropic.com/news/2026-us-midterms",
    "date": "2026-10-14T00:00:00+00:00",
-   "excerpt": "Preparing for the 2026 US midterms",
+   "excerpt": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -4561,6 +4705,14 @@
    "excerpt": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resour…",
    "source": "Apple Machine Learning Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Redesigning source control at Anthropic",
+   "url": "https://www.anthropic.com/research/redesigning-source-control",
+   "date": "2026-10-13T00:00:00+00:00",
+   "excerpt": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "4LC: 4D Latent Cache for Efficient Conditioning in Dynamic World Modeling",
@@ -5414,7 +5566,7 @@
    "title": "AI models may be capable of self-replicating without access to a datacenter",
    "url": "https://www.anthropic.com/research/self-replicating-ai",
    "date": "2026-10-12T00:00:00+00:00",
-   "excerpt": "AI models may be capable of self-replicating without access to a datacenter",
+   "excerpt": "Our experiments suggest that small AI models may be only months away from being capable enough to self-replicate on commercial IoT devices, like Android TVs and smart ovens.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -5449,6 +5601,14 @@
    "excerpt": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval compaction triggered at a token threshold. Such triggers pay no heed to trajector…",
    "source": "Apple Machine Learning Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Strengthening our defenses against distillation attacks",
+   "url": "https://www.anthropic.com/news/distillation-defenses",
+   "date": "2026-10-12T00:00:00+00:00",
+   "excerpt": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+   "source": "Anthropic",
+   "category": "Major Lab"
   },
   {
    "title": "Will the HomeView be Apple’s first smart home success?",
@@ -6279,7 +6439,7 @@
    "title": "Investigating unintended model actions in our evaluations and internal use",
    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
    "date": "2026-10-09T00:00:00+00:00",
-   "excerpt": "Investigating unintended model actions in our evaluations and internal use",
+   "excerpt": "This report describes examples of unintended model actions we’ve observed during evaluations and internal use of Claude.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -7223,7 +7383,7 @@
    "title": "Building on our commitment to American scientific discovery",
    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
    "date": "2026-10-08T00:00:00+00:00",
-   "excerpt": "Building on our commitment to American scientific discovery",
+   "excerpt": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -7239,7 +7399,7 @@
    "title": "Introducing the Anthropic Cyber Mission",
    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
    "date": "2026-10-08T00:00:00+00:00",
-   "excerpt": "Introducing the Anthropic Cyber Mission",
+   "excerpt": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -7247,7 +7407,7 @@
    "title": "2026 Usage Policy update",
    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
    "date": "2026-10-08T00:00:00+00:00",
-   "excerpt": "2026 Usage Policy update",
+   "excerpt": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -7255,7 +7415,7 @@
    "title": "The missing map of the sky",
    "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
    "date": "2026-10-08T00:00:00+00:00",
-   "excerpt": "The missing map of the sky",
+   "excerpt": "Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -7263,7 +7423,7 @@
    "title": "Launching an opt-in vulnerability-finding service for open-source software",
    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
    "date": "2026-10-08T00:00:00+00:00",
-   "excerpt": "Launching an opt-in vulnerability-finding service for open-source software",
+   "excerpt": "We’re making available OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem that’s informed by our experience using Claude to find vulnerabilities during Project Glasswing.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -7743,7 +7903,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 849 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 1,680 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8386,6 +8546,14 @@
    "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
    "source": "TypeSafe (Jev)",
    "category": "Lab"
+  },
+  {
+   "title": "Introducing Claude Haiku 5.5",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "date": "2026-10-07T00:00:00+00:00",
+   "excerpt": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+   "source": "Anthropic",
+   "category": "Major Lab"
   },
   {
    "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -9071,7 +9239,7 @@
    "title": "Expanding the Cyber Verification Program",
    "url": "https://www.anthropic.com/news/cyber-verification-program",
    "date": "2026-10-06T00:00:00+00:00",
-   "excerpt": "Expanding the Cyber Verification Program",
+   "excerpt": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -10591,7 +10759,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,007 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 1,396 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -11360,7 +11528,7 @@
    "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
    "url": "https://www.anthropic.com/news/claude-frontier-academy",
    "date": "2026-10-02T00:00:00+00:00",
-   "excerpt": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "excerpt": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -11688,7 +11856,7 @@
    "title": "Barclays scales Claude to upgrade operations and improve client experience",
    "url": "https://www.anthropic.com/news/barclays-scales-claude",
    "date": "2026-10-01T00:00:00+00:00",
-   "excerpt": "Barclays scales Claude to upgrade operations and improve client experience",
+   "excerpt": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -11696,7 +11864,7 @@
    "title": "Claude-shaped science",
    "url": "https://www.anthropic.com/research/claude-shaped-science",
    "date": "2026-10-01T00:00:00+00:00",
-   "excerpt": "Claude-shaped science",
+   "excerpt": "Guest author Prof. Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems: ones best suited to the capabilities of the current generation of LLM tools. This led him to build BootLoops, a toolkit for exact calculations in quantita…",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12048,7 +12216,7 @@
    "title": "What work can robots do?",
    "url": "https://www.anthropic.com/research/what-work-can-robots-do",
    "date": "2026-09-30T00:00:00+00:00",
-   "excerpt": "What work can robots do?",
+   "excerpt": "We built an index of how well today’s robots can perform US job tasks. Robots can already do three-quarters of physical tasks, mostly in limited settings, but are cost-competitive for just 0.3% of them.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12176,7 +12344,7 @@
    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
    "date": "2026-09-29T00:00:00+00:00",
-   "excerpt": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "excerpt": "Like Claude Mythos Preview, GLM-5.3 has strong capabilities for autonomously building end-to-end cyber exploits. But GLM-5.3 is unlike other frontier models in that it has been released without meaningful safeguards to limit misuse.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12184,7 +12352,7 @@
    "title": "What do you want from AI?",
    "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
    "date": "2026-09-29T00:00:00+00:00",
-   "excerpt": "What do you want from AI?",
+   "excerpt": "We’re launching a new study using Anthropic Interviewer to learn from your experiences with AI.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12333,6 +12501,14 @@
    "category": "Lab"
   },
   {
+   "title": "Introducing Claude Sonnet 5.5",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
    "url": "https://openai.com/index/proaction",
    "date": "2026-09-25T19:00:00+00:00",
@@ -12360,7 +12536,7 @@
    "title": "Yes, Claude can do Nine Loops",
    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
    "date": "2026-09-25T00:00:00+00:00",
-   "excerpt": "Yes, Claude can do Nine Loops",
+   "excerpt": "Guest writer and physicist Matt von Hippel shares what happened when he issued a challenge to AI companies to solve a problem in his former subfield of theoretical physics.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12416,7 +12592,7 @@
    "title": "Project Swap: What happens when agents trade for us?",
    "url": "https://www.anthropic.com/research/project-swap",
    "date": "2026-09-24T00:00:00+00:00",
-   "excerpt": "Project Swap: What happens when agents trade for us?",
+   "excerpt": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
    "source": "Anthropic Research",
    "category": "Major Lab"
   },
@@ -12541,6 +12717,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
    "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
    "date": "2026-09-22T17:27:41+00:00",
@@ -12613,6 +12797,14 @@
    "category": "Lab"
   },
   {
+   "title": "Introducing Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "Amazon launches research initiative with Stanford University to advance AI and science",
    "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
    "date": "2026-09-21T19:31:59+00:00",
@@ -12661,6 +12853,14 @@
    "category": "Lab"
   },
   {
+   "title": "The Situation Report",
+   "url": "https://www.anthropic.com/features/ebola-response",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
    "date": "2026-09-18T17:46:09+00:00",
@@ -12696,7 +12896,7 @@
    "title": "Introducing the Life Sciences Verification Program",
    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
    "date": "2026-09-17T00:00:00+00:00",
-   "excerpt": "Introducing the Life Sciences Verification Program",
+   "excerpt": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
    "source": "Anthropic",
    "category": "Major Lab"
   },
@@ -12795,6 +12995,14 @@
    "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
    "source": "TypeSafe (Jev)",
    "category": "Lab"
+  },
+  {
+   "title": "Introducing Claude Mythos and Fable 5.1",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "date": "2026-09-15T00:00:00+00:00",
+   "excerpt": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
+   "source": "Anthropic",
+   "category": "Major Lab"
   },
   {
    "title": "Hermes Agent v0.21.3 (v2026.9.14)",
@@ -13307,22 +13515,6 @@
    "excerpt": "",
    "source": "Mistral",
    "category": "Lab"
-  },
-  {
-   "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-   "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-   "date": "2026-08-21T17:02:24+00:00",
-   "excerpt": "Generative AI",
-   "source": "Google Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-   "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-   "date": "2026-08-21T15:57:17+00:00",
-   "excerpt": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
   }
  ]
 }
