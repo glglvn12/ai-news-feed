@@ -1,7 +1,103 @@
 {
- "updated": "2026-10-21T07:46:40+00:00",
+ "updated": "2026-10-21T13:54:31+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "supabase/supabase",
+   "url": "https://github.com/supabase/supabase",
+   "date": "2026-10-21T13:54:31+00:00",
+   "excerpt": "TypeScript · 509 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "twentyhq/twenty",
+   "url": "https://github.com/twentyhq/twenty",
+   "date": "2026-10-21T13:54:31+00:00",
+   "excerpt": "TypeScript · 105 stars today — The open alternative to Salesforce, designed for AI.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "date": "2026-10-21T12:51:24+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+   "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+   "date": "2026-10-21T12:30:00+00:00",
+   "excerpt": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Hermes Agent v0.22.3",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.3",
+   "date": "2026-10-21T12:21:11+00:00",
+   "excerpt": "# Hermes Agent v0.22.3 **Release Date:** October 21, 2026 > Patch release. This tag rolls up the ~620 PRs merged since v0.22.2 into a stable release for the CLI and installer, the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.23.0. ## About this relea…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Mistral Advances AI for Engineering with NVIDIA",
+   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "date": "2026-10-21T12:00:20+00:00",
+   "excerpt": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "date": "2026-10-21T12:00:00+00:00",
+   "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "A new plugin can enable fast runtime monitoring and control",
+   "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss",
+   "date": "2026-10-21T12:00:00+00:00",
+   "excerpt": "IBM's vLLM-Hook MIA lets developers inspect and edit the AI generation process with hardly any delay.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+   "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+   "date": "2026-10-21T09:52:16+00:00",
+   "excerpt": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+   "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+   "date": "2026-10-21T09:50:14+00:00",
+   "excerpt": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+   "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+   "date": "2026-10-21T09:38:49+00:00",
+   "excerpt": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+   "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+   "date": "2026-10-21T09:35:32+00:00",
+   "excerpt": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
   {
    "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
    "url": "https://arxiv.org/abs/2610.24061",
@@ -670,7 +766,7 @@
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 802 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "excerpt": "Python · 1,434 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -694,7 +790,7 @@
    "title": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 128 stars today — A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "excerpt": "Python · 439 stars today — A high-throughput and memory-efficient inference and serving engine for LLMs",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1219,6 +1315,38 @@
    "category": "Paper"
   },
   {
+   "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models",
+   "url": "https://huggingface.co/papers/2610.28074",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "As a prototypical latent world model, Joint-Embedding Predictive Architectures (JEPAs) provide strong semantic representations. However, dense patch representations expose a redundant interface to downstream predictors, which must implicitly infer spatial organization and temporal correspondence, p…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "HRoPE: Homography Relative Positional Encoding",
+   "url": "https://huggingface.co/papers/2610.28284",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Geometric Relative Positional Encoding has become the primary mechanism for injecting spatial inductive biases into multi-view transformers. Existing designs condition attention on camera-level frustums or ray-marched depth, associating cross-view tokens through the sensor geometry. Such sensor-cen…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
+   "url": "https://huggingface.co/papers/2610.28554",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Despite the success of video world models, extending them to multiple agents is difficult because it requires generating several agent-specific video streams that are consistent in time and between agents. To address this gap, we introduce OverSeer, a multi-agent world model that augments egocentri…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+   "url": "https://huggingface.co/papers/2610.28632",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
    "date": "2026-10-19T19:28:34+00:00",
@@ -1342,7 +1470,7 @@
    "title": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "date": "2026-10-19T10:53:09+00:00",
-   "excerpt": "Python · 549 stars today — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "excerpt": "Python · 477 stars today — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1350,7 +1478,7 @@
    "title": "shiyu-coder/Kronos",
    "url": "https://github.com/shiyu-coder/Kronos",
    "date": "2026-10-19T10:53:09+00:00",
-   "excerpt": "Python · 733 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
+   "excerpt": "Python · 570 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1891,6 +2019,30 @@
    "category": "Paper"
   },
   {
+   "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+   "url": "https://huggingface.co/papers/2610.26857",
+   "date": "2026-10-18T20:00:00+00:00",
+   "excerpt": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synthetic data. However, the heavy compute of these diffusion backbones limits inference to a short chu…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
+   "url": "https://huggingface.co/papers/2610.27190",
+   "date": "2026-10-18T20:00:00+00:00",
+   "excerpt": "Modern language models are increasingly asked to handle several tasks within a single prompt. Doing so requires solving each task correctly while integrating the resulting answers into a coherent response. In this paper, we identify a fundamental limitation in this process, where models make substa…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+   "url": "https://huggingface.co/papers/2610.26711",
+   "date": "2026-10-18T20:00:00+00:00",
+   "excerpt": "Recent video generation models produce visually compelling outputs, yet their physical plausibility remains poorly measured. Physical plausibility asks whether generated objects obey geometry, kinematics, dynamics, and conservation laws. Existing benchmarks rely on coarse visual-language model judg…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "A woman was arrested in Philly for blocking a delivery robot",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
    "date": "2026-10-18T18:28:10+00:00",
@@ -1918,7 +2070,7 @@
    "title": "Comfy-Org/ComfyUI",
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "date": "2026-10-18T11:19:27+00:00",
-   "excerpt": "Python · 1,206 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "excerpt": "Python · 914 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1982,7 +2134,7 @@
    "title": "akitaonrails/ai-memory",
    "url": "https://github.com/akitaonrails/ai-memory",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "Rust · 666 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "excerpt": "Rust · 810 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1990,7 +2142,7 @@
    "title": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "TypeScript · 1,565 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "excerpt": "TypeScript · 1,543 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2366,7 +2518,7 @@
    "title": "MadsLorentzen/ai-job-search",
    "url": "https://github.com/MadsLorentzen/ai-job-search",
    "date": "2026-10-16T13:19:05+00:00",
-   "excerpt": "Python · 3,861 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "excerpt": "Python · 3,131 stars today — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8423,7 +8575,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 1,712 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 1,997 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -11279,7 +11431,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,208 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 2,051 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
