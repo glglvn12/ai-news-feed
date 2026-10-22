@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-21T22:26:35+00:00",
- "failed": [],
+ "updated": "2026-10-22T01:35:51+00:00",
+ "failed": [
+  "Berkeley AI Research (BAIR)"
+ ],
  "items": [
+  {
+   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+   "date": "2026-10-21T22:51:22+00:00",
+   "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Data centers could erase decades of air quality gains",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+   "date": "2026-10-21T22:33:44+00:00",
+   "excerpt": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilit…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Meta to create a new class of shares to fund AI push",
    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
@@ -83,12 +101,28 @@
    "category": "Lab"
   },
   {
+   "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "date": "2026-10-21T17:59:12+00:00",
+   "excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
    "date": "2026-10-21T17:35:36+00:00",
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "date": "2026-10-21T17:18:27+00:00",
+   "excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "source": "TechCrunch AI",
+   "category": "Press"
   },
   {
    "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -158,7 +192,7 @@
    "title": "supabase/supabase",
    "url": "https://github.com/supabase/supabase",
    "date": "2026-10-21T13:54:31+00:00",
-   "excerpt": "TypeScript · 509 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "excerpt": "TypeScript · 504 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -166,7 +200,7 @@
    "title": "twentyhq/twenty",
    "url": "https://github.com/twentyhq/twenty",
    "date": "2026-10-21T13:54:31+00:00",
-   "excerpt": "TypeScript · 105 stars today — The open alternative to Salesforce, designed for AI.",
+   "excerpt": "TypeScript · 112 stars today — The open alternative to Salesforce, designed for AI.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -787,6 +821,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
    "date": "2026-10-20T23:04:19+00:00",
@@ -966,7 +1008,7 @@
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 1,434 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "excerpt": "Python · 1,433 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -990,7 +1032,7 @@
    "title": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 439 stars today — A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "excerpt": "Python · 441 stars today — A high-throughput and memory-efficient inference and serving engine for LLMs",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1579,6 +1621,14 @@
    "category": "Paper"
   },
   {
+   "title": "Ask to Distill: Learning to Synthesize Data for On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2610.27450",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "On-policy distillation (OPD) can succeed with surprisingly few training questions, motivating a view of questions as carriers of distributional knowledge transfer. How can we assess whether a newly generated question is valuable for distillation, and learn to generate better questions---without acc…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
    "date": "2026-10-19T19:28:34+00:00",
@@ -1702,7 +1752,7 @@
    "title": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "date": "2026-10-19T10:53:09+00:00",
-   "excerpt": "Python · 477 stars today — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "excerpt": "Python · 474 stars today — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1710,7 +1760,7 @@
    "title": "shiyu-coder/Kronos",
    "url": "https://github.com/shiyu-coder/Kronos",
    "date": "2026-10-19T10:53:09+00:00",
-   "excerpt": "Python · 570 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
+   "excerpt": "Python · 575 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2302,7 +2352,7 @@
    "title": "Comfy-Org/ComfyUI",
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "date": "2026-10-18T11:19:27+00:00",
-   "excerpt": "Python · 914 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "excerpt": "Python · 939 stars today — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2366,7 +2416,7 @@
    "title": "akitaonrails/ai-memory",
    "url": "https://github.com/akitaonrails/ai-memory",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "Rust · 303 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "excerpt": "Rust · 286 stars today — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2374,7 +2424,7 @@
    "title": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "date": "2026-10-17T10:54:15+00:00",
-   "excerpt": "TypeScript · 1,543 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "excerpt": "TypeScript · 1,541 stars today — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8807,7 +8857,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 1,997 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,012 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -11663,7 +11713,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 2,051 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 2,079 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
