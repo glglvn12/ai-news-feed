@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-22T07:42:04+00:00",
+ "updated": "2026-10-22T13:52:58+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "luongnv89/claude-howto",
+   "url": "https://github.com/luongnv89/claude-howto",
+   "date": "2026-10-22T13:52:58+00:00",
+   "excerpt": "Python · 428 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "date": "2026-10-22T13:26:52+00:00",
+   "excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "date": "2026-10-22T13:11:13+00:00",
+   "excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "1Password lets AI agents use your passwords without seeing them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+   "date": "2026-10-22T13:00:00+00:00",
+   "excerpt": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in re…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI agents are ready to shop. Some retailers are wary.",
+   "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+   "date": "2026-10-22T12:30:00+00:00",
+   "excerpt": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologeti…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Claude did not invent scorpion antivenom",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "date": "2026-10-22T12:21:07+00:00",
+   "excerpt": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, exper…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "date": "2026-10-22T11:00:00+00:00",
+   "excerpt": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verg…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Making the case for context-aware AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "date": "2026-10-22T10:00:00+00:00",
+   "excerpt": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companie…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "date": "2026-10-22T08:41:18+00:00",
+   "excerpt": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "date": "2026-10-22T07:51:31+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "date": "2026-10-22T06:00:00+00:00",
+   "excerpt": "What forward deployed engineering means at OpenAI",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
    "url": "https://arxiv.org/abs/2610.28698",
@@ -654,7 +742,7 @@
    "title": "supabase/supabase",
    "url": "https://github.com/supabase/supabase",
    "date": "2026-10-21T13:54:31+00:00",
-   "excerpt": "TypeScript · 504 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "excerpt": "TypeScript · 683 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1491,6 +1579,14 @@
    "category": "Paper"
   },
   {
+   "title": "Retrieval Augmented Generation Compositionality",
+   "url": "https://huggingface.co/papers/2610.29722",
+   "date": "2026-10-20T20:00:00+00:00",
+   "excerpt": "Retrieval Augmented Generation (RAG) grounds large language models in external knowledge. Modern pipelines combine embedding, chunking, retrieval, reranking, query augmentation, context compression, and agentic verification, yet these techniques are typically evaluated one at a time. It remains unc…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
    "date": "2026-10-20T18:38:24+00:00",
@@ -1614,7 +1710,7 @@
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 1,433 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "excerpt": "Python · 1,407 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2247,6 +2343,14 @@
    "url": "https://huggingface.co/papers/2610.28474",
    "date": "2026-10-19T20:00:00+00:00",
    "excerpt": "People adapt how they talk to the person in front of them. However, chat models tend to respond in Standard English regardless of the dialect used by the user. A uniform answer can hide whether training treats these users alike, and output audits cannot tell as well. We trace how each post-training…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "From RL Papers to Framework Code: Inclusion and Review in Seven Open-Source Training Frameworks",
+   "url": "https://huggingface.co/papers/2610.28027",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Practitioners use reinforcement learning methods for language models through training frameworks, so a method that a framework includes is one configuration change away for its users. We measure how often this happens. We trace seven open-source frameworks for RL post-training through their commit…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -8343,7 +8447,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 267 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 303 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -9479,7 +9583,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,012 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,979 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -12335,7 +12439,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 2,079 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 1,949 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
