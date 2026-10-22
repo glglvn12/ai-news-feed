@@ -1,7 +1,127 @@
 {
- "updated": "2026-10-22T18:36:54+00:00",
+ "updated": "2026-10-22T22:25:41+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "date": "2026-10-22T22:24:34+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "date": "2026-10-22T22:08:24+00:00",
+   "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "date": "2026-10-22T21:51:25+00:00",
+   "excerpt": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater preci…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Designing an AI serving harness built to last",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "date": "2026-10-22T21:17:29+00:00",
+   "excerpt": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "date": "2026-10-22T20:32:05+00:00",
+   "excerpt": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lan…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta turns Muse sharing back on",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "date": "2026-10-22T20:24:04+00:00",
+   "excerpt": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "date": "2026-10-22T19:45:00+00:00",
+   "excerpt": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The science behind TorchNeuron, Amazon’s new PyTorch backend for AWS Trainium chips",
+   "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+   "date": "2026-10-22T19:36:42+00:00",
+   "excerpt": "Runtime optimizations and a thorough evaluation process driven by agentic AI help ensure that models written in PyTorch will execute efficiently and reliably on Trainium systems.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "date": "2026-10-22T19:07:09+00:00",
+   "excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "date": "2026-10-22T19:00:00+00:00",
+   "excerpt": "Fast, focused, low-cost decisions for any application.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Canva releases its first image generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "date": "2026-10-22T19:00:00+00:00",
+   "excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "date": "2026-10-22T19:00:00+00:00",
+   "excerpt": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Discord now formats Markdown previews right",
+   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "date": "2026-10-22T18:58:19+00:00",
+   "excerpt": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be help…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The Foundations of Scalable AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "date": "2026-10-22T18:48:04+00:00",
+   "excerpt": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and ho…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "date": "2026-10-22T18:43:53+00:00",
+   "excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
    "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
@@ -688,6 +808,14 @@
    "date": "2026-10-22T00:00:00+00:00",
    "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
    "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+   "source": "Anthropic",
    "category": "Major Lab"
   },
   {
@@ -1751,6 +1879,14 @@
    "url": "https://huggingface.co/papers/2610.29934",
    "date": "2026-10-20T20:00:00+00:00",
    "excerpt": "Forming an accurate theory-of-mind (ToM) is key to successful multi-agent collaboration and requires reasoning under uncertainty to capture multiple possible partner states. This is hard to do in the text representation space native to large language model (LLM) agents, which more easily describe a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FrontierCS 2: A Benchmark for Computer Science R&D",
+   "url": "https://huggingface.co/papers/2610.29932",
+   "date": "2026-10-20T20:00:00+00:00",
+   "excerpt": "Can LLM agents make contributions to frontier computer science R&D? We introduce FrontierCS 2, a benchmark of 48 open-ended tasks. We take a paper and the code its authors released and delete the paper's contribution. The deleted code becomes the human reference that sets the bar. Earlier open-ende…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
