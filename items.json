@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-22T22:25:41+00:00",
+ "updated": "2026-10-23T01:36:18+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "date": "2026-10-23T00:45:37+00:00",
+   "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -254,7 +262,7 @@
    "title": "luongnv89/claude-howto",
    "url": "https://github.com/luongnv89/claude-howto",
    "date": "2026-10-22T13:52:58+00:00",
-   "excerpt": "Python · 370 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "excerpt": "Python · 177 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -819,6 +827,22 @@
    "category": "Major Lab"
   },
   {
+   "title": "Open call for guest investigators in the life sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Formal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases. With AI models, however, this is beginning to change. Here, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span…",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
    "date": "2026-10-21T22:51:22+00:00",
@@ -1014,7 +1038,7 @@
    "title": "supabase/supabase",
    "url": "https://github.com/supabase/supabase",
    "date": "2026-10-21T13:54:31+00:00",
-   "excerpt": "TypeScript · 683 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "excerpt": "TypeScript · 693 stars today — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2014,7 +2038,7 @@
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-10-20T13:38:06+00:00",
-   "excerpt": "Python · 1,407 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "excerpt": "Python · 1,408 stars today — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2655,6 +2679,22 @@
    "url": "https://huggingface.co/papers/2610.28027",
    "date": "2026-10-19T20:00:00+00:00",
    "excerpt": "Practitioners use reinforcement learning methods for language models through training frameworks, so a method that a framework includes is one configuration change away for its users. We measure how often this happens. We trace seven open-source frameworks for RL post-training through their commit…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity",
+   "url": "https://huggingface.co/papers/2610.28441",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Large Language Model inference over long contexts is increasingly bottlenecked by the cost of attending to a growing Key-Value (KV) cache. Sparse attention reduces this cost by accessing only a fraction of the cache, but existing methods face a trade-off between deterministic retrieval, which captu…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion",
+   "url": "https://huggingface.co/papers/2610.28940",
+   "date": "2026-10-19T20:00:00+00:00",
+   "excerpt": "Voice style conversion (VSC) aims to transform a source utterance to match the timbre, accent, and emotion of a target voice while preserving linguistic content. StyleStream 1.0 introduced the first streamable zero-shot VSC system with state-of-the-art conversion quality, but remained limited in tw…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -12743,7 +12783,7 @@
    "title": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 1,949 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "excerpt": "JavaScript · 1,948 stars today — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14696,8 +14736,8 @@
    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
    "date": "2026-09-23T00:00:00+00:00",
-   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
-   "source": "Anthropic Research",
+   "excerpt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "source": "Anthropic",
    "category": "Major Lab"
   },
   {
