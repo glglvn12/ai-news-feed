@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-23T07:39:35+00:00",
+ "updated": "2026-10-23T13:33:22+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "SnailSploit/Claude-Red",
+   "url": "https://github.com/SnailSploit/Claude-Red",
+   "date": "2026-10-23T13:33:22+00:00",
+   "excerpt": "Python · 209 stars today — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit dev…",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Retro gaming is being overrun with AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+   "date": "2026-10-23T12:00:00+00:00",
+   "excerpt": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Hermes Agent v0.22.5",
    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5",
@@ -481,6 +497,14 @@
    "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
   },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -1487,6 +1511,30 @@
    "url": "https://huggingface.co/papers/2610.31668",
    "date": "2026-10-21T20:00:00+00:00",
    "excerpt": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving wor…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+   "url": "https://huggingface.co/papers/2610.31372",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, reproducibility, or faithfulness of the research process. We present RIDAR, a framework for automat…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+   "url": "https://huggingface.co/papers/2610.30949",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose secon…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+   "url": "https://huggingface.co/papers/2610.31329",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual t…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2519,6 +2567,14 @@
    "url": "https://huggingface.co/papers/2610.27851",
    "date": "2026-10-20T20:00:00+00:00",
    "excerpt": "This paper shows that JEPA-style latent world models (LWMs) can learn across diverse domains and data sources by adopting the language-conditioned interface of video generation models. We establish this approach as an effective and efficient basis for planning with imagination and downstream policy…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+   "url": "https://huggingface.co/papers/2610.30468",
+   "date": "2026-10-20T20:00:00+00:00",
+   "excerpt": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstra…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -9399,7 +9455,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 303 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 643 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -10535,7 +10591,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,979 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,706 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13415,7 +13471,7 @@
    "title": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 594 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "excerpt": "Rust · 211 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
