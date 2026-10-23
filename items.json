@@ -1,7 +1,79 @@
 {
- "updated": "2026-10-23T13:33:22+00:00",
+ "updated": "2026-10-23T18:27:05+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+   "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+   "date": "2026-10-23T17:27:52+00:00",
+   "excerpt": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+   "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+   "date": "2026-10-23T17:27:35+00:00",
+   "excerpt": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The iPhone Duo should have been an iPad",
+   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+   "date": "2026-10-23T17:00:18+00:00",
+   "excerpt": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "date": "2026-10-23T17:00:00+00:00",
+   "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "date": "2026-10-23T16:52:55+00:00",
+   "excerpt": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for pe…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "url": "https://huggingface.co/blog/allenai/litpivot",
+   "date": "2026-10-23T16:15:50+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Better speech synthesis for audiobooks",
+   "url": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
+   "date": "2026-10-23T15:20:02+00:00",
+   "excerpt": "“Controllable text to speech” makes speech more expressive, character voices more distinct and consistent.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+   "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+   "date": "2026-10-23T14:58:32+00:00",
+   "excerpt": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Meta delays new business terms after publisher pushback on AI scraping",
+   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+   "date": "2026-10-23T14:47:41+00:00",
+   "excerpt": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect o…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "SnailSploit/Claude-Red",
    "url": "https://github.com/SnailSploit/Claude-Red",
@@ -475,10 +547,10 @@
    "category": "Paper"
   },
   {
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
    "date": "2026-10-23T04:00:00+00:00",
-   "excerpt": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "excerpt": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -505,6 +577,14 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "An alignment assessment of the UK AISI cybertesting incident",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -1535,6 +1615,22 @@
    "url": "https://huggingface.co/papers/2610.31329",
    "date": "2026-10-21T20:00:00+00:00",
    "excerpt": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+   "url": "https://huggingface.co/papers/2610.31651",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+   "url": "https://huggingface.co/papers/2610.30753",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic framework that converts natural-language instructions or reference videos into explicit camera tra…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2575,6 +2671,14 @@
    "url": "https://huggingface.co/papers/2610.30468",
    "date": "2026-10-20T20:00:00+00:00",
    "excerpt": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstra…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+   "url": "https://huggingface.co/papers/2610.30418",
+   "date": "2026-10-20T20:00:00+00:00",
+   "excerpt": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and milit…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -13471,7 +13575,7 @@
    "title": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 211 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "excerpt": "Rust · 1,240 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16195,14 +16299,6 @@
    "excerpt": "Funding better evaluations of AI’s impact on wellbeing",
    "source": "Anthropic",
    "category": "Major Lab"
-  },
-  {
-   "title": "Mistral x HUMAIN",
-   "url": "https://mistral.ai/news/mistral-x-humain/",
-   "date": "2026-08-24T16:02:41+00:00",
-   "excerpt": "",
-   "source": "Mistral",
-   "category": "Lab"
   }
  ]
 }
