@@ -1,12 +1,20 @@
 {
- "updated": "2026-10-23T22:18:39+00:00",
+ "updated": "2026-10-24T01:40:04+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "date": "2026-10-23T23:05:49+00:00",
+   "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
    "date": "2026-10-23T21:59:19+00:00",
-   "excerpt": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+   "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -118,7 +126,7 @@
    "title": "SnailSploit/Claude-Red",
    "url": "https://github.com/SnailSploit/Claude-Red",
    "date": "2026-10-23T13:33:22+00:00",
-   "excerpt": "Python · 209 stars today — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit dev…",
+   "excerpt": "Python · 226 stars today — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit dev…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -9615,7 +9623,7 @@
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "date": "2026-10-08T16:35:54+00:00",
-   "excerpt": "Python · 643 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+   "excerpt": "Python · 635 stars today — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -10751,7 +10759,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,706 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,716 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13631,7 +13639,7 @@
    "title": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 1,240 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "excerpt": "Rust · 1,119 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16347,14 +16355,6 @@
    "excerpt": "IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.",
    "source": "IBM Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "Funding better evaluations of AI’s impact on wellbeing",
-   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-   "date": "2026-08-25T00:00:00+00:00",
-   "excerpt": "Funding better evaluations of AI’s impact on wellbeing",
-   "source": "Anthropic",
-   "category": "Major Lab"
   }
  ]
 }
