@@ -1,7 +1,47 @@
 {
- "updated": "2026-10-24T07:23:27+00:00",
+ "updated": "2026-10-24T12:45:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "aws/agent-toolkit-for-aws",
+   "url": "https://github.com/aws/agent-toolkit-for-aws",
+   "date": "2026-10-24T12:45:11+00:00",
+   "excerpt": "Python · 11 stars today — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Nutlope/hallmark",
+   "url": "https://github.com/Nutlope/hallmark",
+   "date": "2026-10-24T12:45:11+00:00",
+   "excerpt": "CSS · 567 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "pollen-robotics/microduck",
+   "url": "https://github.com/pollen-robotics/microduck",
+   "date": "2026-10-24T12:45:11+00:00",
+   "excerpt": "Rust · 421 stars today — A Tiny biped duck robot 🦆",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "google-gemini/gemini-cli",
+   "url": "https://github.com/google-gemini/gemini-cli",
+   "date": "2026-10-24T12:45:11+00:00",
+   "excerpt": "TypeScript · 38 stars today — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "makecindy/cindy",
+   "url": "https://github.com/makecindy/cindy",
+   "date": "2026-10-24T12:45:11+00:00",
+   "excerpt": "TypeScript · 471 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
   {
    "title": "Memories That Outlive Their Reasons: Dependency-Tethered Memory for Tool-Using LLM Agents",
    "url": "https://arxiv.org/abs/2610.25123",
@@ -894,7 +934,7 @@
    "title": "luongnv89/claude-howto",
    "url": "https://github.com/luongnv89/claude-howto",
    "date": "2026-10-22T13:52:58+00:00",
-   "excerpt": "Python · 177 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "excerpt": "Python · 1,053 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -10759,7 +10799,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,716 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,271 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13623,7 +13663,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "JavaScript · 616 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "Rust · 541 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13639,7 +13679,7 @@
    "title": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 1,119 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "excerpt": "Rust · 893 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
