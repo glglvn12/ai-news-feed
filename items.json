@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:33:22+00:00",
+ "updated": "2026-10-25T01:16:00+00:00",
  "failed": [],
  "items": [
   {
@@ -54,7 +54,7 @@
    "title": "aws/agent-toolkit-for-aws",
    "url": "https://github.com/aws/agent-toolkit-for-aws",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "Python · 11 stars today — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+   "excerpt": "Python · 13 stars today — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +62,7 @@
    "title": "Nutlope/hallmark",
    "url": "https://github.com/Nutlope/hallmark",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "CSS · 570 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "excerpt": "CSS · 455 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +70,7 @@
    "title": "pollen-robotics/microduck",
    "url": "https://github.com/pollen-robotics/microduck",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "Rust · 381 stars today — A Tiny biped duck robot 🦆",
+   "excerpt": "Rust · 319 stars today — A Tiny biped duck robot 🦆",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -78,7 +78,7 @@
    "title": "google-gemini/gemini-cli",
    "url": "https://github.com/google-gemini/gemini-cli",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "TypeScript · 38 stars today — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+   "excerpt": "TypeScript · 44 stars today — An open-source AI agent that brings the power of Gemini directly into your terminal.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -86,7 +86,7 @@
    "title": "makecindy/cindy",
    "url": "https://github.com/makecindy/cindy",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "TypeScript · 471 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "excerpt": "TypeScript · 477 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -982,7 +982,7 @@
    "title": "luongnv89/claude-howto",
    "url": "https://github.com/luongnv89/claude-howto",
    "date": "2026-10-22T13:52:58+00:00",
-   "excerpt": "Python · 442 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "excerpt": "Python · 392 stars today — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -10855,7 +10855,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,271 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,264 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13719,7 +13719,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 733 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "Rust · 619 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13735,7 +13735,7 @@
    "title": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 893 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
+   "excerpt": "Rust · 896 stars today — OpenShell is the safe, private runtime for autonomous AI agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16403,38 +16403,6 @@
    "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
    "source": "Google DeepMind",
    "category": "Major Lab"
-  },
-  {
-   "title": "Visual General Intelligence: A White Paper",
-   "url": "https://deepmind.google/research/publications/270149/",
-   "date": "2026-08-26T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Enabling independent research on how people use Claude",
-   "url": "https://www.anthropic.com/research/enabling-independent-research",
-   "date": "2026-08-26T00:00:00+00:00",
-   "excerpt": "Enabling independent research on how people use Claude",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Grok Bot is now included with more plans",
-   "url": "https://x.ai/news/grok-bot-more-plans",
-   "date": "2026-08-26T00:00:00+00:00",
-   "excerpt": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-   "source": "xAI",
-   "category": "Lab"
-  },
-  {
-   "title": "Grok 4.6 on Microsoft Foundry",
-   "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
-   "date": "2026-08-26T00:00:00+00:00",
-   "excerpt": "Grok 4.6 is now available via Microsoft Foundry.",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
