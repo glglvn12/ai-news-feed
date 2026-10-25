@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-25T06:17:29+00:00",
+ "updated": "2026-10-25T12:37:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "date": "2026-10-25T12:37:11+00:00",
+   "excerpt": "Python · 309 stars today — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "AgriciDaniel/claude-seo",
+   "url": "https://github.com/AgriciDaniel/claude-seo",
+   "date": "2026-10-25T12:37:11+00:00",
+   "excerpt": "Python · 179 stars today — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting.…",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "date": "2026-10-25T12:00:00+00:00",
+   "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industr…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Blue Planet III is keeping the rough edges in the age of AI",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -62,7 +86,7 @@
    "title": "Nutlope/hallmark",
    "url": "https://github.com/Nutlope/hallmark",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "CSS · 455 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "excerpt": "CSS · 1,359 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +94,7 @@
    "title": "pollen-robotics/microduck",
    "url": "https://github.com/pollen-robotics/microduck",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "Rust · 319 stars today — A Tiny biped duck robot 🦆",
+   "excerpt": "Rust · 657 stars today — A Tiny biped duck robot 🦆",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -86,7 +110,7 @@
    "title": "makecindy/cindy",
    "url": "https://github.com/makecindy/cindy",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "TypeScript · 477 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "excerpt": "TypeScript · 677 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -10855,7 +10879,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,264 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,874 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -13719,7 +13743,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 619 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "Rust · 1,113 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
