@@ -1,12 +1,36 @@
 {
- "updated": "2026-10-25T12:37:11+00:00",
+ "updated": "2026-10-25T17:05:26+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "date": "2026-10-25T16:57:32+00:00",
+   "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "date": "2026-10-25T14:10:00+00:00",
+   "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "date": "2026-10-25T13:25:32+00:00",
+   "excerpt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to thi…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "TauricResearch/TradingAgents",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "date": "2026-10-25T12:37:11+00:00",
-   "excerpt": "Python · 309 stars today — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "excerpt": "Python · 636 stars today — TradingAgents: Multi-Agents LLM Financial Trading Framework",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16419,14 +16443,6 @@
    "excerpt": "Discounting the opinions of LLM judges with highly correlated outputs ensures that panels of judges reflect a true diversity of perspectives.",
    "source": "Amazon Science",
    "category": "Big Tech"
-  },
-  {
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-   "date": "2026-08-26T17:01:00+00:00",
-   "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
   }
  ]
 }
