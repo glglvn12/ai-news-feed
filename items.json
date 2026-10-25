@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:05:26+00:00",
+ "updated": "2026-10-25T19:43:38+00:00",
  "failed": [],
  "items": [
   {
@@ -16427,22 +16427,6 @@
    "excerpt": "Previewing the Model Hardware Standard",
    "source": "Anthropic",
    "category": "Major Lab"
-  },
-  {
-   "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-   "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-   "date": "2026-08-26T18:42:43+00:00",
-   "excerpt": "Health & Bioscience",
-   "source": "Google Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "When LLM judges agree, should we believe them?",
-   "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-   "date": "2026-08-26T17:10:40+00:00",
-   "excerpt": "Discounting the opinions of LLM judges with highly correlated outputs ensures that panels of judges reflect a true diversity of perspectives.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
   }
  ]
 }
