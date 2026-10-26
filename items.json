@@ -1,7 +1,87 @@
 {
- "updated": "2026-10-26T06:27:43+00:00",
+ "updated": "2026-10-26T14:22:23+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "NVIDIA/SkillSpector",
+   "url": "https://github.com/NVIDIA/SkillSpector",
+   "date": "2026-10-26T14:22:23+00:00",
+   "excerpt": "Python · 203 stars today — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "nightly-labs/openbot",
+   "url": "https://github.com/nightly-labs/openbot",
+   "date": "2026-10-26T14:22:23+00:00",
+   "excerpt": "TypeScript · 86 stars today — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "gitroomhq/postiz-app",
+   "url": "https://github.com/gitroomhq/postiz-app",
+   "date": "2026-10-26T14:22:23+00:00",
+   "excerpt": "TypeScript · 146 stars today — 📨 The ultimate agentic social media scheduling tool 🤖",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "alchaincyf/huashu-design",
+   "url": "https://github.com/alchaincyf/huashu-design",
+   "date": "2026-10-26T14:22:23+00:00",
+   "excerpt": "HTML · 177 stars today — Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+   "date": "2026-10-26T14:00:00+00:00",
+   "excerpt": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton j…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+   "date": "2026-10-26T13:32:49+00:00",
+   "excerpt": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentia…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Can AI help solve the COBOL code crisis?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+   "date": "2026-10-26T13:15:00+00:00",
+   "excerpt": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "PyTorch opens the AI ecosystem to a new accelerator class",
+   "url": "https://research.ibm.com/blog/pytorch-spyre-accelerator-software-ecosystem-updates?utm_medium=rss&utm_source=rss",
+   "date": "2026-10-26T12:00:00+00:00",
+   "excerpt": "IBM has made Spyre a first-class PyTorch backend, giving developers the same workflows across devices.",
+   "source": "IBM Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "date": "2026-10-26T09:01:00+00:00",
+   "excerpt": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear t…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "date": "2026-10-26T07:00:00+00:00",
+   "excerpt": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
    "url": "https://arxiv.org/abs/2610.31789",
@@ -443,6 +523,14 @@
    "category": "Paper"
   },
   {
+   "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "date": "2026-10-26T00:00:00+00:00",
+   "excerpt": "Anthropic files S-1 with the SEC for proposed initial public offering",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "date": "2026-10-25T21:31:16+00:00",
@@ -478,7 +566,7 @@
    "title": "TauricResearch/TradingAgents",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "date": "2026-10-25T12:37:11+00:00",
-   "excerpt": "Python · 381 stars today — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "excerpt": "Python · 1,376 stars today — TradingAgents: Multi-Agents LLM Financial Trading Framework",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -558,7 +646,7 @@
    "title": "Nutlope/hallmark",
    "url": "https://github.com/Nutlope/hallmark",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "CSS · 1,317 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "excerpt": "CSS · 2,235 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -566,7 +654,7 @@
    "title": "pollen-robotics/microduck",
    "url": "https://github.com/pollen-robotics/microduck",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "Rust · 647 stars today — A Tiny biped duck robot 🦆",
+   "excerpt": "Rust · 844 stars today — A Tiny biped duck robot 🦆",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -582,7 +670,7 @@
    "title": "makecindy/cindy",
    "url": "https://github.com/makecindy/cindy",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "TypeScript · 675 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "excerpt": "TypeScript · 1,268 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1303,6 +1391,38 @@
    "url": "https://huggingface.co/papers/2610.32909",
    "date": "2026-10-22T20:00:00+00:00",
    "excerpt": "HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner requests future body-point targets, while the frozen controller handles joint-level execution. A lear…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "A path-following framework on fiber bundle for variational inequalities",
+   "url": "https://huggingface.co/papers/2606.00778",
+   "date": "2026-10-22T20:00:00+00:00",
+   "excerpt": "Developing general-purpose algorithms with global asymptotic convergence guarantees for variational inequalities (VIs) remains a longstanding challenge. This paper proposes a path-following framework for finite-dimensional VIs with arbitrary continuous mappings and polytope domains. The approach fi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "The fixed-point bundle method over product-of-simplex domains arising from game equilibria",
+   "url": "https://huggingface.co/papers/2609.16158",
+   "date": "2026-10-22T20:00:00+00:00",
+   "excerpt": "Developing general-purpose algorithms with global asymptotic convergence guarantees for Nash equilibria of general-sum games remains a longstanding challenge. This paper extends the fixed-point bundle framework for finite-dimensional variational inequalities (VIs) from simplex domains to product-of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+   "url": "https://huggingface.co/papers/2610.32770",
+   "date": "2026-10-22T20:00:00+00:00",
+   "excerpt": "On-policy self-distillation enables post-training foundation models without relying on stronger external teachers. However, existing approaches rely on ground-truth question-answer pairs, human-curated problem sets, or other supervised signals. In this work, we reformulate on-policy self-distillati…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
+   "url": "https://huggingface.co/papers/2610.32894",
+   "date": "2026-10-22T20:00:00+00:00",
+   "excerpt": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz location encoder produces an output of intrinsic dimension at most 2, regardless o…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2359,6 +2479,46 @@
    "url": "https://huggingface.co/papers/2610.31734",
    "date": "2026-10-21T20:00:00+00:00",
    "excerpt": "A live esports broadcast needs a director who chooses which camera goes on air and a caster who talks over that choice, every second and without knowing what comes next. Streaming video language models have learned to commentate, but only over a broadcast that a human director has already produced.…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models",
+   "url": "https://huggingface.co/papers/2610.31423",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Vision-language-action (VLA) models have become an important paradigm for robotic manipulation by unifying visual perception, language understanding, and action generation. Since reliable manipulation requires sufficient observation of objects, end-effectors, and their spatial relationships, multi-…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Does LeWorldModel Preserve Local Action Geometry?",
+   "url": "https://huggingface.co/papers/2610.31716",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales. Across nearly a thousand states from Reacher and OGBench Cube, the most s…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "MMVistaReason: Toward Open-Data and Post-Training Recipes for Multimodal Reasoning",
+   "url": "https://huggingface.co/papers/2610.01352",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "Open multimodal reasoning models have benefited from large-scale reasoning supervision, yet reliable post-training remains challenging due to uneven data quality, inefficient supervision construction, imbalanced difficulty, and cross-domain interference. We introduce MMVistaReason (MVR), an open-da…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "DISC: Domain-Integrated Similarity Cost for Time-Series Dataset",
+   "url": "https://huggingface.co/papers/2610.31288",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "The growth of time-series datasets and foundation models has made dataset comparison a central part of time-series workflows. Assessing source-target transfer before model adaptation requires similarity estimates that can summarize transfer-related dataset relationships without exhaustive source-ta…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
+   "url": "https://huggingface.co/papers/2610.32002",
+   "date": "2026-10-21T20:00:00+00:00",
+   "excerpt": "The rapid growth of microdramas has increased demand for high-quality script production. Long-form microdrama script generation with LLMs requires both diverse plot progression and long-range narrative coherence. Our observations reveal that candidate continuations increasingly concentrate on fewer…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -9262,7 +9422,7 @@
    "title": "multica-ai/andrej-karpathy-skills",
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "date": "2026-10-10T15:26:55+00:00",
-   "excerpt": "278 stars today — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+   "excerpt": "457 stars today — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14191,7 +14351,7 @@
    "title": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 1,145 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "excerpt": "JavaScript · 853 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14263,7 +14423,7 @@
    "title": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 1,155 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "excerpt": "Python · 723 stars today — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14295,7 +14455,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 1,092 stars today — The design language that makes your AI harness better at design.",
+   "excerpt": "Rust · 1,551 stars today — The design language that makes your AI harness better at design.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16929,14 +17089,6 @@
    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
    "date": "2026-08-27T16:11:32+00:00",
    "excerpt": "",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "date": "2026-08-27T12:59:16+00:00",
-   "excerpt": "Piloting the world's first double-blind AI evaluations",
    "source": "Google DeepMind",
    "category": "Major Lab"
   }
