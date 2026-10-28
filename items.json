@@ -1,7 +1,63 @@
 {
- "updated": "2026-10-28T05:53:04+00:00",
+ "updated": "2026-10-28T13:09:10+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "macro-inc/macro",
+   "url": "https://github.com/macro-inc/macro",
+   "date": "2026-10-28T13:09:10+00:00",
+   "excerpt": "Rust · 106 stars today — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "expo/skills",
+   "url": "https://github.com/expo/skills",
+   "date": "2026-10-28T13:09:10+00:00",
+   "excerpt": "Shell · 212 stars today — A collection of AI agent skills for working with Expo projects and Expo Application Services",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "date": "2026-10-28T13:00:00+00:00",
+   "excerpt": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Voters in Texas agree: They hate data centers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+   "date": "2026-10-28T12:00:00+00:00",
+   "excerpt": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Pairing industrial AI autonomy and human control",
+   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "date": "2026-10-28T12:00:00+00:00",
+   "excerpt": "",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta quietly launched an ‘AI pet journal’ app",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "date": "2026-10-28T11:27:30+00:00",
+   "excerpt": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\"…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "date": "2026-10-28T09:30:00+00:00",
+   "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "FATE-5: Faithful Alignment of Trait Expression for Continuous Big Five Personality Control",
    "url": "https://arxiv.org/abs/2610.34889",
@@ -1363,6 +1419,54 @@
    "category": "Paper"
   },
   {
+   "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+   "url": "https://huggingface.co/papers/2610.37037",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Multimodal perception forms the foundation of multimodal intelligence. In particular, spatial perception and multimodal long-context understanding are two pivotal tasks that underpin embodied AI and multimodal agents. However, synthesizing targeted, high-quality training data for these tasks remain…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+   "url": "https://huggingface.co/papers/2610.37662",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+   "url": "https://huggingface.co/papers/2610.37624",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2610.35864",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound.…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+   "url": "https://huggingface.co/papers/2610.36791",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Learning controllable world dynamics from heterogeneous interaction videos is challenging because robot embodiments use incompatible action spaces, while human videos lack native control labels. We present RynnWorld-Latent, a cross-embodiment video world model that uses the 3D-grounded latent actio…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "url": "https://huggingface.co/papers/2610.37381",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. W…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Will the real Anthropic please stand up",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "date": "2026-10-26T17:45:43+00:00",
@@ -1454,7 +1558,7 @@
    "title": "nightly-labs/openbot",
    "url": "https://github.com/nightly-labs/openbot",
    "date": "2026-10-26T14:22:23+00:00",
-   "excerpt": "TypeScript · 777 stars today — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "excerpt": "TypeScript · 1,053 stars today — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1947,6 +2051,22 @@
    "category": "Paper"
   },
   {
+   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+   "url": "https://huggingface.co/papers/2610.35013",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscal…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "The Lexical Imprint of Pre-training Data",
+   "url": "https://huggingface.co/papers/2602.10657",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "How much of zero-shot benchmark accuracy is captured by word-level alignment between a pre-training corpus and the benchmark target? We study this question through word-level unigram cross-entropy (UCE), a tokenizer-agnostic, model-free measure of lexical alignment between a reference corpus and a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "date": "2026-10-25T16:57:32+00:00",
@@ -2158,7 +2278,7 @@
    "title": "Nutlope/hallmark",
    "url": "https://github.com/Nutlope/hallmark",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "CSS · 2,830 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "excerpt": "CSS · 2,109 stars today — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2182,7 +2302,7 @@
    "title": "makecindy/cindy",
    "url": "https://github.com/makecindy/cindy",
    "date": "2026-10-24T12:45:11+00:00",
-   "excerpt": "TypeScript · 1,465 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "excerpt": "TypeScript · 740 stars today — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16047,7 +16167,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 617 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 1,096 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16063,7 +16183,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 1,449 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "excerpt": "Rust · 1,471 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
