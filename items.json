@@ -1,13 +1,101 @@
 {
- "updated": "2026-10-28T18:55:07+00:00",
+ "updated": "2026-10-28T23:17:57+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "date": "2026-10-28T23:05:39+00:00",
+   "excerpt": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the la…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "date": "2026-10-28T21:58:32+00:00",
+   "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "date": "2026-10-28T21:48:37+00:00",
+   "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "date": "2026-10-28T21:34:30+00:00",
+   "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "date": "2026-10-28T21:34:04+00:00",
+   "excerpt": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-sou…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "date": "2026-10-28T21:25:30+00:00",
+   "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Creating AI value with enterprise context",
+   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "date": "2026-10-28T20:32:02+00:00",
+   "excerpt": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the out…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "date": "2026-10-28T20:03:00+00:00",
+   "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "date": "2026-10-28T19:19:58+00:00",
+   "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "date": "2026-10-28T19:05:46+00:00",
+   "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accor…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
    "date": "2026-10-28T18:50:39+00:00",
    "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accor…",
    "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "date": "2026-10-28T18:36:26+00:00",
+   "excerpt": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official…",
+   "source": "The Verge AI",
    "category": "Press"
   },
   {
@@ -91,6 +179,14 @@
    "category": "Press"
   },
   {
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "date": "2026-10-28T13:15:00+00:00",
+   "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "macro-inc/macro",
    "url": "https://github.com/macro-inc/macro",
    "date": "2026-10-28T13:09:10+00:00",
@@ -102,7 +198,7 @@
    "title": "expo/skills",
    "url": "https://github.com/expo/skills",
    "date": "2026-10-28T13:09:10+00:00",
-   "excerpt": "Shell · 212 stars today — A collection of AI agent skills for working with Expo projects and Expo Application Services",
+   "excerpt": "Shell · 216 stars today — A collection of AI agent skills for working with Expo projects and Expo Application Services",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -619,10 +715,18 @@
    "category": "Press"
   },
   {
+   "title": "AI for Science expands to foundations and research institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "date": "2026-10-28T00:00:00+00:00",
+   "excerpt": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "elayadesign/ai-design-skills",
    "url": "https://github.com/elayadesign/ai-design-skills",
    "date": "2026-10-27T23:50:07+00:00",
-   "excerpt": "1,395 stars today —",
+   "excerpt": "1,938 stars today —",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1575,6 +1679,14 @@
    "url": "https://huggingface.co/papers/2610.37364",
    "date": "2026-10-26T20:00:00+00:00",
    "excerpt": "We present EmbeddingGemma 2, an open multimodal embedding model which natively represents text, images, audio, video, and combinations thereof in a unified space. Our approach introduces improvements such as simplified per-layer embeddings and a multi-stage curriculum with modality and objective pr…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection",
+   "url": "https://huggingface.co/papers/2509.05512",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "This paper introduces Quaternion Approximate Networks (QUAN), a novel deep learning framework that leverages quaternion algebra for rotation equivariant image classification and object detection. Unlike conventional quaternion neural networks attempting to operate entirely in the quaternion domain,…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
