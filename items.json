@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-28T13:09:10+00:00",
+ "updated": "2026-10-28T18:55:07+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "date": "2026-10-28T18:50:39+00:00",
+   "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accor…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "date": "2026-10-28T17:00:58+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "date": "2026-10-28T17:00:00+00:00",
+   "excerpt": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Ge…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "date": "2026-10-28T17:00:00+00:00",
+   "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "date": "2026-10-28T17:00:00+00:00",
+   "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "date": "2026-10-28T16:15:30+00:00",
+   "excerpt": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with ind…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "date": "2026-10-28T15:53:52+00:00",
+   "excerpt": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "date": "2026-10-28T15:41:18+00:00",
+   "excerpt": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "date": "2026-10-28T15:00:00+00:00",
+   "excerpt": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "date": "2026-10-28T14:58:17+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "date": "2026-10-28T14:44:00+00:00",
+   "excerpt": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood report…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "macro-inc/macro",
    "url": "https://github.com/macro-inc/macro",
@@ -51,8 +139,24 @@
    "category": "Press"
   },
   {
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "date": "2026-10-28T10:00:00+00:00",
+   "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "Legora is building the agentic operating system for legal work",
    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "date": "2026-10-28T09:30:00+00:00",
+   "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
    "date": "2026-10-28T09:30:00+00:00",
    "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
    "source": "OpenAI",
@@ -1467,6 +1571,14 @@
    "category": "Paper"
   },
   {
+   "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+   "url": "https://huggingface.co/papers/2610.37364",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "We present EmbeddingGemma 2, an open multimodal embedding model which natively represents text, images, audio, video, and combinations thereof in a unified space. Our approach introduces improvements such as simplified per-layer embeddings and a multi-stage curriculum with modality and objective pr…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Will the real Anthropic please stand up",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "date": "2026-10-26T17:45:43+00:00",
@@ -2063,6 +2175,14 @@
    "url": "https://huggingface.co/papers/2602.10657",
    "date": "2026-10-25T20:00:00+00:00",
    "excerpt": "How much of zero-shot benchmark accuracy is captured by word-level alignment between a pre-training corpus and the benchmark target? We study this question through word-level unigram cross-entropy (UCE), a tokenizer-agnostic, model-free measure of lexical alignment between a reference corpus and a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+   "url": "https://huggingface.co/papers/2610.36184",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "Bengali, spoken by over 230 million people, remains severely under-resourced in spoken language research. Existing open Bengali ASR corpora are confined to short, read or crowd-sourced speech and lack speaker diarization and long-form audio. We present Lipi-Ghor, a large-scale weakly-supervised Ben…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -18218,6 +18338,14 @@
    "date": "2026-09-22T00:00:00+00:00",
    "excerpt": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
    "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Architectural Backdoors for Within-Batch Data Stealing and Model Inference Manipulation",
+   "url": "https://deepmind.google/research/publications/149959/",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
    "category": "Major Lab"
   },
   {
