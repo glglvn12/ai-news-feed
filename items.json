@@ -1,7 +1,129 @@
 {
- "updated": "2026-10-29T13:15:23+00:00",
- "failed": [],
+ "updated": "2026-10-29T19:01:49+00:00",
+ "failed": [
+  "Microsoft Research"
+ ],
  "items": [
+  {
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "date": "2026-10-29T18:45:31+00:00",
+   "excerpt": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mob…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "date": "2026-10-29T17:54:38+00:00",
+   "excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Do AI Experiences Enable Human Strengths to Shine?",
+   "url": "https://www.salesforce.com/blog/human-ai-interaction-research/",
+   "date": "2026-10-29T17:17:31+00:00",
+   "excerpt": "Trailblazers want to bring more of their creativity, expertise, and judgment to human-AI interactions. Here are five questions to guide designers.",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "date": "2026-10-29T17:00:00+00:00",
+   "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "date": "2026-10-29T17:00:00+00:00",
+   "excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Speeding up language models for travel applications",
+   "url": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+   "date": "2026-10-29T16:51:26+00:00",
+   "excerpt": "Two optimization techniques, when combined, can significantly improve a model’s speed and cost effectiveness without sacrificing quality.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "date": "2026-10-29T16:42:32+00:00",
+   "excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "date": "2026-10-29T16:21:00+00:00",
+   "excerpt": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft’s AI future has fewer jobs",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "date": "2026-10-29T16:00:00+00:00",
+   "excerpt": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+   "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+   "date": "2026-10-29T15:00:00+00:00",
+   "excerpt": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The NYT Cooking app is testing AI recipe modifications",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "date": "2026-10-29T14:39:37+00:00",
+   "excerpt": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equip…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "date": "2026-10-29T14:35:26+00:00",
+   "excerpt": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic is asking Wall Street to believe in AGI",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "date": "2026-10-29T14:00:00+00:00",
+   "excerpt": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "date": "2026-10-29T13:37:07+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Anthropic’s business plan: Build God or die trying",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+   "date": "2026-10-29T13:30:00+00:00",
+   "excerpt": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "CopilotKit/OpenBot",
    "url": "https://github.com/CopilotKit/OpenBot",
@@ -19,6 +141,30 @@
    "category": "GitHub"
   },
   {
+   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "date": "2026-10-29T13:00:00+00:00",
+   "excerpt": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "date": "2026-10-29T13:00:00+00:00",
+   "excerpt": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "date": "2026-10-29T12:00:07+00:00",
+   "excerpt": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+   "source": "Mistral",
+   "category": "Lab"
+  },
+  {
    "title": "We urgently need to monitor AI agents’ actions in real time",
    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
    "date": "2026-10-29T10:11:12+00:00",
@@ -33,6 +179,22 @@
    "excerpt": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surr…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "date": "2026-10-29T09:00:00+00:00",
+   "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "date": "2026-10-29T07:00:00+00:00",
+   "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
@@ -277,6 +439,22 @@
   {
    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
    "url": "https://huggingface.co/blog/anydecisionmodel",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "url": "https://huggingface.co/blog/announcing-project-protostar",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "url": "https://huggingface.co/blog/mistral-large4",
    "date": "2026-10-29T00:00:00+00:00",
    "excerpt": "",
    "source": "Hugging Face",
@@ -2367,6 +2545,14 @@
    "url": "https://huggingface.co/papers/2610.36192",
    "date": "2026-10-25T20:00:00+00:00",
    "excerpt": "Learning velocity fields directly in pixel space is difficult and slow. We show that coarse second-order image statistics can ease this task: frozen Wiener estimates improve velocity learning, with gains extending beyond the linear predictions they explicitly provide. Moreover, we observe similar b…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks",
+   "url": "https://huggingface.co/papers/2610.35671",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "As frontier language models grow increasingly capable and autonomous, independent third-party evaluations are critical for characterizing their systemic safety risks. While closed-source releases are routinely accompanied by comprehensive system cards, open-weight models receive less scrutiny regar…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -16391,7 +16577,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 324 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 459 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
