@@ -1,9 +1,47 @@
 {
- "updated": "2026-10-29T19:01:49+00:00",
- "failed": [
-  "Microsoft Research"
- ],
+ "updated": "2026-10-29T23:21:29+00:00",
+ "failed": [],
  "items": [
+  {
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "date": "2026-10-29T20:08:31+00:00",
+   "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "date": "2026-10-29T20:05:47+00:00",
+   "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "date": "2026-10-29T19:56:19+00:00",
+   "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft Research Focus – Edition #97",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+   "date": "2026-10-29T19:19:16+00:00",
+   "excerpt": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appea…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "date": "2026-10-29T19:14:36+00:00",
+   "excerpt": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
@@ -1917,6 +1955,14 @@
    "category": "Paper"
   },
   {
+   "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
+   "url": "https://huggingface.co/papers/2610.37626",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning paradigm that assigns these roles to autoregressive pretraining for knowledge acquisition and diffusion post-training for high-fidelity rendering. Within this framework, we study the…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Will the real Anthropic please stand up",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "date": "2026-10-26T17:45:43+00:00",
@@ -2553,6 +2599,14 @@
    "url": "https://huggingface.co/papers/2610.35671",
    "date": "2026-10-25T20:00:00+00:00",
    "excerpt": "As frontier language models grow increasingly capable and autonomous, independent third-party evaluations are critical for characterizing their systemic safety risks. While closed-source releases are routinely accompanied by comprehensive system cards, open-weight models receive less scrutiny regar…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load",
+   "url": "https://huggingface.co/papers/2610.36095",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "The quality with which language models follow instructions falls as the load grows, yet there is still no quantity that expresses the limit of a model in units of load with an uncertainty. We propose an instrument in which the load consists of rules that replace single-token words in a text without…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
