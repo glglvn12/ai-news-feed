@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-29T23:21:29+00:00",
+ "updated": "2026-10-30T05:58:15+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "date": "2026-10-30T01:20:48+00:00",
+   "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "date": "2026-10-29T23:42:22+00:00",
+   "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
@@ -166,7 +182,7 @@
    "title": "CopilotKit/OpenBot",
    "url": "https://github.com/CopilotKit/OpenBot",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "TypeScript · 240 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+   "excerpt": "TypeScript · 247 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -174,7 +190,7 @@
    "title": "Donchitos/Claude-Code-Game-Studios",
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "Shell · 538 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+   "excerpt": "Shell · 353 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -561,6 +577,38 @@
    "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training",
+   "url": "https://huggingface.co/papers/2610.40362",
+   "date": "2026-10-28T20:00:00+00:00",
+   "excerpt": "Weight-normalized (WN) training is emerging as a compelling alternative to conventional weight decay (WD), with recent studies reporting substantial pretraining loss gains. We show that these gains are driven primarily by the induced effective learning rate (ELR) trajectory rather than by normaliza…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+   "url": "https://huggingface.co/papers/2610.40599",
+   "date": "2026-10-28T20:00:00+00:00",
+   "excerpt": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a single fused mesh, while CHARM, the only generator of stylized hair cards, deco…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Intrinsic Distribution Matching",
+   "url": "https://huggingface.co/papers/2610.39633",
+   "date": "2026-10-28T20:00:00+00:00",
+   "excerpt": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following p…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "EditAgent: Rethinking Agentic Image Editing",
+   "url": "https://huggingface.co/papers/2610.39664",
+   "date": "2026-10-28T20:00:00+00:00",
+   "excerpt": "Agentic image editors decompose complex requests into steps, but when a step fails, they mostly retry with the same narrow set of tools and a judge that scores each output by eye directly. We argue that such agents are bounded by two spaces: the action space of what the agent can do, and the observ…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -982,7 +1030,7 @@
    "title": "elayadesign/ai-design-skills",
    "url": "https://github.com/elayadesign/ai-design-skills",
    "date": "2026-10-27T23:50:07+00:00",
-   "excerpt": "1,178 stars today —",
+   "excerpt": "1,187 stars today —",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1033,6 +1081,30 @@
    "excerpt": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired o…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding",
+   "url": "https://huggingface.co/papers/2610.38678",
+   "date": "2026-10-27T20:00:00+00:00",
+   "excerpt": "Recent advances in multimodal large language models have increased interest in interaction paradigms for video understanding. The evolution from offline to streaming and proactive interaction has gradually shifted models from passive responders toward more proactive agents that can decide when to a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video",
+   "url": "https://huggingface.co/papers/2610.38352",
+   "date": "2026-10-27T20:00:00+00:00",
+   "excerpt": "Producing long-form videos from narration requires interdependent decisions that remain coherent across shots. Existing agentic editors often use multi-stage workflows driven by general models, leaving the quality-cost trade-off of compact, task-adapted policies unclear. We address this gap with We…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+   "url": "https://huggingface.co/papers/2610.38425",
+   "date": "2026-10-27T20:00:00+00:00",
+   "excerpt": "Humans routinely consume multimodal content, where textual and visual information is naturally interleaved. Although Unified Multimodal Models (UMMs) can jointly generate text and images, multimodal interleaved generation remains largely underexplored. Progress in this area is hindered by two key l…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -1963,6 +2035,22 @@
    "category": "Paper"
   },
   {
+   "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+   "url": "https://huggingface.co/papers/2610.37786",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-and-replay preserves observations, with interacti…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+   "url": "https://huggingface.co/papers/2610.37161",
+   "date": "2026-10-26T20:00:00+00:00",
+   "excerpt": "Scaling supervised training for working agents requires diverse professional tasks that yield reliable expert demonstrations. However, missing or inconsistent task information can obstruct teacher execution and weaken the resulting supervision. We propose WorkFactory, a scalable framework for const…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Will the real Anthropic please stand up",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "date": "2026-10-26T17:45:43+00:00",
@@ -2054,7 +2142,7 @@
    "title": "nightly-labs/openbot",
    "url": "https://github.com/nightly-labs/openbot",
    "date": "2026-10-26T14:22:23+00:00",
-   "excerpt": "TypeScript · 705 stars today — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "excerpt": "TypeScript · 709 stars today — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2607,6 +2695,14 @@
    "url": "https://huggingface.co/papers/2610.36095",
    "date": "2026-10-25T20:00:00+00:00",
    "excerpt": "The quality with which language models follow instructions falls as the load grows, yet there is still no quantity that expresses the limit of a model in units of load with an uncertainty. We propose an instrument in which the load consists of rules that replace single-token words in a text without…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models",
+   "url": "https://huggingface.co/papers/2610.35138",
+   "date": "2026-10-25T20:00:00+00:00",
+   "excerpt": "Evaluating human-AI co-design requires testing whether coding agents can translate real users' multimodal requests into working application revisions. We introduce Co-Design Bench, a reference-free benchmark of 273 tasks curated from 37,463 deduplicated queries across 26,314 real user coding sessio…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -16631,7 +16727,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 459 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 336 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16711,7 +16807,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,037 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 1,034 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -16727,7 +16823,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 2,881 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "excerpt": "Rust · 2,870 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -19323,14 +19419,6 @@
    "excerpt": "How the Verus \"program verifier\", which automatically checks code against a mathematical specification of its functionality, helps increase security assurance in software projects.",
    "source": "Amazon Science",
    "category": "Big Tech"
-  },
-  {
-   "title": "Improving our alignment and security efforts",
-   "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-   "date": "2026-08-31T00:00:00+00:00",
-   "excerpt": "Improving our alignment and security efforts",
-   "source": "Anthropic",
-   "category": "Major Lab"
   }
  ]
 }
