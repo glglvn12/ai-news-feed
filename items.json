@@ -1,7 +1,247 @@
 {
- "updated": "2026-10-31T02:29:12+00:00",
+ "updated": "2026-10-31T09:46:12+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+   "url": "https://arxiv.org/abs/2610.37786",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-a…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+   "url": "https://arxiv.org/abs/2610.37809",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+   "url": "https://arxiv.org/abs/2610.37830",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain an…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+   "url": "https://arxiv.org/abs/2610.37849",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, w…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+   "url": "https://arxiv.org/abs/2610.37851",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introdu…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+   "url": "https://arxiv.org/abs/2610.37859",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of opera…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+   "url": "https://arxiv.org/abs/2610.37905",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring mis…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+   "url": "https://arxiv.org/abs/2610.37919",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pretrai…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+   "url": "https://arxiv.org/abs/2610.37923",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37923v1 Announce Type: new Abstract: Across human history, knowledge has undergone several transitions, from orality to writing and then to digital archives. At each transition, humans established new conventions to preserve knowledge for the new era. Nowadays, as research agents are inc…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2610.37926",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+   "url": "https://arxiv.org/abs/2610.37935",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skill-…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
+   "url": "https://arxiv.org/abs/2610.38147",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38147v1 Announce Type: new Abstract: Agent skills package instructions, scripts, and resources for specialized tasks and are increasingly distributed through public Web repositories. However, existing skill benchmarks primarily focus on downstream task execution, insufficiently assessing…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+   "url": "https://arxiv.org/abs/2610.38175",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38175v1 Announce Type: new Abstract: Benders decomposition and column generation solve large optimization problems by passing cuts, columns, and dual values between a master problem and subproblems, and are hard to implement correctly. Large language models now automate parts of algorith…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Disparity Laundering: Consensus Without Fairness in Clinical Multi-Agent Systems",
+   "url": "https://arxiv.org/abs/2610.38215",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38215v1 Announce Type: new Abstract: Clinical large language models are increasingly fielded as multi-agent teams, on the assumption that deliberation averages out individual error. It does not average out bias. Across a full factorial of five model families and four aggregation topologi…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "FACTS-MAS: A Multi-Agent Architecture for Adaptive Forecasting from Heterogeneous Evidence",
+   "url": "https://arxiv.org/abs/2610.38225",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38225v1 Announce Type: new Abstract: Real-world forecasting often requires integrating heterogeneous evidence whose predictive value varies across horizons, operating regimes, and domains. We introduce FACTS-MAS, a domain-agnostic multi-agent forecasting framework that decomposes evidenc…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?",
+   "url": "https://arxiv.org/abs/2610.38342",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38342v1 Announce Type: new Abstract: Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, research workflows, or forecasting, but evaluating the f…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SCOPE: Selective Critical-Step On-Policy Self-Distillation for Agentic Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2610.38391",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38391v1 Announce Type: new Abstract: Outcome-based reinforcement learning provides coarse supervision for long-horizon LLM agents: failed trajectories may contain correct steps, while successful trajectories can contain errors. Trajectory-level skills can also shift teacher preferences a…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Masked Erosion: How Acceptance Gates Lose Redundant Safeguards in Self-Improving Agents",
+   "url": "https://arxiv.org/abs/2610.38392",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38392v1 Announce Type: new Abstract: Self-improving LLM agents edit their own harness, the prompts and rules around a fixed model, and keep an edit only if an acceptance gate scores it higher on a batch of tasks. Such a gate sees what the harness does under the current model, not what it…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Agent Transfer Protocol: Server-Mediated Agent-to-Agent Communication Architecture for the Agentic Web",
+   "url": "https://arxiv.org/abs/2610.38398",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38398v1 Announce Type: new Abstract: The Agentic Web needs to support continuous collaboration among agents from different organizations. These collaborative relationships may span multiple tasks, network connections and execution instances. Such interactions require stable communication…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Governance-Aware Federated Learning for Multi-Agent AI Systems: A Policy-Driven Framework for Trustworthy Collaborative AI",
+   "url": "https://arxiv.org/abs/2610.38411",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38411v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative model training without exchanging raw data, but conventional FL provides limited runtime governance, evidence verification, fairness assessment, explainability monitoring, and auditability. This paper prop…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Predict the Reward, Not the World: World Reward Models for ML Agents",
+   "url": "https://arxiv.org/abs/2610.38439",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38439v1 Announce Type: new Abstract: Search-based machine-learning (ML) agents improve a solution by writing candidate programs, executing them, and keeping the best. Execution gives the search reliable feedback, but a single run can take hours, and most runs end in programs the agent di…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "An Alignment Benchmark for Enterprise Agents on Era by Eon",
+   "url": "https://arxiv.org/abs/2610.38544",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38544v1 Announce Type: new Abstract: AI agents are widely used in enterprises to access business systems and act on them in pursuit of a goal. However, fulfilling a user's request can cause harm. Era by Eon is a product that creates a digital twin of a company by simulating its business…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents",
+   "url": "https://arxiv.org/abs/2610.38573",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38573v1 Announce Type: new Abstract: A memory can be outdated for present-day reasoning yet indispensable for reconstructing the past. Relevance-based retrieval overlooks this tension: semantic relevance, evidence-grounded validity, and query-specific eligibility are distinct. We propose…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Think Before You Act: Decision Gate for LLM Agents",
+   "url": "https://arxiv.org/abs/2610.38620",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38620v1 Announce Type: new Abstract: LLM agents increasingly perform consequential actions through external tools, yet their proposed actions are often executed without independent verification of policy compliance or task completion. We introduce JevAct, a runtime verification framework…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Beyond fabrication: Misattributed numbers in papers written by AI research agents",
+   "url": "https://arxiv.org/abs/2610.38691",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38691v1 Announce Type: new Abstract: Verifying numerical claims in research written by AI agents is an important but challenging problem. Recent benchmarks show that many agent-written papers fail integrity checks, but such verdicts, often produced by a single LLM judge, identify failure…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
+   "url": "https://arxiv.org/abs/2610.38867",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38867v1 Announce Type: new Abstract: LLM agents are increasingly adopted in long-horizon tasks and interact with diverse external environments. Despite their growing capabilities, these agents remain vulnerable to real-world attacks such as indirect prompt injections, which manipulate ag…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems",
+   "url": "https://arxiv.org/abs/2610.38869",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38869v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly being used as cognitive interfaces that shape how users interpret evidence, communicate, and make decisions. As deployed systems become more multimodal, tool-using, and multi-agent, safety failures no long…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Aligning Autoresearch: Co-Improvement between Agents and Humans",
+   "url": "https://arxiv.org/abs/2610.38882",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38882v1 Announce Type: new Abstract: Autoresearch agents can now attempt long-horizon AI research end-to-end, i.e., self-improvement. However, best results are still obtained by research agents interacting with human researchers, and improving AI's ability to perform this co-research wil…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "TreasuryQA Bench: Can AI Agents Work an Archive of Scanned Financial Records?",
+   "url": "https://arxiv.org/abs/2610.38924",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38924v1 Announce Type: new Abstract: Organisations keep decades of financial records as scanned PDFs on shared drives, and AI agents can now reach those drives through Model Context Protocol (MCP) servers. Existing benchmarks do not mirror this production setting because they simplify th…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
+   "url": "https://arxiv.org/abs/2610.38960",
+   "date": "2026-10-31T04:00:00+00:00",
+   "excerpt": "arXiv:2610.38960v1 Announce Type: new Abstract: Fine-grained audio-visual question answering (AVQA) requires models to resolve complex cross-modal correspondences and temporally grounding from sparsely distributed evidence. Omni-modal agents, which autonomously orchestrate perception tools to activ…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
   {
    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -257,246 +497,6 @@
    "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
    "source": "OpenAI",
    "category": "Major Lab"
-  },
-  {
-   "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-   "url": "https://arxiv.org/abs/2610.37786",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-a…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-   "url": "https://arxiv.org/abs/2610.37809",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-   "url": "https://arxiv.org/abs/2610.37830",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain an…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-   "url": "https://arxiv.org/abs/2610.37849",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37849v1 Announce Type: cross Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message,…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-   "url": "https://arxiv.org/abs/2610.37851",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introdu…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-   "url": "https://arxiv.org/abs/2610.37859",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of opera…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
-   "url": "https://arxiv.org/abs/2610.37905",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring mis…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
-   "url": "https://arxiv.org/abs/2610.37919",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37919v1 Announce Type: cross Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pretr…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "VerifiedLab: Harnessing Knowns for Unknowns",
-   "url": "https://arxiv.org/abs/2610.37923",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37923v1 Announce Type: new Abstract: Across human history, knowledge has undergone several transitions, from orality to writing and then to digital archives. At each transition, humans established new conventions to preserve knowledge for the new era. Nowadays, as research agents are inc…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2610.37926",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37926v1 Announce Type: new Abstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
-   "url": "https://arxiv.org/abs/2610.37935",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.37935v1 Announce Type: cross Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skil…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
-   "url": "https://arxiv.org/abs/2610.38147",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38147v1 Announce Type: new Abstract: Agent skills package instructions, scripts, and resources for specialized tasks and are increasingly distributed through public Web repositories. However, existing skill benchmarks primarily focus on downstream task execution, insufficiently assessing…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
-   "url": "https://arxiv.org/abs/2610.38175",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38175v1 Announce Type: new Abstract: Benders decomposition and column generation solve large optimization problems by passing cuts, columns, and dual values between a master problem and subproblems, and are hard to implement correctly. Large language models now automate parts of algorith…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Disparity Laundering: Consensus Without Fairness in Clinical Multi-Agent Systems",
-   "url": "https://arxiv.org/abs/2610.38215",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38215v1 Announce Type: new Abstract: Clinical large language models are increasingly fielded as multi-agent teams, on the assumption that deliberation averages out individual error. It does not average out bias. Across a full factorial of five model families and four aggregation topologi…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "FACTS-MAS: A Multi-Agent Architecture for Adaptive Forecasting from Heterogeneous Evidence",
-   "url": "https://arxiv.org/abs/2610.38225",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38225v1 Announce Type: new Abstract: Real-world forecasting often requires integrating heterogeneous evidence whose predictive value varies across horizons, operating regimes, and domains. We introduce FACTS-MAS, a domain-agnostic multi-agent forecasting framework that decomposes evidenc…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?",
-   "url": "https://arxiv.org/abs/2610.38342",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38342v1 Announce Type: new Abstract: Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, research workflows, or forecasting, but evaluating the f…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "SCOPE: Selective Critical-Step On-Policy Self-Distillation for Agentic Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2610.38391",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38391v1 Announce Type: new Abstract: Outcome-based reinforcement learning provides coarse supervision for long-horizon LLM agents: failed trajectories may contain correct steps, while successful trajectories can contain errors. Trajectory-level skills can also shift teacher preferences a…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Masked Erosion: How Acceptance Gates Lose Redundant Safeguards in Self-Improving Agents",
-   "url": "https://arxiv.org/abs/2610.38392",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38392v1 Announce Type: new Abstract: Self-improving LLM agents edit their own harness, the prompts and rules around a fixed model, and keep an edit only if an acceptance gate scores it higher on a batch of tasks. Such a gate sees what the harness does under the current model, not what it…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Agent Transfer Protocol: Server-Mediated Agent-to-Agent Communication Architecture for the Agentic Web",
-   "url": "https://arxiv.org/abs/2610.38398",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38398v1 Announce Type: new Abstract: The Agentic Web needs to support continuous collaboration among agents from different organizations. These collaborative relationships may span multiple tasks, network connections and execution instances. Such interactions require stable communication…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Governance-Aware Federated Learning for Multi-Agent AI Systems: A Policy-Driven Framework for Trustworthy Collaborative AI",
-   "url": "https://arxiv.org/abs/2610.38411",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38411v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative model training without exchanging raw data, but conventional FL provides limited runtime governance, evidence verification, fairness assessment, explainability monitoring, and auditability. This paper prop…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Predict the Reward, Not the World: World Reward Models for ML Agents",
-   "url": "https://arxiv.org/abs/2610.38439",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38439v1 Announce Type: cross Abstract: Search-based machine-learning (ML) agents improve a solution by writing candidate programs, executing them, and keeping the best. Execution gives the search reliable feedback, but a single run can take hours, and most runs end in programs the agent…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "An Alignment Benchmark for Enterprise Agents on Era by Eon",
-   "url": "https://arxiv.org/abs/2610.38544",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38544v1 Announce Type: new Abstract: AI agents are widely used in enterprises to access business systems and act on them in pursuit of a goal. However, fulfilling a user's request can cause harm. Era by Eon is a product that creates a digital twin of a company by simulating its business…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents",
-   "url": "https://arxiv.org/abs/2610.38573",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38573v1 Announce Type: new Abstract: A memory can be outdated for present-day reasoning yet indispensable for reconstructing the past. Relevance-based retrieval overlooks this tension: semantic relevance, evidence-grounded validity, and query-specific eligibility are distinct. We propose…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Think Before You Act: Decision Gate for LLM Agents",
-   "url": "https://arxiv.org/abs/2610.38620",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38620v1 Announce Type: new Abstract: LLM agents increasingly perform consequential actions through external tools, yet their proposed actions are often executed without independent verification of policy compliance or task completion. We introduce JevAct, a runtime verification framework…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Beyond fabrication: Misattributed numbers in papers written by AI research agents",
-   "url": "https://arxiv.org/abs/2610.38691",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38691v1 Announce Type: cross Abstract: Verifying numerical claims in research written by AI agents is an important but challenging problem. Recent benchmarks show that many agent-written papers fail integrity checks, but such verdicts, often produced by a single LLM judge, identify failu…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
-   "title": "Where You Inject Matters: The Trust Region Effect in LLM Agents",
-   "url": "https://arxiv.org/abs/2610.38867",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38867v1 Announce Type: new Abstract: LLM agents are increasingly adopted in long-horizon tasks and interact with diverse external environments. Despite their growing capabilities, these agents remain vulnerable to real-world attacks such as indirect prompt injections, which manipulate ag…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Auditable Belief Updates as a Missing Safety Layer for LLM-Powered Multi-Agent Systems",
-   "url": "https://arxiv.org/abs/2610.38869",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38869v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly being used as cognitive interfaces that shape how users interpret evidence, communicate, and make decisions. As deployed systems become more multimodal, tool-using, and multi-agent, safety failures no long…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Aligning Autoresearch: Co-Improvement between Agents and Humans",
-   "url": "https://arxiv.org/abs/2610.38882",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38882v1 Announce Type: new Abstract: Autoresearch agents can now attempt long-horizon AI research end-to-end, i.e., self-improvement. However, best results are still obtained by research agents interacting with human researchers, and improving AI's ability to perform this co-research wil…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "TreasuryQA Bench: Can AI Agents Work an Archive of Scanned Financial Records?",
-   "url": "https://arxiv.org/abs/2610.38924",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38924v1 Announce Type: new Abstract: Organisations keep decades of financial records as scanned PDFs on shared drives, and AI agents can now reach those drives through Model Context Protocol (MCP) servers. Existing benchmarks do not mirror this production setting because they simplify th…",
-   "source": "arXiv cs.AI",
-   "category": "Paper"
-  },
-  {
-   "title": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
-   "url": "https://arxiv.org/abs/2610.38960",
-   "date": "2026-10-30T04:00:00+00:00",
-   "excerpt": "arXiv:2610.38960v1 Announce Type: cross Abstract: Fine-grained audio-visual question answering (AVQA) requires models to resolve complex cross-modal correspondences and temporally grounding from sparsely distributed evidence. Omni-modal agents, which autonomously orchestrate perception tools to act…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
   },
   {
    "title": "Exposure Is Not Commitment: Double-Stratified Evaluation of Latent Monitors for Tool-Using Agents",
