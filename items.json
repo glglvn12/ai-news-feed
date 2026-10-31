@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-30T23:00:42+00:00",
+ "updated": "2026-10-31T02:29:12+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "date": "2026-10-31T01:20:05+00:00",
+   "excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
    "date": "2026-10-30T22:56:13+00:00",
    "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
    "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "date": "2026-10-30T22:32:53+00:00",
+   "excerpt": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for…",
+   "source": "The Verge AI",
    "category": "Press"
   },
   {
@@ -166,7 +182,7 @@
    "title": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Python · 287 stars today — Public repository for Agent Skills",
+   "excerpt": "Python · 295 stars today — Public repository for Agent Skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -174,7 +190,7 @@
    "title": "lightpanda-io/browser",
    "url": "https://github.com/lightpanda-io/browser",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Zig · 652 stars today — Lightpanda: the headless browser designed for AI and automation",
+   "excerpt": "Zig · 626 stars today — Lightpanda: the headless browser designed for AI and automation",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -862,7 +878,7 @@
    "title": "CopilotKit/OpenBot",
    "url": "https://github.com/CopilotKit/OpenBot",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "TypeScript · 707 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+   "excerpt": "TypeScript · 706 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1518,7 +1534,7 @@
    "title": "macro-inc/macro",
    "url": "https://github.com/macro-inc/macro",
    "date": "2026-10-28T13:09:10+00:00",
-   "excerpt": "Rust · 117 stars today — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+   "excerpt": "Rust · 57 stars today — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1526,7 +1542,7 @@
    "title": "expo/skills",
    "url": "https://github.com/expo/skills",
    "date": "2026-10-28T13:09:10+00:00",
-   "excerpt": "Shell · 108 stars today — A collection of AI agent skills for working with Expo projects and Expo Application Services",
+   "excerpt": "Shell · 38 stars today — A collection of AI agent skills for working with Expo projects and Expo Application Services",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2664,6 +2680,14 @@
    "date": "2026-10-27T00:00:00+00:00",
    "excerpt": "As AI does more of the hands-on work, the hope is that experts still make the judgment calls, meaning the decisions with more than one defensible answer. We tested this with 50 professional analysts who did a statistical analysis with Claude Code. On each key decision, we randomly assigned which of…",
    "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+   "url": "https://deepmind.google/research/publications/279443/",
+   "date": "2026-10-27T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind Research",
    "category": "Major Lab"
   },
   {
@@ -17567,7 +17591,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 1,145 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 1,140 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17647,7 +17671,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,255 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 1,259 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17663,7 +17687,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 2,299 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "excerpt": "Rust · 2,300 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17671,7 +17695,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 889 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 876 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20203,38 +20227,6 @@
    "excerpt": "",
    "source": "Google DeepMind",
    "category": "Major Lab"
-  },
-  {
-   "title": "Developing Enterprise Frontier Safeguards with our customers",
-   "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-   "date": "2026-09-01T00:00:00+00:00",
-   "excerpt": "Developing Enterprise Frontier Safeguards with our customers",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "url": "https://huggingface.co/blog/webgpu-kernels",
-   "date": "2026-09-01T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
-  },
-  {
-   "title": "Designing Proactive Thought Partners for Writing",
-   "url": "https://deepmind.google/research/publications/265605/",
-   "date": "2026-09-01T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Biosecurity at the frontier",
-   "url": "https://x.ai/news/biosafety-at-the-frontier",
-   "date": "2026-09-01T00:00:00+00:00",
-   "excerpt": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
