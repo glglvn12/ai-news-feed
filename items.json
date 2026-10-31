@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-31T20:02:19+00:00",
+ "updated": "2026-10-31T23:27:03+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "date": "2026-10-31T21:41:00+00:00",
+   "excerpt": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "date": "2026-10-31T21:36:07+00:00",
+   "excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "date": "2026-10-31T21:17:03+00:00",
+   "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "OpenAI reportedly lowers funding target for new round",
    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -918,7 +942,7 @@
    "title": "Donchitos/Claude-Code-Game-Studios",
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "Shell · 1,347 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+   "excerpt": "Shell · 724 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20235,14 +20259,6 @@
    "excerpt": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
    "source": "Salesforce AI Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "url": "https://huggingface.co/blog/allenai/benchmirt",
-   "date": "2026-09-01T21:39:07+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
   }
  ]
 }
