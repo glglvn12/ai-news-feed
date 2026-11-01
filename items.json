@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:27:03+00:00",
+ "updated": "2026-11-01T06:20:06+00:00",
  "failed": [],
  "items": [
   {
@@ -46,7 +46,7 @@
    "title": "Orkas-AI/Orkas",
    "url": "https://github.com/Orkas-AI/Orkas",
    "date": "2026-10-31T15:46:26+00:00",
-   "excerpt": "JavaScript · 1,118 stars today — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Fr…",
+   "excerpt": "JavaScript · 1,044 stars today — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Fr…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -54,7 +54,7 @@
    "title": "THU-MAIC/OpenMAIC",
    "url": "https://github.com/THU-MAIC/OpenMAIC",
    "date": "2026-10-31T15:46:26+00:00",
-   "excerpt": "TypeScript · 115 stars today — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+   "excerpt": "TypeScript · 116 stars today — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -942,7 +942,7 @@
    "title": "Donchitos/Claude-Code-Game-Studios",
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "Shell · 724 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+   "excerpt": "Shell · 742 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17727,7 +17727,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 663 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 665 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17743,7 +17743,7 @@
    "title": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Rust · 1,339 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "excerpt": "Rust · 1,338 stars today — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -17751,7 +17751,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 882 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 883 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20251,14 +20251,6 @@
    "excerpt": "",
    "source": "Google DeepMind",
    "category": "Major Lab"
-  },
-  {
-   "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
-   "url": "https://www.salesforce.com/blog/operational-intelligence/",
-   "date": "2026-09-01T23:53:58+00:00",
-   "excerpt": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
-   "source": "Salesforce AI Research",
-   "category": "Big Tech"
   }
  ]
 }
