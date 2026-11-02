@@ -1,12 +1,100 @@
 {
- "updated": "2026-11-02T17:11:04+00:00",
+ "updated": "2026-11-02T23:54:33+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+   "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+   "date": "2026-11-02T23:39:34+00:00",
+   "excerpt": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "date": "2026-11-02T23:13:53+00:00",
+   "excerpt": "The one-year-old startup is now valued at $300 million.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Keep Distributed Training Running with Automated Workload Recovery",
+   "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+   "date": "2026-11-02T22:43:05+00:00",
+   "excerpt": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "date": "2026-11-02T22:14:50+00:00",
+   "excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "date": "2026-11-02T19:25:59+00:00",
+   "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "date": "2026-11-02T19:19:17+00:00",
+   "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "date": "2026-11-02T18:56:02+00:00",
+   "excerpt": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cl…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "date": "2026-11-02T18:01:30+00:00",
+   "excerpt": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+   "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+   "date": "2026-11-02T18:00:00+00:00",
+   "excerpt": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "date": "2026-11-02T17:51:19+00:00",
+   "excerpt": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, t…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hermes Agent v0.22.6",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6",
+   "date": "2026-11-02T17:18:36+00:00",
+   "excerpt": "# Hermes Agent v0.22.6 **Release Date:** November 2, 2026 > Patch release. This tag rolls up the ~776 PRs merged since v0.22.5 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.23.0. #…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
   {
    "title": "vercel-labs/agent-desktop",
    "url": "https://github.com/vercel-labs/agent-desktop",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 2,243 stars today — Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+   "excerpt": "Rust · 2,243 stars today — Computer use CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -43,6 +131,14 @@
    "category": "Big Tech"
   },
   {
+   "title": "Raising the quality of insights in agentic analytics",
+   "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "date": "2026-11-02T17:00:00+00:00",
+   "excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quali…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
    "date": "2026-11-02T16:30:00+00:00",
@@ -65,6 +161,14 @@
    "excerpt": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,...",
    "source": "NVIDIA Developer Blog",
    "category": "Big Tech"
+  },
+  {
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "date": "2026-11-02T15:30:00+00:00",
+   "excerpt": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Introducing the Grid Protectors Program",
@@ -113,6 +217,14 @@
    "excerpt": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous soft…",
    "source": "MIT Tech Review AI",
    "category": "Press"
+  },
+  {
+   "title": "LifeVal",
+   "url": "https://openai.com/index/lifeval",
+   "date": "2026-11-02T09:00:00+00:00",
+   "excerpt": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
   },
   {
    "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
@@ -571,6 +683,14 @@
    "category": "Big Tech"
   },
   {
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "date": "2026-11-02T00:00:00+00:00",
+   "excerpt": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
    "date": "2026-11-01T21:55:23+00:00",
@@ -609,6 +729,14 @@
    "excerpt": "Jupyter Notebook · 1,191 stars today — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "date": "2026-11-01T02:22:10+00:00",
+   "excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
   },
   {
    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -1463,6 +1591,14 @@
    "url": "https://huggingface.co/papers/2610.42149",
    "date": "2026-10-29T20:00:00+00:00",
    "excerpt": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AuditFL: A Contract-Backed Clearing Layer for Open Federated Learning",
+   "url": "https://huggingface.co/papers/2610.41278",
+   "date": "2026-10-29T20:00:00+00:00",
+   "excerpt": "Federated learning (FL) keeps raw data local, but most deployments still rely on a trusted coordinator for client admission, checkpoint distribution, update collection, aggregation, and rewards. This paper presents AuditFL, a contract-backed clearing layer for auditable FL in open settings. AuditFL…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -18527,7 +18663,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 970 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 968 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20931,14 +21067,6 @@
    "excerpt": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "Transfer learning for genomic prediction in underrepresented populations",
-   "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-   "date": "2026-09-03T18:20:31+00:00",
-   "excerpt": "General Science",
-   "source": "Google Research",
-   "category": "Major Lab"
   }
  ]
 }
