@@ -1,7 +1,159 @@
 {
- "updated": "2026-11-03T15:17:21+00:00",
+ "updated": "2026-11-03T21:08:21+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "date": "2026-11-03T21:05:55+00:00",
+   "excerpt": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterpri…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Don’t be fooled by the fake hair on these famous baldies",
+   "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "date": "2026-11-03T21:01:07+00:00",
+   "excerpt": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "date": "2026-11-03T20:16:17+00:00",
+   "excerpt": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language p…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "date": "2026-11-03T19:34:43+00:00",
+   "excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "date": "2026-11-03T18:42:16+00:00",
+   "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "date": "2026-11-03T18:31:00+00:00",
+   "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, whic…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "date": "2026-11-03T18:30:42+00:00",
+   "excerpt": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a pre…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Indie games are missing launch dates because Steam is backed up",
+   "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+   "date": "2026-11-03T18:14:50+00:00",
+   "excerpt": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Foo…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "date": "2026-11-03T18:00:00+00:00",
+   "excerpt": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" Wh…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "date": "2026-11-03T17:15:21+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Learn the rules: The hacker mindset",
+   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+   "date": "2026-11-03T17:14:38+00:00",
+   "excerpt": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker minds…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Anthropic is still grappling with the economics of compute",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "date": "2026-11-03T17:07:01+00:00",
+   "excerpt": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "date": "2026-11-03T17:01:49+00:00",
+   "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "date": "2026-11-03T17:00:04+00:00",
+   "excerpt": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "date": "2026-11-03T16:35:36+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+   "date": "2026-11-03T16:30:34+00:00",
+   "excerpt": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Midterm elections 2026: all the news",
+   "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+   "date": "2026-11-03T15:58:39+00:00",
+   "excerpt": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are sev…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "date": "2026-11-03T15:38:27+00:00",
+   "excerpt": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple is all in on AI — its own and everyone else’s",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "date": "2026-11-03T15:24:51+00:00",
+   "excerpt": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in t…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "JustVugg/colibri",
    "url": "https://github.com/JustVugg/colibri",
@@ -51,6 +203,14 @@
    "category": "Press"
   },
   {
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "date": "2026-11-03T12:00:00+00:00",
+   "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "How “reverse game theory” could keep AI agents in check",
    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "date": "2026-11-03T10:43:41+00:00",
@@ -63,6 +223,14 @@
    "url": "https://openai.com/index/heimstaden",
    "date": "2026-11-03T08:00:00+00:00",
    "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "date": "2026-11-03T08:00:00+00:00",
+   "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -557,6 +725,22 @@
   {
    "title": "Transformers Model Integration Contracts",
    "url": "https://huggingface.co/blog/transformers-mic",
+   "date": "2026-11-03T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "date": "2026-11-03T00:00:00+00:00",
+   "excerpt": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "url": "https://huggingface.co/blog/cwe-bench",
    "date": "2026-11-03T00:00:00+00:00",
    "excerpt": "",
    "source": "Hugging Face",
@@ -1403,6 +1587,14 @@
    "category": "Paper"
   },
   {
+   "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
+   "url": "https://huggingface.co/papers/2611.03424",
+   "date": "2026-11-01T19:00:00+00:00",
+   "excerpt": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTaste, a benchmark that scores an LLM by how closely the resea…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "kornia/kornia",
    "url": "https://github.com/kornia/kornia",
    "date": "2026-11-01T14:20:16+00:00",
@@ -1511,6 +1703,14 @@
    "url": "https://huggingface.co/papers/2611.01460",
    "date": "2026-10-31T20:00:00+00:00",
    "excerpt": "Humans continuously acquire knowledge from carefully crafted materials such as books and tutorial videos, carrying that understanding into future tasks. Millions of such instructional videos are uploaded online every day, yet LLM agents remain unable to exploit this ever-expanding wealth of human t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Order-Only On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2611.02112",
+   "date": "2026-10-31T20:00:00+00:00",
+   "excerpt": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher prefers, and how confident it is. The latter reflects the teacher's own capacity and calibration, which…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
