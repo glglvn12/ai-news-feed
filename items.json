@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-02T23:54:33+00:00",
+ "updated": "2026-11-03T06:57:05+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "date": "2026-11-03T04:18:47+00:00",
+   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "date": "2026-11-03T03:30:00+00:00",
+   "excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "date": "2026-11-03T01:49:52+00:00",
+   "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "date": "2026-11-03T00:35:52+00:00",
+   "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
    "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
@@ -75,6 +107,22 @@
    "category": "Big Tech"
   },
   {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "date": "2026-11-02T18:00:00+00:00",
+   "excerpt": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "date": "2026-11-02T18:00:00+00:00",
+   "excerpt": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
    "date": "2026-11-02T17:51:19+00:00",
@@ -94,7 +142,7 @@
    "title": "vercel-labs/agent-desktop",
    "url": "https://github.com/vercel-labs/agent-desktop",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 2,243 stars today — Computer use CLI for AI agents",
+   "excerpt": "Rust · 2,275 stars today — Computer use CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -102,7 +150,7 @@
    "title": "max-sixty/worktrunk",
    "url": "https://github.com/max-sixty/worktrunk",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 136 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "excerpt": "Rust · 77 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -110,7 +158,7 @@
    "title": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "TypeScript · 451 stars today — The open-source app everyone uses to manage agents at work",
+   "excerpt": "TypeScript · 412 stars today — The open-source app everyone uses to manage agents at work",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -118,7 +166,7 @@
    "title": "p-e-w/heretic",
    "url": "https://github.com/p-e-w/heretic",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Python · 404 stars today — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+   "excerpt": "Python · 420 stars today — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -225,6 +273,14 @@
    "excerpt": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
    "source": "OpenAI Research",
    "category": "Major Lab"
+  },
+  {
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "date": "2026-11-02T08:41:14+00:00",
+   "excerpt": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
@@ -691,6 +747,22 @@
    "category": "Major Lab"
   },
   {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "date": "2026-11-02T00:00:00+00:00",
+   "excerpt": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Progress on provable inference for large language models",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "date": "2026-11-02T00:00:00+00:00",
+   "excerpt": "Progress on provable inference for large language models",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
    "date": "2026-11-01T21:55:23+00:00",
@@ -705,6 +777,14 @@
    "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents",
+   "url": "https://huggingface.co/papers/2611.03092",
+   "date": "2026-11-01T19:00:00+00:00",
+   "excerpt": "Personal AI agents are increasingly capable of handling long-horizon tasks across applications, yet users often need to invest substantial effort in specifying goals, resolving ambiguity, and verifying outcomes. We argue that progress should be measured by how effectively agents amplify human agenc…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "kornia/kornia",
@@ -739,6 +819,14 @@
    "category": "Press"
   },
   {
+   "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents",
+   "url": "https://huggingface.co/papers/2611.01484",
+   "date": "2026-10-31T23:16:52+00:00",
+   "excerpt": "As coding agents achieve increasingly high success rates on software engineering benchmarks, recent efforts have sought to increase task complexity through longer horizons and more extensive code modifications. However, real-world software development often spans multiple interdependent repositorie…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
    "date": "2026-10-31T21:41:00+00:00",
@@ -761,6 +849,22 @@
    "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+   "url": "https://huggingface.co/papers/2611.01560",
+   "date": "2026-10-31T20:00:00+00:00",
+   "excerpt": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports furt…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+   "url": "https://huggingface.co/papers/2611.02102",
+   "date": "2026-10-31T20:00:00+00:00",
+   "excerpt": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale. Its Experience Flywheel supplies diverse execut…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "OpenAI reportedly lowers funding target for new round",
@@ -1121,6 +1225,14 @@
    "excerpt": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of sett…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+   "url": "https://huggingface.co/papers/2611.00859",
+   "date": "2026-10-30T20:00:00+00:00",
+   "excerpt": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even w…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Google’s satellite AI server transmits its first response to Earth",
@@ -1531,6 +1643,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+   "url": "https://huggingface.co/papers/2610.41216",
+   "date": "2026-10-29T23:53:42+00:00",
+   "excerpt": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage app…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
    "date": "2026-10-29T23:42:22+00:00",
@@ -1599,6 +1719,38 @@
    "url": "https://huggingface.co/papers/2610.41278",
    "date": "2026-10-29T20:00:00+00:00",
    "excerpt": "Federated learning (FL) keeps raw data local, but most deployments still rely on a trusted coordinator for client admission, checkpoint distribution, update collection, aggregation, and rewards. This paper presents AuditFL, a contract-backed clearing layer for auditable FL in open settings. AuditFL…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+   "url": "https://huggingface.co/papers/2611.00172",
+   "date": "2026-10-29T20:00:00+00:00",
+   "excerpt": "Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by modality: the communities develop largely in isolation, seldom exchanging insights. We argue that th…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Self-Improvement with Auxiliary Rewards: Learning from Verified Traces and Evaluating Transfer",
+   "url": "https://huggingface.co/papers/2610.41296",
+   "date": "2026-10-29T20:00:00+00:00",
+   "excerpt": "Answer-level rewards cannot distinguish reasoning traces with equally correct outcomes. We study whether auxiliary trajectory preferences improve small-language-model self-improvement and transfer under limited supervision. We compare confidence-based (SC) and entropy-based metrics (UID-Conj.), whi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+   "url": "https://huggingface.co/papers/2610.42128",
+   "date": "2026-10-29T20:00:00+00:00",
+   "excerpt": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challenging: the teacher expresses preferences through a ranked list of document ID sequ…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+   "url": "https://huggingface.co/papers/2610.37826",
+   "date": "2026-10-29T20:00:00+00:00",
+   "excerpt": "Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus. However, RAG struggles with multi-hop questions, which require chaining facts spread across several documents through intermediate entities that the question…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -1782,7 +1934,7 @@
    "title": "Donchitos/Claude-Code-Game-Studios",
    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "Shell · 1,380 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+   "excerpt": "Shell · 1,379 stars today — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8702,7 +8854,7 @@
    "title": "shiyu-coder/Kronos",
    "url": "https://github.com/shiyu-coder/Kronos",
    "date": "2026-10-19T10:53:09+00:00",
-   "excerpt": "Python · 855 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
+   "excerpt": "Python · 857 stars today — Kronos: A Foundation Model for the Language of Financial Markets",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -18559,7 +18711,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 1,799 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 1,803 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -18663,7 +18815,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 968 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 858 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21051,22 +21203,6 @@
    "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
    "source": "OpenAI Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Formalizing Fermat's Last Theorem",
-   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-   "date": "2026-09-04T00:00:00+00:00",
-   "excerpt": "Formalizing Fermat's Last Theorem",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Setting Grok Bot loose on procurement",
-   "url": "https://x.ai/news/grok-bot-procurement",
-   "date": "2026-09-04T00:00:00+00:00",
-   "excerpt": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
