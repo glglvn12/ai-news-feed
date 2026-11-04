@@ -1,7 +1,183 @@
 {
- "updated": "2026-11-04T09:26:39+00:00",
+ "updated": "2026-11-04T18:03:06+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "NVIDIA/auto-ontology",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Python · 2,053 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "The-PR-Agent/pr-agent",
+   "url": "https://github.com/The-PR-Agent/pr-agent",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Python · 279 stars today — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "harry0703/MoneyPrinterTurbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Python · 615 stars today — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "FareedKhan-dev/kimi-k3-in-c",
+   "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "C · 351 stars today — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "MichaelCade/90DaysOfDevOps",
+   "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Shell · 156 stars today — This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this…",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Thysrael/Horizon",
+   "url": "https://github.com/Thysrael/Horizon",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Python · 121 stars today — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "scenario-labs/skills",
+   "url": "https://github.com/scenario-labs/skills",
+   "date": "2026-11-04T18:03:06+00:00",
+   "excerpt": "Python · 224 stars today — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+   "date": "2026-11-04T18:00:00+00:00",
+   "excerpt": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life ev…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "date": "2026-11-04T18:00:00+00:00",
+   "excerpt": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "date": "2026-11-04T17:50:10+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+   "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+   "date": "2026-11-04T17:00:00+00:00",
+   "excerpt": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "date": "2026-11-04T16:51:35+00:00",
+   "excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "date": "2026-11-04T16:17:22+00:00",
+   "excerpt": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Data centers lost the midterms",
+   "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+   "date": "2026-11-04T16:05:39+00:00",
+   "excerpt": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters po…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+   "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
+   "date": "2026-11-04T16:00:00+00:00",
+   "excerpt": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+   "date": "2026-11-04T15:58:45+00:00",
+   "excerpt": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the compan…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+   "date": "2026-11-04T14:46:01+00:00",
+   "excerpt": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "date": "2026-11-04T14:30:00+00:00",
+   "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "date": "2026-11-04T13:00:00+00:00",
+   "excerpt": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Securing the agentic enterprise with data lineage",
+   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "date": "2026-11-04T13:00:00+00:00",
+   "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google hasn’t figured out how to make AI pay like its search engine",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "date": "2026-11-04T12:00:00+00:00",
+   "excerpt": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "date": "2026-11-04T07:00:00+00:00",
+   "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Cultural Evolution Drives the Emergence of Conventions in Neural Emergent Communication",
    "url": "https://arxiv.org/abs/2611.00006",
@@ -1379,6 +1555,22 @@
    "category": "Paper"
   },
   {
+   "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+   "url": "https://huggingface.co/papers/2611.05345",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train better draft models has been focused solely on acceptance rate. We argue that this view does not hold…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+   "url": "https://huggingface.co/papers/2611.04785",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Real deployments lack the ground truth needed to score a model's conclusions, and no benchmark evaluat…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Anthropic clamps down on Claude’s AI video game clones",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
    "date": "2026-11-02T18:56:02+00:00",
@@ -1438,7 +1630,7 @@
    "title": "vercel-labs/agent-desktop",
    "url": "https://github.com/vercel-labs/agent-desktop",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 3,791 stars today — Computer use CLI for AI agents",
+   "excerpt": "Rust · 2,463 stars today — Computer use CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1446,7 +1638,7 @@
    "title": "max-sixty/worktrunk",
    "url": "https://github.com/max-sixty/worktrunk",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 438 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "excerpt": "Rust · 524 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1529,6 +1721,14 @@
    "excerpt": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "BEND 2.0: Benchmarking the Capabilities Needed to Design DNA",
+   "url": "https://huggingface.co/papers/2611.03806",
+   "date": "2026-11-02T14:00:07+00:00",
+   "excerpt": "Genomic foundation models are increasingly used to propose DNA sequences and edits. But successful design requires capabilities that current benchmarks do not measure. Here we introduce BEND 2.0 (BENchmark for DNA language models), which tests how well models predict the effects of DNA changes and…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
@@ -19999,7 +20199,7 @@
    "title": "garrytan/gstack",
    "url": "https://github.com/garrytan/gstack",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "TypeScript · 125 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "excerpt": "TypeScript · 285 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20159,7 +20359,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 1,139 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 1,165 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20263,7 +20463,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,164 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,376 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
