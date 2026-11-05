@@ -1,7 +1,439 @@
 {
- "updated": "2026-11-04T23:45:26+00:00",
+ "updated": "2026-11-05T06:58:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+   "url": "https://arxiv.org/abs/2610.26826",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2610.26826v2 Announce Type: replace Abstract: Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Language Models as AI Research World Models",
+   "url": "https://arxiv.org/abs/2610.12235",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2610.12235v2 Announce Type: replace Abstract: AI research agents automate the cycle of proposing, implementing, and evaluating experiments, opening a path toward recursive self-improvement. Yet their ability to propose experiments outpaces their capacity to execute them in real environments,…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+   "url": "https://arxiv.org/abs/2611.05390",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: condition…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+   "url": "https://arxiv.org/abs/2611.05391",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05391v1 Announce Type: cross Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failur…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+   "url": "https://arxiv.org/abs/2611.05392",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budge…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+   "url": "https://arxiv.org/abs/2611.05393",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05393v1 Announce Type: cross Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts a…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+   "url": "https://arxiv.org/abs/2611.05450",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn across tasks, and keep th…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+   "url": "https://arxiv.org/abs/2611.05512",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05512v1 Announce Type: cross Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge work: many rely on synthetic data or isolated tasks, missin…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+   "url": "https://arxiv.org/abs/2611.05524",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction that…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Iterated creation, grading, and revision of data science projects by language models",
+   "url": "https://arxiv.org/abs/2611.05548",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05548v1 Announce Type: cross Abstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' model with specific tools creates a complete data science project including downloading, cleaning, and…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+   "url": "https://arxiv.org/abs/2611.05551",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05551v1 Announce Type: new Abstract: Virtual trials use routinely collected clinical data to evaluate treatment strategies, but translating a study protocol into an executable analysis requires determining how clinical concepts and study requirements should be represented in the availabl…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
+   "url": "https://arxiv.org/abs/2611.05586",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05586v1 Announce Type: new Abstract: As autonomous AI agents enter permissionless onchain markets, selecting new service providers remains a core challenge. Existing reputation systems depend on scarce resources like human curation, identity credentials, or voluntary reviews, while naive…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+   "url": "https://arxiv.org/abs/2611.05620",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet existing coding benchmarks evaluate single, fully specified tasks, and many are near saturation. We…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+   "url": "https://arxiv.org/abs/2611.05632",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
+   "url": "https://arxiv.org/abs/2611.05636",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05636v1 Announce Type: new Abstract: The memory of production agents is increasingly becoming a bottleneck and is built almost exclusively from text: key points are extracted from out-of-limit context and retrieved into context at query time. Therefore, every new query incurs an addition…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard",
+   "url": "https://arxiv.org/abs/2611.05650",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05650v1 Announce Type: new Abstract: Published explanations of why long-horizon agents fail are commonly taxonomies labeled over completed trajectories: a judge reads a transcript and names the failure. We argue that a claim attributing an agent's behavior to its history should carry int…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
+   "url": "https://arxiv.org/abs/2611.05662",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05662v1 Announce Type: cross Abstract: Evaluating open-ended agent tasks increasingly falls to an Agent-as-a-Judge: an evaluator handed tools and the agent's full trajectory so it can verify a result against the environment. The premise is that a judge that gathers its own evidence shoul…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Combining Relevant Expert Knowledge Using Mixtures of Feedback Fuzzy Cognitive Maps",
+   "url": "https://arxiv.org/abs/2611.05664",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05664v1 Announce Type: new Abstract: A neuro-symbolic system should combine only relevant answers from expert agents or other knowledge sources. Using only relevant experts for a given input query becomes ever more important for accuracy and scalability as the knowledge network grows and…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "How Do Artificial Agents Make Decisions in Light of Visual Data?",
+   "url": "https://arxiv.org/abs/2611.05671",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05671v1 Announce Type: new Abstract: Vision-language models (VLMs) have demonstrated significant advances in reasoning with visual data, which is particularly important given that much of human knowledge is encoded visually in scientific articles and other sources. However, a gap remains…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Agents, Think Only When it Helps",
+   "url": "https://arxiv.org/abs/2611.05709",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05709v1 Announce Type: new Abstract: LLM agent distillation transfers agentic capabilities to student models by training on complete teacher trajectories that typically interleave thoughts and actions. We question how critical thought supervision is for agents' ultimate action performanc…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "PersonaCodeBench: Evaluating Coding Agents in Persona-driven Human-Interactive Sessions",
+   "url": "https://arxiv.org/abs/2611.05739",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05739v1 Announce Type: new Abstract: Coding agents must deliver correct software while respecting users' expertise, preferences, and working conditions. Existing benchmarks increasingly incorporate interaction, yet personalized requirement fulfillment remains underexplored. We introduce…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?",
+   "url": "https://arxiv.org/abs/2611.05759",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05759v1 Announce Type: cross Abstract: Before an AI agent takes on a paid job, someone has to judge whether it is likely to succeed. We test whether frontier language models can make this call before any attempt. We propose PAYWORTHY which contains 1{,}494 real freelance job postings, sa…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+   "url": "https://arxiv.org/abs/2611.05791",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05791v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighbor methods. The fruit fly's olfactory circuit compu…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Autonomy and Coordination in Intelligent Manufacturing: A Recursive Autonomous Agent Framework",
+   "url": "https://arxiv.org/abs/2611.05828",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05828v1 Announce Type: new Abstract: Intelligent production requires systems to make decisions and organize work according to production goals and operating conditions. It also requires continuous adjustment through feedback. This paper analyzes intelligence in human production organizat…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Autonomous agents for electricity-system planning",
+   "url": "https://arxiv.org/abs/2611.05911",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05911v1 Announce Type: cross Abstract: Planning electricity systems requires repeated decisions that connect regional resources, investment, operation and network constraints. Here we present an autonomous planning framework that carries prepared regional scenarios through proposal, nume…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination",
+   "url": "https://arxiv.org/abs/2611.05953",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05953v1 Announce Type: new Abstract: Graphs play an increasingly important role in large language model (LLM) systems, supporting structural reasoning, knowledge grounding, retrieval, and memory. As these systems evolve toward the agentic era, graphs also organize execution dependencies…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Reglos: A Self-Evolving Personal Memory Agent with Recursive Self-Improvement",
+   "url": "https://arxiv.org/abs/2611.06049",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06049v1 Announce Type: new Abstract: Personal agents draw on past conversations to tailor their responses to each user. Their memory systems store and update what each user says, and coding agents now also rewrite the harness that turns this memory into the model's context. Such patches…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "ModalSearcher: Weaving Visual Evidence into Autonomous Cross-Modal Deep Search",
+   "url": "https://arxiv.org/abs/2611.06131",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06131v1 Announce Type: new Abstract: Static and incomplete parametric knowledge limits the performance of multimodal large language models on novel-knowledge and knowledge-intensive tasks, especially those requiring multi-hop evidence acquisition. Existing multimodal agentic search metho…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents",
+   "url": "https://arxiv.org/abs/2611.06254",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06254v1 Announce Type: new Abstract: The performance of large language model (LLM) agents depends on both the underlying model and the harness that governs interaction with tools and the environment. Yet harness design remains largely manual, and automating it requires navigating an open…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution",
+   "url": "https://arxiv.org/abs/2611.06381",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06381v1 Announce Type: cross Abstract: As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment Prediction~(LJP) requires models to conduct multi-step reasoning and external legal evidence retrieval. Existing legal search agents' performance is…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing",
+   "url": "https://arxiv.org/abs/2611.06389",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06389v1 Announce Type: new Abstract: Effective collaboration in multi-agent systems requires mechanisms for coordination and adaptability in dynamic and uncertain environments. However, existing multi-agent systems rarely model resilience explicitly, instead relying on ad-hoc output corr…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking",
+   "url": "https://arxiv.org/abs/2611.06434",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06434v1 Announce Type: new Abstract: Active embodied question answering requires agents to acquire evidence through viewpoint changes and physical interaction. The central challenge is to avoid undirected interaction: taking plausible actions without specifying what evidence they should…",
+   "source": "arXiv cs.AI",
+   "category": "Paper"
+  },
+  {
+   "title": "Cognitive Bias Signatures in Search-Equipped LLM Agents: A Stage-Resolved Analysis",
+   "url": "https://arxiv.org/abs/2611.05720",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05720v1 Announce Type: new Abstract: Search can help LLM agents correct mistakes, but their starting conditions may shape which evidence they find and use. Drawing on cognitive-bias paradigms, we develop a controlled search harness to examine result order, records of prior work, and init…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Prospective Memory for Proactive LLM Agents",
+   "url": "https://arxiv.org/abs/2611.05731",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05731v1 Announce Type: new Abstract: Most memory systems for LLM agents are retrospective, preserving and retrieving past information to inform current decisions. Proactive agents, however, also require prospective memory: retaining future-directed intentions and realizing them when appr…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning When Human Decisions Matter: Executor-Relative Consultation Value for LLM Agents",
+   "url": "https://arxiv.org/abs/2611.05814",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05814v1 Announce Type: new Abstract: Large language models increasingly automate complex tasks, but human decision capacity does not scale with their capabilities. In many applications, humans remain essential for providing private context, authority, or judgments unavailable to the agen…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "TandemBench: Benchmarking Decision Models for Multi-Agent Collaboration",
+   "url": "https://arxiv.org/abs/2611.05827",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.05827v1 Announce Type: new Abstract: Decision models choose among predefined options in tasks such as routing and action selection. In multi-agent collaboration, a decision determines how members divide work, exchange resources, and act in parallel. We introduce TandemBench, a benchmark…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+   "url": "https://arxiv.org/abs/2611.06043",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06043v1 Announce Type: new Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models",
+   "url": "https://arxiv.org/abs/2611.06116",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06116v1 Announce Type: new Abstract: Banks validate language models, but they deploy systems: a model inside a harness that decides what it sees, which tools it can call and who checks its actions. We test whether that harness changes compliance with banking conduct rules when the model…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "EvoGuard: Mitigating Degradation in Online Skill Evolution",
+   "url": "https://arxiv.org/abs/2611.06444",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06444v1 Announce Type: new Abstract: Skills let language agents reuse experience across tasks as natural-language documents. Recent work evolves skills from interaction, but existing methods have limitations when skills evolve online. Prior methods update a skill offline from a batch of…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
+   "url": "https://arxiv.org/abs/2611.06481",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06481v1 Announce Type: new Abstract: Graph-based retrieval-augmented generation (GraphRAG) answers questions by retrieving over a knowledge graph built from a corpus. Yet retrieval strategies are designed around the structure their own construction pipeline produces, and whether they sur…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries",
+   "url": "https://arxiv.org/abs/2611.06545",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06545v1 Announce Type: new Abstract: Long-running LLM agents compact their context, replacing most history with a summary. We ask whether handoff summaries state permissions or requirements the record does not support, whether such sentences change what the next instance (the successor)…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+   "url": "https://arxiv.org/abs/2611.06876",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06876v1 Announce Type: new Abstract: LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing information retention against latency. We observe tha…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+   "url": "https://arxiv.org/abs/2611.06483",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06483v1 Announce Type: cross Abstract: While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth $K$ and interaction depth $T$ via $Pass@(K,T)$, we show t…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+   "url": "https://arxiv.org/abs/2611.06856",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06856v1 Announce Type: cross Abstract: We introduce LongBanana, to our knowledge the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in the age of agent-driven image generation. The task requires retrieving dispersed visual evidence, r…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+   "url": "https://arxiv.org/abs/2611.06914",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2611.06914v1 Announce Type: cross Abstract: Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior unde…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Multi-User Large Language Model Agents",
+   "url": "https://arxiv.org/abs/2604.08567",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2604.08567v3 Announce Type: replace Abstract: Large language models (LLMs) and LLM-based agents are increasingly deployed as assistants in planning and decision making, yet most existing systems are implicitly optimized for a single-principal interaction paradigm, in which the model is design…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning",
+   "url": "https://arxiv.org/abs/2605.09252",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2605.09252v3 Announce Type: replace Abstract: Tool-augmented LLM agents tend to call tools indiscriminately, even when the model can answer directly. Each unnecessary call wastes API fees and latency, yet no existing benchmark systematically studies when a tool call is actually needed. We pro…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents",
+   "url": "https://arxiv.org/abs/2605.10832",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2605.10832v3 Announce Type: replace Abstract: Multimodal deep search requires an agent to solve open-world problems by chaining search, tool use, and visual reasoning over evolving textual and visual context. Two bottlenecks limit current systems. First, existing tool-use harnesses treat imag…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "SAGE: Stochastic Prompt Optimization via Agent-Guided Exploration",
+   "url": "https://arxiv.org/abs/2606.18902",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2606.18902v3 Announce Type: replace Abstract: Context engineering has emerged as a primary lever for improving AI systems without parameter updates. Recent work showing that textual gradients do not function as real gradients motivates treating automatic prompt optimization (APO) as black-box…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "SpanUQ: Span-Level Uncertainty Quantification for Large Language Model Generation",
+   "url": "https://arxiv.org/abs/2607.05721",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2607.05721v3 Announce Type: replace Abstract: Uncertainty estimation is essential for the trustworthy deployment of LLMs: it underpins self-refinement and serves as a decision signal for downstream systems, from verifiers to collaborating agents. However, existing approaches operate at subopt…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+   "url": "https://arxiv.org/abs/2608.15008",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2608.15008v2 Announce Type: replace Abstract: Memory is becoming core infrastructure for long-horizon LLM agents, yet existing evaluations offer limited guidance on which memory substrate, namely the underlying medium in which memory is represented and stored, should be used under different o…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs",
+   "url": "https://arxiv.org/abs/2609.27262",
+   "date": "2026-11-05T05:00:00+00:00",
+   "excerpt": "arXiv:2609.27262v2 Announce Type: replace Abstract: Production customer-support systems often require LLMs to support multiple skills, such as intent classification, question answering, summarization, or tool-use decisions. A central deployment question is whether these skills should be handled by…",
+   "source": "arXiv cs.CL",
+   "category": "Paper"
+  },
+  {
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "date": "2026-11-05T01:26:22+00:00",
+   "excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "date": "2026-11-05T01:02:14+00:00",
+   "excerpt": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -134,7 +566,7 @@
    "title": "NVIDIA/auto-ontology",
    "url": "https://github.com/NVIDIA/auto-ontology",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 2,053 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "excerpt": "Python · 2,050 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -142,7 +574,7 @@
    "title": "The-PR-Agent/pr-agent",
    "url": "https://github.com/The-PR-Agent/pr-agent",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 279 stars today — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+   "excerpt": "Python · 280 stars today — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -150,7 +582,7 @@
    "title": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 615 stars today — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "excerpt": "Python · 617 stars today — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -166,7 +598,7 @@
    "title": "MichaelCade/90DaysOfDevOps",
    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Shell · 264 stars today — This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this…",
+   "excerpt": "Shell · 97 stars today — This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -275,6 +707,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "date": "2026-11-04T13:59:58+00:00",
+   "excerpt": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
    "date": "2026-11-04T13:00:00+00:00",
@@ -297,6 +737,14 @@
    "excerpt": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+   "url": "https://huggingface.co/papers/2611.06483",
+   "date": "2026-11-04T08:24:54+00:00",
+   "excerpt": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth K and interaction depth T via Pass@(K,T), we show that trajectory-level RL advantages depend on sufficient…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "A thousand fewer paths to root",
@@ -755,6 +1203,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "date": "2026-11-04T00:00:00+00:00",
+   "excerpt": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "Please stop asking me when the AI bubble will pop",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
    "date": "2026-11-03T23:37:45+00:00",
@@ -825,6 +1281,46 @@
    "excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "url": "https://huggingface.co/papers/2611.06728",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage a…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
+   "url": "https://huggingface.co/papers/2611.06518",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Group Relative Policy Optimization (GRPO) has advanced generative model post-training in verifiable domains such as code and mathematics, but evaluating video quality, especially emotional expression, often depends on subjective aesthetics and has no uniquely correct target. Existing approaches typ…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "url": "https://huggingface.co/papers/2611.06910",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+   "url": "https://huggingface.co/papers/2611.06796",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Few-step distillation offers efficient generation with diffusion and flow models, but preserving quality with only a few sampling steps remains challenging. Distribution-matching methods via score distillation provide a strong foundation, yet they rely on accurately tracking the student's changing…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+   "url": "https://huggingface.co/papers/2611.06083",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Omni models answer questions about videos by jointly processing sampled frames and audio in one turn, with progress driven largely by scaling model size and omni training data. We ask whether a model needs to hear the audio directly at all, and present SleuthVLM, an agent harness built on a VLM tha…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
@@ -993,6 +1489,22 @@
    "excerpt": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+   "url": "https://huggingface.co/papers/2611.05320",
+   "date": "2026-11-03T13:25:14+00:00",
+   "excerpt": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job. In our DataFarm, the agent receives a data request and one calibration…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+   "url": "https://huggingface.co/papers/2611.05304",
+   "date": "2026-11-03T13:16:29+00:00",
+   "excerpt": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match the performance of non-looped models several times their size. While this architecture effectively…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Accelerating engineering for the physical world",
@@ -1747,6 +2259,46 @@
    "category": "Paper"
   },
   {
+   "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+   "url": "https://huggingface.co/papers/2611.05609",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers. Although prior work reports near-perfect in-distribution (IND) distillation performance, we find that this can mask incomplete capability consolidation beyond the sup…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
+   "url": "https://huggingface.co/papers/2610.40131",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Multimodal large language models (MLLMs) can now process hour-long videos, making extended multi-turn dialogue over a single video a natural mode of use. Sustaining such a dialogue requires more than answering each question in isolation: the model must retrieve and reuse information established ear…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
+   "url": "https://huggingface.co/papers/2611.04634",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "A speech deepfake detector estimates whether a recording is synthetic, but a forensic analyst also asks which system produced it, whether recordings share a source, and what evidence supports each conclusion. We present VeriSpoof, an audio language model that unifies five tasks with shared weights:…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs",
+   "url": "https://huggingface.co/papers/2611.04391",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Pretrained Vision-Language-Action (VLA) policies provide a strong starting point for deployment, but adapting them to a target robot and environment still requires costly embodiment-specific demonstrations. Human demonstrations are far easier to collect, yet directly leveraging them is challenging…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+   "url": "https://huggingface.co/papers/2611.04166",
+   "date": "2026-11-02T19:00:00+00:00",
+   "excerpt": "Reasoning vision-language-action (VLA) models pair physical control with natural-language rationales that supervisors can read to monitor embodied safety. Prior attacks on VLA reasoning corrupt the rationale itself and leave visible evidence in the text. We show that visual perturbations can instea…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Anthropic clamps down on Claude’s AI video game clones",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
    "date": "2026-11-02T18:56:02+00:00",
@@ -1806,7 +2358,7 @@
    "title": "vercel-labs/agent-desktop",
    "url": "https://github.com/vercel-labs/agent-desktop",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 2,463 stars today — Computer use CLI for AI agents",
+   "excerpt": "Rust · 2,470 stars today — Computer use CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1814,7 +2366,7 @@
    "title": "max-sixty/worktrunk",
    "url": "https://github.com/max-sixty/worktrunk",
    "date": "2026-11-02T17:11:04+00:00",
-   "excerpt": "Rust · 524 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "excerpt": "Rust · 531 stars today — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -9179,14 +9731,6 @@
    "category": "Paper"
   },
   {
-   "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
-   "url": "https://arxiv.org/abs/2610.26826",
-   "date": "2026-10-21T04:00:00+00:00",
-   "excerpt": "arXiv:2610.26826v1 Announce Type: new Abstract: Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
    "url": "https://arxiv.org/abs/2610.26860",
    "date": "2026-10-21T04:00:00+00:00",
@@ -16195,14 +16739,6 @@
    "category": "Paper"
   },
   {
-   "title": "Language Models as AI Research World Models",
-   "url": "https://arxiv.org/abs/2610.12235",
-   "date": "2026-10-09T04:00:00+00:00",
-   "excerpt": "arXiv:2610.12235v1 Announce Type: new Abstract: AI research agents automate the cycle of proposing, implementing, and evaluating experiments, opening a path toward recursive self-improvement. Yet their ability to propose experiments outpaces their capacity to execute them in real environments, maki…",
-   "source": "arXiv cs.CL",
-   "category": "Paper"
-  },
-  {
    "title": "HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments",
    "url": "https://arxiv.org/abs/2610.12274",
    "date": "2026-10-09T04:00:00+00:00",
@@ -20375,7 +20911,7 @@
    "title": "garrytan/gstack",
    "url": "https://github.com/garrytan/gstack",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "TypeScript · 285 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "excerpt": "TypeScript · 290 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20535,7 +21071,7 @@
    "title": "thedotmack/claude-mem",
    "url": "https://github.com/thedotmack/claude-mem",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "TypeScript · 1,165 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "excerpt": "TypeScript · 1,172 stars today — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -20639,7 +21175,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,376 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,379 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
