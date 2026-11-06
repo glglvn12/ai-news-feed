@@ -1,12 +1,44 @@
 {
- "updated": "2026-11-05T22:06:10+00:00",
+ "updated": "2026-11-06T02:33:08+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "date": "2026-11-06T00:37:56+00:00",
+   "excerpt": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Airbnb is working on an AI travel agent",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "date": "2026-11-06T00:06:12+00:00",
+   "excerpt": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointme…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "date": "2026-11-05T22:40:55+00:00",
+   "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "date": "2026-11-05T22:26:50+00:00",
+   "excerpt": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 181 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 150 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +46,7 @@
    "title": "ConardLi/garden-skills",
    "url": "https://github.com/ConardLi/garden-skills",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "JavaScript · 241 stars today — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+   "excerpt": "JavaScript · 175 stars today — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +54,7 @@
    "title": "microsoft/VibeVoice",
    "url": "https://github.com/microsoft/VibeVoice",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Python · 214 stars today — Open-Source Frontier Voice AI",
+   "excerpt": "Python · 223 stars today — Open-Source Frontier Voice AI",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -41,6 +73,14 @@
    "excerpt": "AI assistants are rapidly evolving beyond text and image chat boxes into real-time, vision enabled copilots for the physical world. By processing live video streams to guide frontline teams, technicians, and everyday users…",
    "source": "Salesforce AI Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "date": "2026-11-05T20:00:00+00:00",
+   "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -137,6 +177,14 @@
    "excerpt": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time,…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "date": "2026-11-05T17:00:00+00:00",
+   "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Axiom Math wants to keep AI slop out of mathematics",
@@ -255,6 +303,14 @@
    "url": "https://openai.com/index/introducing-gpt-6-cyber",
    "date": "2026-11-05T09:00:00+00:00",
    "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "date": "2026-11-05T08:00:00+00:00",
+   "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -699,6 +755,14 @@
    "category": "Press"
   },
   {
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "date": "2026-11-05T00:45:15+00:00",
+   "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
    "url": "https://huggingface.co/blog/phonon-tts",
    "date": "2026-11-05T00:00:00+00:00",
@@ -721,6 +785,14 @@
    "excerpt": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associa…",
    "source": "Apple Machine Learning Research",
    "category": "Big Tech"
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "date": "2026-11-05T00:00:00+00:00",
+   "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -854,7 +926,7 @@
    "title": "NVIDIA/auto-ontology",
    "url": "https://github.com/NVIDIA/auto-ontology",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 2,707 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "excerpt": "Python · 2,679 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -902,7 +974,7 @@
    "title": "scenario-labs/skills",
    "url": "https://github.com/scenario-labs/skills",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 674 stars today — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+   "excerpt": "Python · 667 stars today — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1635,6 +1707,14 @@
    "category": "Paper"
   },
   {
+   "title": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
+   "url": "https://huggingface.co/papers/2611.06425",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Target-conditioned diffusion drafters predict candidate tokens in parallel, yet each new block must wait for updated target-model hidden states. This forces drafting and verification to run sequentially, limiting speedup even though each block is generated in one pass. We introduce D3D, a standalon…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
    "date": "2026-11-03T18:42:16+00:00",
@@ -1790,7 +1870,7 @@
    "title": "Usagi-org/ai-goofish-monitor",
    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
    "date": "2026-11-03T15:17:21+00:00",
-   "excerpt": "Python · 242 stars today — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+   "excerpt": "Python · 240 stars today — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -9311,7 +9391,7 @@
    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
    "date": "2026-10-22T00:00:00+00:00",
    "excerpt": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-   "source": "Anthropic",
+   "source": "Anthropic Research",
    "category": "Major Lab"
   },
   {
@@ -21271,7 +21351,7 @@
    "title": "garrytan/gstack",
    "url": "https://github.com/garrytan/gstack",
    "date": "2026-10-04T13:16:53+00:00",
-   "excerpt": "TypeScript · 608 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "excerpt": "TypeScript · 612 stars today — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21535,7 +21615,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 2,053 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 2,071 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21575,7 +21655,7 @@
    "title": "google/skills",
    "url": "https://github.com/google/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 199 stars today — Agent Skills for Google products and technologies",
+   "excerpt": "Python · 211 stars today — Agent Skills for Google products and technologies",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
