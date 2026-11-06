@@ -1,9 +1,71 @@
 {
- "updated": "2026-11-06T18:04:56+00:00",
- "failed": [
-  "Microsoft Research"
- ],
+ "updated": "2026-11-06T23:15:12+00:00",
+ "failed": [],
  "items": [
+  {
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "date": "2026-11-06T23:00:44+00:00",
+   "excerpt": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanc…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "date": "2026-11-06T22:53:46+00:00",
+   "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+   "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+   "date": "2026-11-06T22:20:20+00:00",
+   "excerpt": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "All the latest updates on AI data centers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "date": "2026-11-06T20:02:22+00:00",
+   "excerpt": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "New model: NousResearch/Arete-27B",
+   "url": "https://huggingface.co/NousResearch/Arete-27B",
+   "date": "2026-11-06T19:31:28+00:00",
+   "excerpt": "",
+   "source": "Nous Research models",
+   "category": "Lab"
+  },
+  {
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "date": "2026-11-06T18:44:38+00:00",
+   "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "date": "2026-11-06T18:44:20+00:00",
+   "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "date": "2026-11-06T18:10:10+00:00",
+   "excerpt": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you c…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
    "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
@@ -61,6 +123,14 @@
    "category": "Press"
   },
   {
+   "title": "Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western Values",
+   "url": "https://nousresearch.com/arete",
+   "date": "2026-11-06T15:00:00+00:00",
+   "excerpt": "We post-trained Alibaba's Qwen3.8-27B to reinforce Western values on a Chinese-trained model, and measured what changed with an 803-prompt eval across seven value categories.",
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
    "date": "2026-11-06T14:10:00+00:00",
@@ -115,6 +185,14 @@
    "excerpt": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
    "source": "MIT Tech Review AI",
    "category": "Press"
+  },
+  {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "date": "2026-11-06T08:00:00+00:00",
+   "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -627,6 +705,30 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "date": "2026-11-06T00:00:00+00:00",
+   "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Teaching AI to build scientific models",
+   "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+   "date": "2026-11-06T00:00:00+00:00",
+   "excerpt": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "The components of agent memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "date": "2026-11-06T00:00:00+00:00",
+   "excerpt": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -1349,6 +1451,14 @@
    "category": "Paper"
   },
   {
+   "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+   "url": "https://huggingface.co/papers/2611.08483",
+   "date": "2026-11-04T19:00:00+00:00",
+   "excerpt": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must re…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
    "date": "2026-11-04T18:50:55+00:00",
@@ -1577,6 +1687,14 @@
    "url": "https://huggingface.co/papers/2611.06976",
    "date": "2026-11-04T08:33:47+00:00",
    "excerpt": "Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt representations with a smaller model's efficient generation, offering a promising way to balance capability and inference cost. However, existing systems p…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+   "url": "https://huggingface.co/papers/2611.06498",
+   "date": "2026-11-04T08:32:04+00:00",
+   "excerpt": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not that its vectors encode its text. We study this text-vector integrity gap. A verifier that recompute…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -24493,14 +24611,6 @@
    "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
    "source": "OpenAI Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Hermes Agent v0.21.1 (v2026.9.7)",
-   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.7",
-   "date": "2026-09-07T22:17:01+00:00",
-   "excerpt": "# Hermes Agent v0.21.1 (v2026.9.7) **Release Date:** September 7, 2026 > Patch release. This tag rolls up current main since v0.21.0 for tagged deployments and downstream consumers. ## About this release Measured at commit `6178e9f4eed8d99f4fc550add939d58c7bed6206`, the window since v0.21.0 contain…",
-   "source": "Hermes Agent",
-   "category": "Lab"
   }
  ]
 }
