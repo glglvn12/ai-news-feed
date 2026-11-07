@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:55:35+00:00",
+ "updated": "2026-11-07T10:24:16+00:00",
  "failed": [],
  "items": [
   {
@@ -24627,14 +24627,6 @@
    "excerpt": "IBM Research and Red Hat deployed a 753B open model on H100 GPUs, serving thousands of concurrent coding agents at 5-10x lower cost than commercial APIs.",
    "source": "IBM Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "On the Navier–Stokes Millennium Prize Problem",
-   "url": "https://openai.com/index/navier-stokes-solution",
-   "date": "2026-09-08T10:00:00+00:00",
-   "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-   "source": "OpenAI Research",
-   "category": "Major Lab"
   }
  ]
 }
