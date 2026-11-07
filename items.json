@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-06T23:15:12+00:00",
+ "updated": "2026-11-07T02:55:35+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "date": "2026-11-07T01:40:28+00:00",
+   "excerpt": "The deal highlights the challenges of developing massive AI data centers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "date": "2026-11-06T23:46:18+00:00",
+   "excerpt": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wal…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
@@ -1502,7 +1518,7 @@
    "title": "NVIDIA/auto-ontology",
    "url": "https://github.com/NVIDIA/auto-ontology",
    "date": "2026-11-04T18:03:06+00:00",
-   "excerpt": "Python · 2,005 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "excerpt": "Python · 2,015 stars today — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2335,6 +2351,14 @@
    "url": "https://huggingface.co/papers/2611.06817",
    "date": "2026-11-03T19:00:00+00:00",
    "excerpt": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training recipes. We introduce Open-HumanScale, the first fully open recipe for scaling egocentric pretraini…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+   "url": "https://huggingface.co/papers/2611.06500",
+   "date": "2026-11-03T19:00:00+00:00",
+   "excerpt": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent's attention to task-relevant information. Existing token pruning and summarization methods remain c…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -19375,7 +19399,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,524 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,548 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22239,7 +22263,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 2,058 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 2,070 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22279,7 +22303,7 @@
    "title": "google/skills",
    "url": "https://github.com/google/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 532 stars today — Agent Skills for Google products and technologies",
+   "excerpt": "Python · 534 stars today — Agent Skills for Google products and technologies",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
