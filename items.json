@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-07T20:57:19+00:00",
+ "updated": "2026-11-08T00:44:42+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "date": "2026-11-07T22:07:22+00:00",
+   "excerpt": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "date": "2026-11-07T21:17:08+00:00",
+   "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 185 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 96 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +30,7 @@
    "title": "ranxianglei/billion-context",
    "url": "https://github.com/ranxianglei/billion-context",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 185 stars today — A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+   "excerpt": "TypeScript · 191 stars today — A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +38,7 @@
    "title": "dsx-ai-factory/nvke",
    "url": "https://github.com/dsx-ai-factory/nvke",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "Go · 125 stars today — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+   "excerpt": "Go · 123 stars today — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -822,7 +838,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 180 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 190 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4886,7 +4902,7 @@
    "title": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Python · 386 stars today — Public repository for Agent Skills",
+   "excerpt": "Python · 390 stars today — Public repository for Agent Skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -19455,7 +19471,7 @@
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "date": "2026-10-07T16:37:05+00:00",
-   "excerpt": "JavaScript · 2,088 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "excerpt": "JavaScript · 2,085 stars today — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22319,7 +22335,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,111 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,100 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22359,7 +22375,7 @@
    "title": "google/skills",
    "url": "https://github.com/google/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Python · 449 stars today — Agent Skills for Google products and technologies",
+   "excerpt": "Python · 443 stars today — Agent Skills for Google products and technologies",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -24651,14 +24667,6 @@
    "excerpt": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
    "source": "Mistral",
    "category": "Lab"
-  },
-  {
-   "title": "An alignment assessment of recent cybersecurity incidents",
-   "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-   "date": "2026-09-09T00:00:00+00:00",
-   "excerpt": "An alignment assessment of recent cybersecurity incidents",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
   }
  ]
 }
