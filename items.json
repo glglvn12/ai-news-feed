@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-08T20:33:40+00:00",
+ "updated": "2026-11-09T00:58:49+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "date": "2026-11-08T22:54:50+00:00",
+   "excerpt": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affai…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "date": "2026-11-08T21:00:11+00:00",
+   "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
@@ -30,7 +46,7 @@
    "title": "anthropics/claude-quickstarts",
    "url": "https://github.com/anthropics/claude-quickstarts",
    "date": "2026-11-08T15:20:32+00:00",
-   "excerpt": "Python · 28 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "excerpt": "Python · 32 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -54,7 +70,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 863 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 875 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -870,7 +886,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 812 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 815 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4934,7 +4950,7 @@
    "title": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Python · 793 stars today — Public repository for Agent Skills",
+   "excerpt": "Python · 792 stars today — Public repository for Agent Skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -24658,38 +24674,6 @@
    "date": "2026-09-10T10:42:55+00:00",
    "excerpt": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
    "source": "Mistral",
-   "category": "Lab"
-  },
-  {
-   "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-   "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-   "date": "2026-09-10T00:00:00+00:00",
-   "excerpt": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "The Bitterest Lesson - TypeSafe AI Blog",
-   "url": "https://typesafe.ai/blog/bitterest-lesson",
-   "date": "2026-09-10T00:00:00+00:00",
-   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
-   "source": "TypeSafe (Jev)",
-   "category": "Lab"
-  },
-  {
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "date": "2026-09-10T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
-  },
-  {
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "date": "2026-09-10T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
    "category": "Lab"
   }
  ]
