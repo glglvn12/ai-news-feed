@@ -1,12 +1,204 @@
 {
- "updated": "2026-11-10T10:00:47+00:00",
+ "updated": "2026-11-10T17:56:03+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "date": "2026-11-10T17:32:47+00:00",
+   "excerpt": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's de…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic has its own AI-powered office suite now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "date": "2026-11-10T17:30:00+00:00",
+   "excerpt": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And n…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "date": "2026-11-10T17:30:00+00:00",
+   "excerpt": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "date": "2026-11-10T17:04:19+00:00",
+   "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "date": "2026-11-10T16:20:30+00:00",
+   "excerpt": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "date": "2026-11-10T16:03:47+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+   "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+   "date": "2026-11-10T16:00:00+00:00",
+   "excerpt": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "date": "2026-11-10T16:00:00+00:00",
+   "excerpt": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "date": "2026-11-10T15:54:08+00:00",
+   "excerpt": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+   "url": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+   "date": "2026-11-10T15:37:39+00:00",
+   "excerpt": "Expanding the mix of synthetic data used to train a tabular foundation model enables it to adapt to new tables without new models and lead the single-model field on the TabArena benchmark.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "date": "2026-11-10T15:29:30+00:00",
+   "excerpt": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+   "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+   "date": "2026-11-10T15:00:00+00:00",
+   "excerpt": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+   "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+   "date": "2026-11-10T15:00:00+00:00",
+   "excerpt": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "date": "2026-11-10T14:06:54+00:00",
+   "excerpt": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "date": "2026-11-10T14:05:10+00:00",
+   "excerpt": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "date": "2026-11-10T14:01:39+00:00",
+   "excerpt": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Adobe is going all in on agentic AI",
+   "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "date": "2026-11-10T14:00:00+00:00",
+   "excerpt": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your prefer…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+   "date": "2026-11-10T14:00:00+00:00",
+   "excerpt": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwante…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "date": "2026-11-10T14:00:00+00:00",
+   "excerpt": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "date": "2026-11-10T14:00:00+00:00",
+   "excerpt": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "date": "2026-11-10T13:30:00+00:00",
+   "excerpt": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company an…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "date": "2026-11-10T13:00:00+00:00",
+   "excerpt": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "date": "2026-11-10T12:02:28+00:00",
+   "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "date": "2026-11-10T12:00:00+00:00",
+   "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Closing the AI guidance gap in education",
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "date": "2026-11-10T09:00:00+00:00",
-   "excerpt": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+   "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -17,6 +209,14 @@
    "excerpt": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "date": "2026-11-10T07:00:00+00:00",
+   "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "AVCORP: Identifying and Resisting Deception via Communication Theory and Theory of Mind",
@@ -507,6 +707,30 @@
    "category": "Press"
   },
   {
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Decision Models in Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
    "title": "What could China get from Jensen Huang?",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
    "date": "2026-11-09T23:51:58+00:00",
@@ -579,6 +803,14 @@
    "category": "Press"
   },
   {
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "date": "2026-11-09T19:51:47+00:00",
+   "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
    "title": "The backlash about data centers might really just be about electricity",
    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
    "date": "2026-11-09T19:35:33+00:00",
@@ -646,7 +878,7 @@
    "title": "homeassistant-ai/ha-mcp",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 31 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "excerpt": "Python · 792 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1307,6 +1539,38 @@
    "category": "Paper"
   },
   {
+   "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+   "url": "https://huggingface.co/papers/2611.11740",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it faces a creative paradox: learning to repeat past examples of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+   "url": "https://huggingface.co/papers/2611.12875",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+   "url": "https://huggingface.co/papers/2611.12870",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment acquired through video pretraining as an established foundation. However, introducing action learning…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
+   "url": "https://huggingface.co/papers/2611.11890",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Self-supervised learning in Vision Transformer models, such as DINO, enables robust visual perception without requiring labeled data by leveraging large-scale image datasets. However, these models lack a focusing mechanism during training, resulting in perceptual representations that are often ambi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Elvis and Eminem rights holders are suing Suno",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
    "date": "2026-11-08T17:23:19+00:00",
@@ -1318,9 +1582,17 @@
    "title": "anthropics/claude-quickstarts",
    "url": "https://github.com/anthropics/claude-quickstarts",
    "date": "2026-11-08T15:20:32+00:00",
-   "excerpt": "Python · 551 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "excerpt": "Python · 530 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
+   "url": "https://huggingface.co/papers/2611.11558",
+   "date": "2026-11-08T13:59:37+00:00",
+   "excerpt": "While Recursive Self-Improvement (RSI) accelerates isolated algorithm and kernel synthesis, distributed LLM training depends on tightly coupled launch settings, operator kernels, and communication schedules, where single edits often hit out-of-memory (OOM) boundaries, compiler conflicts, measuremen…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -1358,7 +1630,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 3,278 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 3,111 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1366,7 +1638,7 @@
    "title": "ranxianglei/billion-context",
    "url": "https://github.com/ranxianglei/billion-context",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 460 stars today — A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+   "excerpt": "TypeScript · 374 stars today — A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1507,6 +1779,14 @@
    "category": "Paper"
   },
   {
+   "title": "Energy-Tweedie: Score meets Score, Energy meets Energy",
+   "url": "https://huggingface.co/papers/2512.23818",
+   "date": "2026-11-06T19:00:00+00:00",
+   "excerpt": "Denoising and score estimation are classically linked through Tweedie's formula, which relates the posterior mean under Gaussian noise to the Stein score of the noisy marginal. In this work, we extend this perspective beyond Gaussian noise to a broad class of Gibbs (energy-based) noise distribution…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
    "date": "2026-11-06T18:44:38+00:00",
@@ -1529,6 +1809,14 @@
    "excerpt": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you c…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages",
+   "url": "https://huggingface.co/papers/2611.10304",
+   "date": "2026-11-06T18:04:32+00:00",
+   "excerpt": "Challenging repository-level benchmarks remain limited for many programming language ecosystems, where filtering scarce candidates with ambiguous descriptions or defective tests can discard valuable engineering problems. We introduce Longtail-SWE, a benchmark of 202 issue-resolution tasks across 13…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
@@ -2147,6 +2435,14 @@
    "category": "Paper"
   },
   {
+   "title": "InstantHMR : Real-Time Human Mesh Recovery on Your Phone",
+   "url": "https://huggingface.co/papers/2611.09195",
+   "date": "2026-11-06T04:17:27+00:00",
+   "excerpt": "Real-time 3D human mesh recovery from a single image on mobile devices is a challenging problem with many applications, including robotics, biomechanics, AR/VR, and exergames. Current state-of-the-art models are either too slow to run efficiently on mobile devices or sacrifice accuracy for speed. W…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use",
    "url": "https://huggingface.co/papers/2611.09113",
    "date": "2026-11-06T02:47:25+00:00",
@@ -2230,7 +2526,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 916 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 775 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6414,7 +6710,7 @@
    "title": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Python · 1,038 stars today — Public repository for Agent Skills",
+   "excerpt": "Python · 1,676 stars today — Public repository for Agent Skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -23743,7 +24039,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 436 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 465 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -23831,7 +24127,7 @@
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 1,100 stars today — Skills for Real Engineers. Straight from my .agents directory.",
+   "excerpt": "Shell · 1,223 stars today — Skills for Real Engineers. Straight from my .agents directory.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
