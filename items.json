@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-10T17:56:03+00:00",
+ "updated": "2026-11-10T23:29:07+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "date": "2026-11-10T21:08:52+00:00",
+   "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "date": "2026-11-10T20:52:56+00:00",
+   "excerpt": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A t…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "date": "2026-11-10T20:52:13+00:00",
+   "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "date": "2026-11-10T19:57:52+00:00",
+   "excerpt": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "date": "2026-11-10T19:23:34+00:00",
+   "excerpt": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "date": "2026-11-10T19:04:05+00:00",
+   "excerpt": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool l…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "date": "2026-11-10T19:03:52+00:00",
+   "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "date": "2026-11-10T18:49:52+00:00",
+   "excerpt": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "date": "2026-11-10T18:00:00+00:00",
+   "excerpt": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Ch…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "The indie game community is in disarray over AI and Big Walk",
    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
@@ -171,6 +243,14 @@
    "category": "Press"
   },
   {
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "date": "2026-11-10T13:30:00+00:00",
+   "excerpt": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
    "date": "2026-11-10T13:00:00+00:00",
@@ -191,6 +271,14 @@
    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "date": "2026-11-10T12:00:00+00:00",
    "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "date": "2026-11-10T10:00:00+00:00",
+   "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -1571,6 +1659,14 @@
    "category": "Paper"
   },
   {
+   "title": "FraudBench: A Legal Evaluation of AI Deception",
+   "url": "https://huggingface.co/papers/2611.12167",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "We introduce FraudBench, an evaluation of large language models' (LLMs) propensities to recommend, assist, or directly take actions that would constitute fraud under U.S. law. Our evaluation contains a novel dataset of 159 scenarios based on real-world U.S. court cases and validated by legal expert…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Elvis and Eminem rights holders are suing Suno",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
    "date": "2026-11-08T17:23:19+00:00",
@@ -1783,6 +1879,22 @@
    "url": "https://huggingface.co/papers/2512.23818",
    "date": "2026-11-06T19:00:00+00:00",
    "excerpt": "Denoising and score estimation are classically linked through Tweedie's formula, which relates the posterior mean under Gaussian noise to the Stein score of the noisy marginal. In this work, we extend this perspective beyond Gaussian noise to a broad class of Gibbs (energy-based) noise distribution…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+   "url": "https://huggingface.co/papers/2611.10592",
+   "date": "2026-11-06T19:00:00+00:00",
+   "excerpt": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, appearance, and temporal requirements. We introduce MotionGraphicsBench, an expert-curated benchmark of…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "onóna: Twin Embeddings with Tied Unembeddings",
+   "url": "https://huggingface.co/papers/2611.10556",
+   "date": "2026-11-06T19:00:00+00:00",
+   "excerpt": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expressiveness while preserving input-output weight sharing. The Transformer takes the average of two emb…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -5017,6 +5129,14 @@
    "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
    "source": "TypeSafe (Jev)",
    "category": "Lab"
+  },
+  {
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "date": "2026-11-03T00:00:00+00:00",
+   "excerpt": "State Space Models (SSMs) such as Mamba have become a popular alternative to Transformer models, due to their reduced memory consumption and higher throughput at generation compared to their Attention-based counterparts. On the other hand, the community has built up a considerable body of knowledge…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
   },
   {
    "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
@@ -12993,6 +13113,14 @@
    "excerpt": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation",
+   "url": "https://machinelearning.apple.com/research/pixels-tokens-active-learning",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "While foundation models and vision transformers (ViTs) have redefined visual representations, current active learning (AL) strategies for these backbones largely operate at the patch or region level, where annotation requirements remain high due to extensive pixel labeling. Extending ViT-based AL t…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
   },
   {
    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
@@ -26369,14 +26497,6 @@
    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.14",
    "date": "2026-09-14T16:04:14+00:00",
    "excerpt": "# Hermes Agent v0.21.3 (v2026.9.14) **Release Date:** September 14, 2026 > Patch release. This tag rolls up the ~338 PRs merged since v0.21.2 into a stable tagged release for downstream consumers (Docker images, Hermes Cloud, hosted deployments). It exists so the remote-gateway sign-in fixes below…",
-   "source": "Hermes Agent",
-   "category": "Lab"
-  },
-  {
-   "title": "Hermes Agent v0.21.2 (v2026.9.11)",
-   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.11",
-   "date": "2026-09-11T19:20:31+00:00",
-   "excerpt": "# Hermes Agent v0.21.2 (v2026.9.11) — The state.db Patch Release **Release Date:** September 11, 2026 > Patch release. v0.21.0 shipped a large rewrite of the session store's connection handling, and for some installs it made `state.db` fragile: second writers cancelling each other's locks, healthy…",
    "source": "Hermes Agent",
    "category": "Lab"
   }
