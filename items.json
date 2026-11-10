@@ -1,12 +1,156 @@
 {
- "updated": "2026-11-09T18:54:08+00:00",
+ "updated": "2026-11-10T02:14:25+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Hermes Agent v0.23.1",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1",
+   "date": "2026-11-10T01:42:15+00:00",
+   "excerpt": "# Hermes Agent v0.23.1 **Release Date:** November 9, 2026 > Patch release. This tag rolls up the ~618 PRs merged since v0.23.0 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0. *…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "date": "2026-11-10T01:27:12+00:00",
+   "excerpt": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "date": "2026-11-10T00:28:49+00:00",
+   "excerpt": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has t…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "What could China get from Jensen Huang?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "date": "2026-11-09T23:51:58+00:00",
+   "excerpt": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "date": "2026-11-09T23:47:46+00:00",
+   "excerpt": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation in…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting",
+   "url": "https://www.salesforce.com/blog/gift-eval-ctx/",
+   "date": "2026-11-09T23:47:30+00:00",
+   "excerpt": "Built by Salesforce AI Research, GIFT-Eval-CTX measures how effectively LLMs and agentic AI convert forward-looking context, such as promotions or weather events, into precise forecasts. The benchmark demonstrates that feeding structured operational context…",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "date": "2026-11-09T23:28:37+00:00",
+   "excerpt": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "date": "2026-11-09T23:07:59+00:00",
+   "excerpt": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "date": "2026-11-09T22:46:09+00:00",
+   "excerpt": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The race is on to sue Nvidia",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "date": "2026-11-09T22:23:42+00:00",
+   "excerpt": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Exploring the world's languages with Language Explorer",
+   "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+   "date": "2026-11-09T20:29:39+00:00",
+   "excerpt": "Natural Language Processing",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "date": "2026-11-09T20:09:06+00:00",
+   "excerpt": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The backlash about data centers might really just be about electricity",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "date": "2026-11-09T19:35:33+00:00",
+   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. I…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "date": "2026-11-09T19:24:51+00:00",
+   "excerpt": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "date": "2026-11-09T19:09:58+00:00",
+   "excerpt": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"s…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+   "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+   "date": "2026-11-09T19:09:32+00:00",
+   "excerpt": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "garrytan/gbrain",
    "url": "https://github.com/garrytan/gbrain",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "TypeScript · 215 stars today — Garry's Opinionated OpenClaw/Hermes Agent Brain",
+   "excerpt": "TypeScript · 216 stars today — Garry's Opinionated OpenClaw/Hermes Agent Brain",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +158,7 @@
    "title": "ZhuLinsen/daily_stock_analysis",
    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 505 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "excerpt": "Python · 506 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +214,7 @@
    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
    "date": "2026-11-09T16:56:54+00:00",
-   "excerpt": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+   "excerpt": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -147,6 +291,14 @@
    "category": "Press"
   },
   {
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "date": "2026-11-09T13:00:00+00:00",
+   "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
    "date": "2026-11-09T12:34:29+00:00",
@@ -161,6 +313,22 @@
    "excerpt": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members,…",
    "source": "Berkeley AI Research (BAIR)",
    "category": "Paper"
+  },
+  {
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "date": "2026-11-09T08:00:00+00:00",
+   "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "date": "2026-11-09T08:00:00+00:00",
+   "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
@@ -579,6 +747,22 @@
    "category": "Paper"
   },
   {
+   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "date": "2026-11-09T00:00:00+00:00",
+   "excerpt": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Testing Claude on real-world electronics design",
+   "url": "https://www.anthropic.com/research/claude-electronics-design",
+   "date": "2026-11-09T00:00:00+00:00",
+   "excerpt": "We asked Claude Fable 5.2 to design three electronic devices from short prompts: a speakerphone, a voice-assistant hub, and a handheld virtual pet. Diode Computers built working prototypes from its files.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
    "date": "2026-11-08T22:54:50+00:00",
@@ -622,7 +806,7 @@
    "title": "anthropics/claude-quickstarts",
    "url": "https://github.com/anthropics/claude-quickstarts",
    "date": "2026-11-08T15:20:32+00:00",
-   "excerpt": "Python · 560 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "excerpt": "Python · 551 stars today — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -646,7 +830,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 3,324 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 3,278 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -745,6 +929,14 @@
    "excerpt": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
    "source": "NVIDIA Developer Blog",
    "category": "Big Tech"
+  },
+  {
+   "title": "Coding or Cheating? An Investigation of Frontier Coding LLMs",
+   "url": "https://huggingface.co/papers/2611.10404",
+   "date": "2026-11-06T21:29:54+00:00",
+   "excerpt": "Frontier agentic LLMs are trained on verifiable rewards in reinforcement learning (RL) environments built from real software repositories. A passing test suite is treated as the reward for solving the task. We show that, on hard problems, frontier models often satisfy these rewards by obtaining the…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "All the latest updates on AI data centers",
@@ -1478,7 +1670,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 914 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 916 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1607,6 +1799,14 @@
    "url": "https://huggingface.co/papers/2611.09634",
    "date": "2026-11-05T19:00:00+00:00",
    "excerpt": "Language model deployment often requires different trade-offs between competing objectives as user preferences change, yet standard post-training methods typically produce a single policy for a fixed objective weighting. We introduce LambdaMix, a new parameter efficient method for learning a prefer…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Toward the Era of Agentic Embodied Intelligence",
+   "url": "https://huggingface.co/papers/2611.09124",
+   "date": "2026-11-05T19:00:00+00:00",
+   "excerpt": "Foundation models increasingly guide robot actions, yet sustained autonomy requires efficient control and failure recovery. We introduce A2-MEAS, an embodied multi-agent framework built around code as a scaling interface. Learned correction codes combine corrective language, spatial evidence, execu…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -5638,7 +5838,7 @@
    "title": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
    "date": "2026-10-30T13:07:23+00:00",
-   "excerpt": "Python · 1,052 stars today — Public repository for Agent Skills",
+   "excerpt": "Python · 1,038 stars today — Public repository for Agent Skills",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14061,7 +14261,7 @@
   {
    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-   "date": "2026-10-16T18:11:34+00:00",
+   "date": "2026-10-16T18:11:00+00:00",
    "excerpt": "General Science",
    "source": "Google Research",
    "category": "Major Lab"
@@ -25307,22 +25507,6 @@
    "excerpt": "# Hermes Agent v0.21.2 (v2026.9.11) — The state.db Patch Release **Release Date:** September 11, 2026 > Patch release. v0.21.0 shipped a large rewrite of the session store's connection handling, and for some installs it made `state.db` fragile: second writers cancelling each other's locks, healthy…",
    "source": "Hermes Agent",
    "category": "Lab"
-  },
-  {
-   "title": "Lies, Damned Lies, and Benchmarks - TypeSafe AI Blog",
-   "url": "https://typesafe.ai/blog/antibenchmaxxing",
-   "date": "2026-09-11T00:00:00+00:00",
-   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
-   "source": "TypeSafe (Jev)",
-   "category": "Lab"
-  },
-  {
-   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-   "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-   "date": "2026-09-10T22:50:22+00:00",
-   "excerpt": "Machine Intelligence",
-   "source": "Google Research",
-   "category": "Major Lab"
   }
  ]
 }
