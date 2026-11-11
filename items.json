@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:22:11+00:00",
+ "updated": "2026-11-11T22:46:25+00:00",
  "failed": [],
  "items": [
   {
@@ -9,6 +9,110 @@
    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "United won’t let your AI agent book your flight",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "date": "2026-11-11T21:54:21+00:00",
+   "excerpt": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Why the data center you dread might never even be built",
+   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "date": "2026-11-11T20:15:15+00:00",
+   "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in th…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta is losing its longtime head of infrastructure",
+   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "date": "2026-11-11T20:12:01+00:00",
+   "excerpt": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "date": "2026-11-11T20:02:14+00:00",
+   "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in th…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+   "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+   "date": "2026-11-11T19:54:00+00:00",
+   "excerpt": "Health & Bioscience",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "date": "2026-11-11T19:54:00+00:00",
+   "excerpt": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "date": "2026-11-11T19:34:55+00:00",
+   "excerpt": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "date": "2026-11-11T19:22:22+00:00",
+   "excerpt": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Using mathematics to validate network configurations",
+   "url": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
+   "date": "2026-11-11T17:02:01+00:00",
+   "excerpt": "Static analysis of deployed networks helps reduce the risk that sensitive data leaks across partitions, supporting the security and reliability of global-scale networking.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+   "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+   "date": "2026-11-11T17:00:00+00:00",
+   "excerpt": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "date": "2026-11-11T16:16:07+00:00",
+   "excerpt": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "date": "2026-11-11T16:14:44+00:00",
+   "excerpt": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "date": "2026-11-11T16:00:00+00:00",
+   "excerpt": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature th…",
+   "source": "The Verge AI",
+   "category": "Press"
   },
   {
    "title": "openai/codex-security",
@@ -38,7 +142,7 @@
    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
    "date": "2026-11-11T15:00:00+00:00",
-   "excerpt": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "excerpt": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -481,6 +585,14 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "date": "2026-11-11T00:00:00+00:00",
+   "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -1307,6 +1419,30 @@
    "category": "Major Lab"
   },
   {
+   "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+   "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred writing style is known (e.g., “upbeat”) and an LLM judge is used to evaluate whet…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+   "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "State Space Models (SSMs) have emerged as a compelling alternative to Transformers, enabling sequence modeling with constant memory and linear compute. Although SSMs exhibit reasonable performance and favorable computational characteristics, they continue to lag behind Transformers on tasks that re…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+   "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026. State space models (SSMs) combine fast inference and fixed state size with competitive language-modeling performance. Recently, state souping has been proposed as a procedure wh…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
    "title": "What could China get from Jensen Huang?",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
    "date": "2026-11-09T23:51:58+00:00",
@@ -1543,6 +1679,38 @@
    "url": "https://huggingface.co/papers/2611.13995",
    "date": "2026-11-09T19:00:00+00:00",
    "excerpt": "Flow-matching models can produce high-quality image restorations, but their learned dynamics may amplify small input perturbations and make reconstructions unstable. We introduce LipsFlower to reduce this amplification. We derive stability bounds for Flow-from-Y, which initializes the ordinary diff…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+   "url": "https://huggingface.co/papers/2611.14116",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewis & Frank, 2018), computing each test image's distance to the examples shown in the space of a froz…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Prompt2Echo (P2Echo): Text-Prompted Multi-View Echocardiography Segmentation with One Model",
+   "url": "https://huggingface.co/papers/2611.13425",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Automated segmentation in multi-view echocardiography is essential for comprehensive cardiac assessment, yet remains challenging due to substantial anatomical and appearance variability across standard acoustic windows. In this paper, we present P2Echo, a unified framework capable of segmenting div…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LEASH: Stay Safe in Agentic Robotics",
+   "url": "https://huggingface.co/papers/2611.14115",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Foundation models such as GPT and Claude have shown strong capabilities in spatial understanding and embodied intelligence. These advances make agentic robotics a promising path toward artificial general intelligence in robotics. However, we find that using foundation models to control robots poses…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation",
+   "url": "https://huggingface.co/papers/2611.13576",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "As text-to-video (T2V) models are increasingly positioned as world simulators, it is essential to evaluate whether their videos conform to physical commonsense. However, existing benchmarks rely on annotators who rate each video with a single score based on intuition, yielding ratings that are subj…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
