@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:40:23+00:00",
+ "updated": "2026-11-11T15:22:11+00:00",
  "failed": [],
  "items": [
   {
@@ -11,12 +11,68 @@
    "category": "Major Lab"
   },
   {
+   "title": "openai/codex-security",
+   "url": "https://github.com/openai/codex-security",
+   "date": "2026-11-11T15:22:11+00:00",
+   "excerpt": "TypeScript · 20 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11T15:00:15+00:00",
+   "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "date": "2026-11-11T15:00:00+00:00",
+   "excerpt": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Al…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "date": "2026-11-11T15:00:00+00:00",
+   "excerpt": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "date": "2026-11-11T14:00:00+00:00",
+   "excerpt": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "date": "2026-11-11T14:00:00+00:00",
+   "excerpt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
    "title": "ChatGPT Plus for veterans and servicemembers",
    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
    "date": "2026-11-11T08:00:00+00:00",
    "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "date": "2026-11-11T07:30:51+00:00",
+   "excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "source": "TechCrunch AI",
+   "category": "Press"
   },
   {
    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -419,6 +475,14 @@
    "category": "Paper"
   },
   {
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "url": "https://huggingface.co/blog/token-pooling",
+   "date": "2026-11-11T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
    "date": "2026-11-10T21:08:52+00:00",
@@ -703,6 +767,14 @@
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "date": "2026-11-10T09:00:00+00:00",
    "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "date": "2026-11-10T08:00:00+00:00",
+   "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -1435,6 +1507,46 @@
    "category": "Paper"
   },
   {
+   "title": "TorchCurves: Differentiable Parametric Curves",
+   "url": "https://huggingface.co/papers/2611.14516",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Cur…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Are Causal Neuron Circuits Unique and Transferable?",
+   "url": "https://huggingface.co/papers/2611.13885",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Interpretability demonstrations often show that intervening on a group of neurons changes a model's answer. A recent example removes an 18-neuron group in Qwen3-32B and the model answers \"Simba\" instead of \"Scar\" to a two-hop Lion King riddle. Such a demonstration establishes that the group matters…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models",
+   "url": "https://huggingface.co/papers/2611.14083",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, sof…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "url": "https://huggingface.co/papers/2611.14320",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Lipschitz-Controlled Flow Matching for Robust Image Restoration",
+   "url": "https://huggingface.co/papers/2611.13995",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Flow-matching models can produce high-quality image restorations, but their learned dynamics may amplify small input perturbations and make reconstructions unstable. We introduce LipsFlower to reduce this amplification. We derive stability bounds for Flow-from-Y, which initializes the ordinary diff…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "garrytan/gbrain",
    "url": "https://github.com/garrytan/gbrain",
    "date": "2026-11-09T18:54:08+00:00",
@@ -1446,7 +1558,7 @@
    "title": "ZhuLinsen/daily_stock_analysis",
    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 506 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "excerpt": "Python · 429 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1454,7 +1566,7 @@
    "title": "homeassistant-ai/ha-mcp",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 790 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "excerpt": "Python · 640 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1593,6 +1705,14 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning",
+   "url": "https://huggingface.co/papers/2611.12527",
+   "date": "2026-11-09T10:02:29+00:00",
+   "excerpt": "This work proposes WaveGen, a fully end-to-end diffusion-based text-to-waveform framework based on Spectral Forcing, which jointly learns an internal spectral trajectory and the target waveform trajectory within a single model, enabling direct end-to-end text-to-waveform generation. Unlike recent T…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "BAIR at CoRL 2026",
@@ -2219,6 +2339,14 @@
    "category": "Paper"
   },
   {
+   "title": "Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists",
+   "url": "https://huggingface.co/papers/2611.12184",
+   "date": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Scientific discovery requires ideas that are original, useful, and non-obvious. Yet AI scientists are typically given as much task information as possible during idea generation, which can anchor generation toward familiar approaches. Inspired by the cognitive framework of Blind Variation and Selec…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Elvis and Eminem rights holders are suing Suno",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
    "date": "2026-11-08T17:23:19+00:00",
@@ -2278,7 +2406,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 3,108 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 2,842 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3182,7 +3310,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 780 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 712 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -24703,7 +24831,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 465 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 788 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
