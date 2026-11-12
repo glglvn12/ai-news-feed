@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-11T22:46:25+00:00",
+ "updated": "2026-11-12T03:53:04+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "date": "2026-11-12T03:13:10+00:00",
+   "excerpt": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -9,6 +17,38 @@
    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "date": "2026-11-11T23:50:00+00:00",
+   "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "date": "2026-11-11T23:28:45+00:00",
+   "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "date": "2026-11-11T23:17:05+00:00",
+   "excerpt": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "date": "2026-11-11T22:44:36+00:00",
+   "excerpt": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wi…",
+   "source": "The Verge AI",
+   "category": "Press"
   },
   {
    "title": "United won’t let your AI agent book your flight",
@@ -54,7 +94,7 @@
    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
    "date": "2026-11-11T19:54:00+00:00",
-   "excerpt": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "excerpt": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -118,7 +158,7 @@
    "title": "openai/codex-security",
    "url": "https://github.com/openai/codex-security",
    "date": "2026-11-11T15:22:11+00:00",
-   "excerpt": "TypeScript · 20 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "excerpt": "TypeScript · 52 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1726,7 +1766,7 @@
    "title": "ZhuLinsen/daily_stock_analysis",
    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 429 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "excerpt": "Python · 278 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1734,7 +1774,7 @@
    "title": "homeassistant-ai/ha-mcp",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 640 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "excerpt": "Python · 645 stars today — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2574,7 +2614,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 2,842 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 2,776 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3478,7 +3518,7 @@
    "title": "vercel-labs/agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
    "date": "2026-11-05T22:06:10+00:00",
-   "excerpt": "Rust · 712 stars today — Browser automation CLI for AI agents",
+   "excerpt": "Rust · 708 stars today — Browser automation CLI for AI agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -24999,7 +25039,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 788 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 787 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
