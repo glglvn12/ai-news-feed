@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-12T03:53:04+00:00",
+ "updated": "2026-11-12T12:52:44+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "QwenLM/qwen-code",
+   "url": "https://github.com/QwenLM/qwen-code",
+   "date": "2026-11-12T12:52:44+00:00",
+   "excerpt": "TypeScript · 151 stars today — An open-source AI coding agent that lives in your terminal.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "ashhart/TensorFold",
+   "url": "https://github.com/ashhart/TensorFold",
+   "date": "2026-11-12T12:52:44+00:00",
+   "excerpt": "Zig · 58 stars today — LLM Inference Engine for Metal, CUDA and Vulkan.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "date": "2026-11-12T12:52:44+00:00",
+   "excerpt": "C++ · 162 stars today — LLM inference in C/C++",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "date": "2026-11-12T09:30:00+00:00",
+   "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
@@ -15,6 +47,14 @@
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "date": "2026-11-12T00:00:00+00:00",
    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Supporting research on AI and children’s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -158,7 +198,7 @@
    "title": "openai/codex-security",
    "url": "https://github.com/openai/codex-security",
    "date": "2026-11-11T15:22:11+00:00",
-   "excerpt": "TypeScript · 52 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "excerpt": "TypeScript · 663 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1755,6 +1795,46 @@
    "category": "Paper"
   },
   {
+   "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+   "url": "https://huggingface.co/papers/2611.14418",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the low-precision output distribution looks uncertain (entropy above a threshold or a small top-two mar…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+   "url": "https://huggingface.co/papers/2611.14413",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard",
+   "url": "https://huggingface.co/papers/2611.13843",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Typed-decision encoders answer a question about a text in one forward pass, but their behaviour outside English is rarely measured on a fixed yardstick. We release PolyRoute: 322 native-language support messages in 12 languages and 9 writing systems, 156 code-mixed or romanised messages (Hinglish,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+   "url": "https://huggingface.co/papers/2611.13410",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Low-bit quantization reduces the inference cost of LLM agents but can compromise task success. Examining failed rollouts, we find that quantized agents overlook task requirements or environmental conditions, producing environment transitions that diverge from successful full-precision references. C…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+   "url": "https://huggingface.co/papers/2611.13758",
+   "date": "2026-11-09T19:00:00+00:00",
+   "excerpt": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior work has demonstrated its functionality and promise for game-playing networks and fixing specific fa…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "garrytan/gbrain",
    "url": "https://github.com/garrytan/gbrain",
    "date": "2026-11-09T18:54:08+00:00",
@@ -2614,7 +2694,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 2,776 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 1,789 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8286,7 +8366,7 @@
    "title": "CopilotKit/OpenBot",
    "url": "https://github.com/CopilotKit/OpenBot",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "TypeScript · 175 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+   "excerpt": "TypeScript · 291 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -19398,7 +19478,7 @@
    "title": "Alishahryar1/free-claude-code",
    "url": "https://github.com/Alishahryar1/free-claude-code",
    "date": "2026-10-12T19:52:00+00:00",
-   "excerpt": "Python · 626 stars today — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+   "excerpt": "Python · 636 stars today — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported +…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -25039,7 +25119,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 787 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 812 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
