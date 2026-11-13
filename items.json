@@ -1,12 +1,60 @@
 {
- "updated": "2026-11-12T20:54:06+00:00",
+ "updated": "2026-11-13T01:54:58+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "date": "2026-11-12T22:42:51+00:00",
+   "excerpt": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "date": "2026-11-12T22:22:28+00:00",
+   "excerpt": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "date": "2026-11-12T21:55:32+00:00",
+   "excerpt": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starti…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "date": "2026-11-12T21:35:00+00:00",
+   "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft Research Focus – Edition #98",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+   "date": "2026-11-12T21:31:57+00:00",
+   "excerpt": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first o…",
+   "source": "Microsoft Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "date": "2026-11-12T21:27:10+00:00",
+   "excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "GoogleChrome/modern-web-guidance-src",
    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
    "date": "2026-11-12T20:54:06+00:00",
-   "excerpt": "TypeScript · 799 stars today — Keep your coding agent up to date with the latest web best practices",
+   "excerpt": "TypeScript · 739 stars today — Keep your coding agent up to date with the latest web best practices",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -19,8 +67,24 @@
    "category": "Press"
   },
   {
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "date": "2026-11-12T20:16:24+00:00",
+   "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pot…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
    "url": "https://openai.com/index/amplitude",
+   "date": "2026-11-12T20:00:00+00:00",
+   "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
    "date": "2026-11-12T20:00:00+00:00",
    "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
    "source": "OpenAI",
@@ -211,14 +275,6 @@
    "category": "Press"
   },
   {
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "date": "2026-11-12T14:30:01+00:00",
-   "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "source": "TechCrunch AI",
-   "category": "Press"
-  },
-  {
    "title": "I reviewed the Apple HomeView, ask me anything",
    "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
    "date": "2026-11-12T14:10:00+00:00",
@@ -254,7 +310,7 @@
    "title": "ashhart/TensorFold",
    "url": "https://github.com/ashhart/TensorFold",
    "date": "2026-11-12T12:52:44+00:00",
-   "excerpt": "Zig · 94 stars today — LLM Inference Engine for Metal, CUDA and Vulkan.",
+   "excerpt": "Zig · 54 stars today — LLM Inference Engine for Metal, CUDA and Vulkan.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -262,9 +318,17 @@
    "title": "ggml-org/llama.cpp",
    "url": "https://github.com/ggml-org/llama.cpp",
    "date": "2026-11-12T12:52:44+00:00",
-   "excerpt": "C++ · 287 stars today — LLM inference in C/C++",
+   "excerpt": "C++ · 176 stars today — LLM inference in C/C++",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "date": "2026-11-12T12:00:00+00:00",
+   "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -454,7 +518,7 @@
    "title": "openai/codex-security",
    "url": "https://github.com/openai/codex-security",
    "date": "2026-11-11T15:22:11+00:00",
-   "excerpt": "TypeScript · 663 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "excerpt": "TypeScript · 643 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2958,7 +3022,7 @@
    "title": "meta/astryx",
    "url": "https://github.com/meta/astryx",
    "date": "2026-11-07T16:54:00+00:00",
-   "excerpt": "TypeScript · 1,789 stars today — An open source design system that's fully customizable and agent ready",
+   "excerpt": "TypeScript · 1,830 stars today — An open source design system that's fully customizable and agent ready",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8630,7 +8694,7 @@
    "title": "CopilotKit/OpenBot",
    "url": "https://github.com/CopilotKit/OpenBot",
    "date": "2026-10-29T13:15:23+00:00",
-   "excerpt": "TypeScript · 291 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+   "excerpt": "TypeScript · 298 stars today — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -19742,7 +19806,7 @@
    "title": "Alishahryar1/free-claude-code",
    "url": "https://github.com/Alishahryar1/free-claude-code",
    "date": "2026-10-12T19:52:00+00:00",
-   "excerpt": "Python · 461 stars today — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported +…",
+   "excerpt": "Python · 415 stars today — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported +…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -25383,7 +25447,7 @@
    "title": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 812 stars today — Production-grade engineering skills for AI coding agents.",
+   "excerpt": "JavaScript · 816 stars today — Production-grade engineering skills for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
