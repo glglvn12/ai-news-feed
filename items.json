@@ -1,9 +1,65 @@
 {
- "updated": "2026-11-13T17:50:21+00:00",
+ "updated": "2026-11-13T23:39:34+00:00",
  "failed": [
   "IBM Research"
  ],
  "items": [
+  {
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "date": "2026-11-13T22:43:00+00:00",
+   "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Advancing science & engineering with Antigravity’s /teamwork",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "date": "2026-11-13T20:47:18+00:00",
+   "excerpt": "Education Innovation",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "date": "2026-11-13T20:45:10+00:00",
+   "excerpt": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "date": "2026-11-13T19:37:57+00:00",
+   "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+   "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+   "date": "2026-11-13T18:57:10+00:00",
+   "excerpt": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "date": "2026-11-13T18:40:30+00:00",
+   "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "date": "2026-11-13T18:00:39+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
   {
    "title": "backnotprop/plannotator",
    "url": "https://github.com/backnotprop/plannotator",
@@ -589,6 +645,14 @@
    "category": "Paper"
   },
   {
+   "title": "Building strong safety evaluations",
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
    "date": "2026-11-12T22:42:51+00:00",
@@ -1153,6 +1217,22 @@
    "url": "https://huggingface.co/papers/2611.16409",
    "date": "2026-11-11T19:00:00+00:00",
    "excerpt": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment that the agent experienced during the trial (e.g., error logs). To utilize this rich information, r…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+   "url": "https://huggingface.co/papers/2611.17336",
+   "date": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of f…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+   "url": "https://huggingface.co/papers/2611.17190",
+   "date": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
