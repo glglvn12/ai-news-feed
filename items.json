@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-14T14:15:35+00:00",
- "failed": [],
+ "updated": "2026-11-14T19:16:12+00:00",
+ "failed": [
+  "IBM Research"
+ ],
  "items": [
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "date": "2026-11-14T17:30:00+00:00",
+   "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "date": "2026-11-14T16:34:15+00:00",
+   "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "date": "2026-11-14T15:00:00+00:00",
+   "excerpt": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known fo…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "dream-num/univer",
    "url": "https://github.com/dream-num/univer",
@@ -22,7 +48,7 @@
    "title": "Tencent/LoopForge",
    "url": "https://github.com/Tencent/LoopForge",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "Go · 174 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "excerpt": "Go · 101 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -998,7 +1024,7 @@
    "title": "QwenLM/qwen-code",
    "url": "https://github.com/QwenLM/qwen-code",
    "date": "2026-11-12T12:52:44+00:00",
-   "excerpt": "TypeScript · 462 stars today — An open-source AI coding agent that lives in your terminal.",
+   "excerpt": "TypeScript · 116 stars today — An open-source AI coding agent that lives in your terminal.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1006,7 +1032,7 @@
    "title": "ashhart/TensorFold",
    "url": "https://github.com/ashhart/TensorFold",
    "date": "2026-11-12T12:52:44+00:00",
-   "excerpt": "Zig · 188 stars today — LLM Inference Engine for Metal, CUDA and Vulkan.",
+   "excerpt": "Zig · 53 stars today — LLM Inference Engine for Metal, CUDA and Vulkan.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28619,30 +28645,6 @@
    "excerpt": "Algorithms & Theory",
    "source": "Google Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-   "date": "2026-09-15T17:05:57+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "date": "2026-09-15T16:00:44+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
-  },
-  {
-   "title": "Refactoring Hermes with 1,393 agents",
-   "url": "https://nousresearch.com/refactoring-hermes-with-1393-agents",
-   "date": "2026-09-15T15:00:00+00:00",
-   "excerpt": "Hermes Agent refactored its own codebase: 1,393 subagents over about nineteen active hours cut non-test Python by 34.4%, for roughly $19,300 in model spend against a $150k-$1.8M estimate for doing it by hand.",
-   "source": "Nous Research",
-   "category": "Lab"
   }
  ]
 }
