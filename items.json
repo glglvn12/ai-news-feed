@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-14T19:16:12+00:00",
- "failed": [
-  "IBM Research"
- ],
+ "updated": "2026-11-14T23:08:29+00:00",
+ "failed": [],
  "items": [
+  {
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "date": "2026-11-14T21:41:22+00:00",
+   "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -28637,14 +28643,6 @@
    "excerpt": "Memory in Grok Build",
    "source": "xAI",
    "category": "Lab"
-  },
-  {
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-   "date": "2026-09-15T20:00:00+00:00",
-   "excerpt": "Algorithms & Theory",
-   "source": "Google Research",
-   "category": "Major Lab"
   }
  ]
 }
