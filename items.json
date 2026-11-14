@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-13T23:39:34+00:00",
- "failed": [
-  "IBM Research"
- ],
+ "updated": "2026-11-14T06:39:35+00:00",
+ "failed": [],
  "items": [
+  {
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "date": "2026-11-13T23:49:11+00:00",
+   "excerpt": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers le…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -64,7 +70,7 @@
    "title": "backnotprop/plannotator",
    "url": "https://github.com/backnotprop/plannotator",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 100 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "excerpt": "TypeScript · 108 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -72,7 +78,7 @@
    "title": "tradermonty/claude-trading-skills",
    "url": "https://github.com/tradermonty/claude-trading-skills",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "Python · 60 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "excerpt": "Python · 69 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -80,7 +86,7 @@
    "title": "Likely7/Veyra-NRVideo",
    "url": "https://github.com/Likely7/Veyra-NRVideo",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "C++ · 245 stars today — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-…",
+   "excerpt": "C++ · 256 stars today — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -88,7 +94,7 @@
    "title": "ChromeDevTools/chrome-devtools-mcp",
    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 145 stars today — Chrome DevTools for coding agents",
+   "excerpt": "TypeScript · 67 stars today — Chrome DevTools for coding agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -187,6 +193,14 @@
    "excerpt": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singul…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "date": "2026-11-13T08:00:00+00:00",
+   "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
@@ -704,7 +718,7 @@
    "title": "GoogleChrome/modern-web-guidance-src",
    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
    "date": "2026-11-12T20:54:06+00:00",
-   "excerpt": "TypeScript · 1,875 stars today — Keep your coding agent up to date with the latest web best practices",
+   "excerpt": "TypeScript · 1,925 stars today — Keep your coding agent up to date with the latest web best practices",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1237,6 +1251,14 @@
    "category": "Paper"
   },
   {
+   "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+   "url": "https://huggingface.co/papers/2611.16728",
+   "date": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentri…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Using mathematics to validate network configurations",
    "url": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
    "date": "2026-11-11T17:02:01+00:00",
@@ -1280,7 +1302,7 @@
    "title": "openai/codex-security",
    "url": "https://github.com/openai/codex-security",
    "date": "2026-11-11T15:22:11+00:00",
-   "excerpt": "TypeScript · 754 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "excerpt": "TypeScript · 751 stars today — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3016,7 +3038,7 @@
    "title": "ZhuLinsen/daily_stock_analysis",
    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
    "date": "2026-11-09T18:54:08+00:00",
-   "excerpt": "Python · 272 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "excerpt": "Python · 256 stars today — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21696,7 +21718,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 206 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 215 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28589,30 +28611,6 @@
    "excerpt": "Hermes Agent refactored its own codebase: 1,393 subagents over about nineteen active hours cut non-test Python by 34.4%, for roughly $19,300 in model spend against a $150k-$1.8M estimate for doing it by hand.",
    "source": "Nous Research",
    "category": "Lab"
-  },
-  {
-   "title": "A theoretical separation between quantum computers & LLMs",
-   "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss",
-   "date": "2026-09-15T04:00:00+00:00",
-   "excerpt": "Recent research further demonstrates the theoretical abilities of quantum computing",
-   "source": "IBM Research",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Introducing System One Models & Jev - TypeSafe AI Blog",
-   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-   "date": "2026-09-15T00:00:00+00:00",
-   "excerpt": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
-   "source": "TypeSafe (Jev)",
-   "category": "Lab"
-  },
-  {
-   "title": "Introducing Claude Mythos and Fable 5.1",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "date": "2026-09-15T00:00:00+00:00",
-   "excerpt": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
-   "source": "Anthropic",
-   "category": "Major Lab"
   }
  ]
 }
