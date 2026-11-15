@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-15T11:09:37+00:00",
- "failed": [],
+ "updated": "2026-11-15T17:49:04+00:00",
+ "failed": [
+  "IBM Research"
+ ],
  "items": [
+  {
+   "title": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "date": "2026-11-15T17:49:04+00:00",
+   "excerpt": "TypeScript · 248 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "ggml-org/ggml",
+   "url": "https://github.com/ggml-org/ggml",
+   "date": "2026-11-15T17:49:04+00:00",
+   "excerpt": "C++ · 53 stars today — Tensor library for machine learning",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "date": "2026-11-15T17:49:04+00:00",
+   "excerpt": "Python · 221 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "NVIDIA/SkillEvaluator",
+   "url": "https://github.com/NVIDIA/SkillEvaluator",
+   "date": "2026-11-15T17:49:04+00:00",
+   "excerpt": "Python · 205 stars today — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "source": "GitHub Trending",
+   "category": "GitHub"
+  },
+  {
+   "title": "An overview of Jensen Huang’s messy days",
+   "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "date": "2026-11-15T13:00:00+00:00",
+   "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Step…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Where was Nvidia’s security team?",
    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -46,7 +88,7 @@
    "title": "dream-num/univer",
    "url": "https://github.com/dream-num/univer",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 495 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "excerpt": "TypeScript · 1,041 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -54,7 +96,7 @@
    "title": "ag-ui-protocol/ag-ui",
    "url": "https://github.com/ag-ui-protocol/ag-ui",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 9 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "excerpt": "TypeScript · 393 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +104,7 @@
    "title": "Tencent/LoopForge",
    "url": "https://github.com/Tencent/LoopForge",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "Go · 33 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "excerpt": "Go · 484 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28619,22 +28661,6 @@
    "excerpt": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
    "source": "Anthropic Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "date": "2026-09-16T17:00:00+00:00",
-   "excerpt": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-   "source": "OpenAI Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "date": "2026-09-16T12:00:00+00:00",
-   "excerpt": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
-   "source": "Mistral",
-   "category": "Lab"
   }
  ]
 }
