@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:47:07+00:00",
+ "updated": "2026-11-15T11:09:37+00:00",
  "failed": [],
  "items": [
   {
@@ -142,7 +142,7 @@
    "title": "backnotprop/plannotator",
    "url": "https://github.com/backnotprop/plannotator",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 408 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "excerpt": "TypeScript · 860 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -150,7 +150,7 @@
    "title": "tradermonty/claude-trading-skills",
    "url": "https://github.com/tradermonty/claude-trading-skills",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "Python · 553 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "excerpt": "Python · 707 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -158,7 +158,7 @@
    "title": "Likely7/Veyra-NRVideo",
    "url": "https://github.com/Likely7/Veyra-NRVideo",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "C++ · 420 stars today — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-…",
+   "excerpt": "C++ · 731 stars today — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-…",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -166,7 +166,7 @@
    "title": "ChromeDevTools/chrome-devtools-mcp",
    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 664 stars today — Chrome DevTools for coding agents",
+   "excerpt": "TypeScript · 718 stars today — Chrome DevTools for coding agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -790,7 +790,7 @@
    "title": "GoogleChrome/modern-web-guidance-src",
    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
    "date": "2026-11-12T20:54:06+00:00",
-   "excerpt": "TypeScript · 1,231 stars today — Keep your coding agent up to date with the latest web best practices",
+   "excerpt": "TypeScript · 1,220 stars today — Keep your coding agent up to date with the latest web best practices",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21790,7 +21790,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 893 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 688 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
