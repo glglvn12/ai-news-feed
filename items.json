@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-15T22:56:19+00:00",
+ "updated": "2026-11-16T02:50:01+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "date": "2026-11-16T01:30:00+00:00",
+   "excerpt": "Apple's new app for a study will answer everyday medical questions",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "date": "2026-11-16T01:26:56+00:00",
+   "excerpt": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by h…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "date": "2026-11-15T23:30:00+00:00",
+   "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "A step toward defining the Standard Model on a lattice",
    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -54,7 +78,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 248 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 247 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -62,7 +86,7 @@
    "title": "ggml-org/ggml",
    "url": "https://github.com/ggml-org/ggml",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "C++ · 53 stars today — Tensor library for machine learning",
+   "excerpt": "C++ · 43 stars today — Tensor library for machine learning",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -70,7 +94,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 221 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 98 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -78,7 +102,7 @@
    "title": "NVIDIA/SkillEvaluator",
    "url": "https://github.com/NVIDIA/SkillEvaluator",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 205 stars today — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "excerpt": "Python · 122 stars today — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -134,7 +158,7 @@
    "title": "dream-num/univer",
    "url": "https://github.com/dream-num/univer",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 1,041 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "excerpt": "TypeScript · 988 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -142,7 +166,7 @@
    "title": "ag-ui-protocol/ag-ui",
    "url": "https://github.com/ag-ui-protocol/ag-ui",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 393 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "excerpt": "TypeScript · 355 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -150,7 +174,7 @@
    "title": "Tencent/LoopForge",
    "url": "https://github.com/Tencent/LoopForge",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "Go · 484 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "excerpt": "Go · 423 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -230,7 +254,7 @@
    "title": "backnotprop/plannotator",
    "url": "https://github.com/backnotprop/plannotator",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 860 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "excerpt": "TypeScript · 866 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -238,7 +262,7 @@
    "title": "tradermonty/claude-trading-skills",
    "url": "https://github.com/tradermonty/claude-trading-skills",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "Python · 707 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "excerpt": "Python · 706 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -254,7 +278,7 @@
    "title": "ChromeDevTools/chrome-devtools-mcp",
    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 718 stars today — Chrome DevTools for coding agents",
+   "excerpt": "TypeScript · 717 stars today — Chrome DevTools for coding agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -878,7 +902,7 @@
    "title": "GoogleChrome/modern-web-guidance-src",
    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
    "date": "2026-11-12T20:54:06+00:00",
-   "excerpt": "TypeScript · 1,220 stars today — Keep your coding agent up to date with the latest web best practices",
+   "excerpt": "TypeScript · 1,219 stars today — Keep your coding agent up to date with the latest web best practices",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -21878,7 +21902,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 688 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 691 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28682,30 +28706,6 @@
    "date": "2026-09-17T20:45:00+00:00",
    "excerpt": "Education Innovation",
    "source": "Google Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Introducing the Life Sciences Verification Program",
-   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-   "date": "2026-09-17T00:00:00+00:00",
-   "excerpt": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work.",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "How Claude is uplifting biomolecular modeling",
-   "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-   "date": "2026-09-17T00:00:00+00:00",
-   "excerpt": "How Claude is uplifting biomolecular modeling",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Measurements for understanding the pace of AI development inside frontier labs",
-   "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-   "date": "2026-09-17T00:00:00+00:00",
-   "excerpt": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
-   "source": "Anthropic Research",
    "category": "Major Lab"
   }
  ]
