@@ -1,12 +1,28 @@
 {
- "updated": "2026-11-16T22:16:16+00:00",
+ "updated": "2026-11-17T04:37:57+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "date": "2026-11-16T23:32:32+00:00",
+   "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "date": "2026-11-16T23:17:34+00:00",
+   "excerpt": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the resul…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 122 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 135 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -14,7 +30,7 @@
    "title": "google-research/paper-orchestra",
    "url": "https://github.com/google-research/paper-orchestra",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 306 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "excerpt": "Python · 313 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22,7 +38,7 @@
    "title": "kajisho5/ffmpeg-skill",
    "url": "https://github.com/kajisho5/ffmpeg-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 475 stars today — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "excerpt": "Python · 367 stars today — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -30,7 +46,7 @@
    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
    "date": "2026-11-16T22:03:02+00:00",
-   "excerpt": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+   "excerpt": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -46,7 +62,7 @@
    "title": "California sues OpenAI over rogue AI hacking incidents",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
    "date": "2026-11-16T20:46:01+00:00",
-   "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ov…",
+   "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper…",
    "source": "The Verge AI",
    "category": "Press"
   },
@@ -78,7 +94,7 @@
    "title": "California state AG sues OpenAI over rogue agent incidents",
    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
    "date": "2026-11-16T20:07:13+00:00",
-   "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+   "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -123,7 +139,7 @@
    "category": "Press"
   },
   {
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
    "date": "2026-11-16T18:11:10+00:00",
    "excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
@@ -862,7 +878,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 540 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 529 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -878,7 +894,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,057 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,094 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -886,7 +902,7 @@
    "title": "NVIDIA/SkillEvaluator",
    "url": "https://github.com/NVIDIA/SkillEvaluator",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 953 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "excerpt": "Python · 873 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -942,7 +958,7 @@
    "title": "dream-num/univer",
    "url": "https://github.com/dream-num/univer",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 1,878 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "excerpt": "TypeScript · 1,828 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -950,7 +966,7 @@
    "title": "ag-ui-protocol/ag-ui",
    "url": "https://github.com/ag-ui-protocol/ag-ui",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 790 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "excerpt": "TypeScript · 791 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1038,7 +1054,7 @@
    "title": "backnotprop/plannotator",
    "url": "https://github.com/backnotprop/plannotator",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 689 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "excerpt": "TypeScript · 696 stars today — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1046,7 +1062,7 @@
    "title": "tradermonty/claude-trading-skills",
    "url": "https://github.com/tradermonty/claude-trading-skills",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "Python · 841 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "excerpt": "Python · 837 stars today — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1062,7 +1078,7 @@
    "title": "ChromeDevTools/chrome-devtools-mcp",
    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
    "date": "2026-11-13T17:50:21+00:00",
-   "excerpt": "TypeScript · 837 stars today — Chrome DevTools for coding agents",
+   "excerpt": "TypeScript · 841 stars today — Chrome DevTools for coding agents",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2399,6 +2415,14 @@
    "url": "https://huggingface.co/papers/2611.05843",
    "date": "2026-11-11T19:00:00+00:00",
    "excerpt": "Generative model-based approaches to linear inverse problems typically use the acquired noisy measurement to condition or guide sampling in the image domain. In this work, we introduce Dual Flow, a novel joint-flow model for solving linear inverse problems by jointly estimating the clean image and…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+   "url": "https://huggingface.co/papers/2611.16661",
+   "date": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce b…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -22870,7 +22894,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 946 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 951 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -29651,22 +29675,6 @@
    "excerpt": "Algorithms & Theory",
    "source": "Google Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Partnering with Accenture on embedded evaluation",
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "date": "2026-09-18T00:00:00+00:00",
-   "excerpt": "Partnering with Accenture on embedded evaluation",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Introducing Grok Voice Transcribe 2.0",
-   "url": "https://x.ai/news/grok-voice-transcribe-2",
-   "date": "2026-09-18T00:00:00+00:00",
-   "excerpt": "Introducing Grok Voice Transcribe 2.0",
-   "source": "xAI",
-   "category": "Lab"
   }
  ]
 }
