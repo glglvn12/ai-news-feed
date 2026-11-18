@@ -1,7 +1,47 @@
 {
- "updated": "2026-11-17T22:58:12+00:00",
+ "updated": "2026-11-18T04:30:28+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "date": "2026-11-18T01:44:21+00:00",
+   "excerpt": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "date": "2026-11-18T00:16:50+00:00",
+   "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "date": "2026-11-17T23:41:18+00:00",
+   "excerpt": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AG…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "date": "2026-11-17T23:37:48+00:00",
+   "excerpt": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "date": "2026-11-17T23:04:35+00:00",
+   "excerpt": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
@@ -206,7 +246,7 @@
    "title": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "date": "2026-11-17T14:36:17+00:00",
-   "excerpt": "Python · 188 stars today — 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+   "excerpt": "Python · 192 stars today — 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -758,7 +798,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 772 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 696 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -766,7 +806,7 @@
    "title": "google-research/paper-orchestra",
    "url": "https://github.com/google-research/paper-orchestra",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 1,175 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "excerpt": "Python · 1,072 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -857,6 +897,14 @@
    "excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Weight-Space Programming Doesn't Need Transformers",
+   "url": "https://huggingface.co/papers/2611.22055",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply. Should we…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
@@ -1563,6 +1611,14 @@
    "category": "Lab"
   },
   {
+   "title": "Split-and-Scale Latent 3D Representations",
+   "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+   "date": "2026-11-16T00:00:00+00:00",
+   "excerpt": "Latent 3D representations have significantly expanded the capabilities of modern shape modeling, enabling compact encoding of 3D scenes and supporting powerful 3D generative models. Despite this progress, current representations struggle to capture the fine details of complex objects, fundamentally…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
    "date": "2026-11-15T23:30:00+00:00",
@@ -1731,6 +1787,38 @@
    "category": "Paper"
   },
   {
+   "title": "Regularized Score Centering",
+   "url": "https://huggingface.co/papers/2611.21791",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our g…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding",
+   "url": "https://huggingface.co/papers/2611.20992",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with the response length and force the answer to be parsed from free-form text, incurring avoidable late…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+   "url": "https://huggingface.co/papers/2611.21099",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system mus…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment",
+   "url": "https://huggingface.co/papers/2611.20441",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Abstention, the withholding of a response by a large language model (LLM) under uncertainty or safety risks, is essential for trustworthy models. The causes of abstention fall into three perspectives: ambiguity in the Query (Q), limits of Model Knowledge (MK), and misalignment with Human Values (HV…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
@@ -1750,7 +1838,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,007 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,005 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1851,6 +1939,14 @@
    "category": "Paper"
   },
   {
+   "title": "Multi-Branch Transformer",
+   "url": "https://huggingface.co/papers/2611.19800",
+   "date": "2026-11-14T19:00:00+00:00",
+   "excerpt": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transformer blocks. We introduce the Multi-Branch Transformer (MBT), which processes the input through sha…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "date": "2026-11-14T17:30:00+00:00",
@@ -1878,7 +1974,7 @@
    "title": "dream-num/univer",
    "url": "https://github.com/dream-num/univer",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 1,776 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "excerpt": "TypeScript · 1,774 stars today — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1886,7 +1982,7 @@
    "title": "ag-ui-protocol/ag-ui",
    "url": "https://github.com/ag-ui-protocol/ag-ui",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "TypeScript · 1,444 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "excerpt": "TypeScript · 1,445 stars today — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1894,7 +1990,7 @@
    "title": "Tencent/LoopForge",
    "url": "https://github.com/Tencent/LoopForge",
    "date": "2026-11-14T14:15:35+00:00",
-   "excerpt": "Go · 590 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "excerpt": "Go · 591 stars today — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -23822,7 +23918,7 @@
    "title": "alibaba/open-code-review",
    "url": "https://github.com/alibaba/open-code-review",
    "date": "2026-10-09T17:02:05+00:00",
-   "excerpt": "Go · 764 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "excerpt": "Go · 763 stars today — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28391,7 +28487,7 @@
    "title": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 902 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "excerpt": "JavaScript · 883 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28479,7 +28575,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 598 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 1,917 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28559,7 +28655,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 196 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 201 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
