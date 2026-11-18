@@ -1,7 +1,199 @@
 {
- "updated": "2026-11-18T14:12:33+00:00",
+ "updated": "2026-11-18T22:05:33+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+   "date": "2026-11-18T21:57:40+00:00",
+   "excerpt": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "date": "2026-11-18T21:35:43+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "date": "2026-11-18T21:34:13+00:00",
+   "excerpt": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+   "date": "2026-11-18T21:31:21+00:00",
+   "excerpt": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "date": "2026-11-18T20:07:01+00:00",
+   "excerpt": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "date": "2026-11-18T19:56:39+00:00",
+   "excerpt": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "date": "2026-11-18T19:54:56+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Trump’s latest land grab is an AI hub in the Philippines",
+   "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+   "date": "2026-11-18T19:40:36+00:00",
+   "excerpt": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+   "date": "2026-11-18T19:30:00+00:00",
+   "excerpt": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a ser…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "date": "2026-11-18T19:07:29+00:00",
+   "excerpt": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling fo…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Mathematical proof, powered by AI. And no hallucinations!",
+   "url": "https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations",
+   "date": "2026-11-18T18:55:35+00:00",
+   "excerpt": "With new tools that make it easier to check mathematical proofs — even as they’re being constructed — AI is becoming a valuable partner in mathematical discovery.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Why your fine-tuning job takes longer than the FLOPs say",
+   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "date": "2026-11-18T18:53:43+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "What is Nvidia without AI’s sugar daddy in charge?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+   "date": "2026-11-18T18:34:15+00:00",
+   "excerpt": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huan…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "date": "2026-11-18T18:13:42+00:00",
+   "excerpt": "",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "date": "2026-11-18T18:04:05+00:00",
+   "excerpt": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+   "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+   "date": "2026-11-18T17:50:57+00:00",
+   "excerpt": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "date": "2026-11-18T17:32:10+00:00",
+   "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+   "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+   "date": "2026-11-18T17:00:00+00:00",
+   "excerpt": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "date": "2026-11-18T16:59:00+00:00",
+   "excerpt": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "date": "2026-11-18T16:14:09+00:00",
+   "excerpt": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Remember the frontier AI pause? Chip companies don’t either",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+   "date": "2026-11-18T15:44:02+00:00",
+   "excerpt": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "date": "2026-11-18T15:00:23+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+   "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+   "date": "2026-11-18T15:00:00+00:00",
+   "excerpt": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The AI Hype Index: AI is everywhere",
+   "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "date": "2026-11-18T14:42:44+00:00",
+   "excerpt": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go t…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
   {
    "title": "appwrite/appwrite",
    "url": "https://github.com/appwrite/appwrite",
@@ -54,12 +246,12 @@
    "title": "Nvidia isn’t selling any more AI chips to China",
    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
    "date": "2026-11-18T13:01:05+00:00",
-   "excerpt": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under form…",
+   "excerpt": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under forme…",
    "source": "The Verge AI",
    "category": "Press"
   },
   {
-   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
    "date": "2026-11-18T13:00:00+00:00",
    "excerpt": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
@@ -75,10 +267,10 @@
    "category": "Press"
   },
   {
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
    "date": "2026-11-18T11:30:00+00:00",
-   "excerpt": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "excerpt": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
    "source": "TechCrunch AI",
    "category": "Press"
   },
@@ -97,6 +289,30 @@
    "excerpt": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startu…",
    "source": "MIT Tech Review AI",
    "category": "Press"
+  },
+  {
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "date": "2026-11-18T10:00:00+00:00",
+   "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Inside the Codex sandbox",
+   "url": "https://openai.com/index/inside-the-codex-sandbox",
+   "date": "2026-11-18T08:00:00+00:00",
+   "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Managing frontier AI risk: From training to deployment",
+   "url": "https://openai.com/index/managing-frontier-ai-risk",
+   "date": "2026-11-18T06:00:00+00:00",
+   "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
@@ -569,6 +785,30 @@
    "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
    "source": "OpenAI",
    "category": "Major Lab"
+  },
+  {
+   "title": "Advancing chip design with OpenAI models",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "date": "2026-11-18T00:00:00+00:00",
+   "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "url": "https://huggingface.co/blog/moe-expert-streaming",
+   "date": "2026-11-18T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "url": "https://huggingface.co/blog/rumble-2-flash",
+   "date": "2026-11-18T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
   },
   {
    "title": "Satya Nadella says he’s AGI-pilled now",
@@ -1331,6 +1571,14 @@
    "category": "Major Lab"
   },
   {
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "date": "2026-11-17T00:00:00+00:00",
+   "excerpt": "Claude has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
+  },
+  {
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
    "date": "2026-11-16T23:32:32+00:00",
@@ -1551,6 +1799,14 @@
    "url": "https://huggingface.co/papers/2611.23144",
    "date": "2026-11-16T19:00:00+00:00",
    "excerpt": "π^4 is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense geometry, camera poses, and metric scale, together with 2D/3D point tracks and moving-object masks fo…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "GameRealm: Grounding Visual Learning in Interactive Games",
+   "url": "https://huggingface.co/papers/2611.23140",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Visual foundation models are central to physical intelligence, yet their development remains constrained by fragmented training datasets, inconsistent annotation quality, and limited multimodal supervision. To address these challenges, we introduce GameRealm, a large-scale, richly annotated dataset…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2491,6 +2747,22 @@
    "category": "Paper"
   },
   {
+   "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+   "url": "https://huggingface.co/papers/2611.21925",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
+   "url": "https://huggingface.co/papers/2611.21938",
+   "date": "2026-11-15T19:00:00+00:00",
+   "excerpt": "Robot policies trained by imitation generalize poorly outside the environments and objects seen in training. Published data-scaling studies find that generalization grows with the diversity of training environments and objects rather than with more demonstrations per environment. Robot data is cost…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
@@ -2518,7 +2790,7 @@
    "title": "NVIDIA/SkillEvaluator",
    "url": "https://github.com/NVIDIA/SkillEvaluator",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 869 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "excerpt": "Python · 323 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
