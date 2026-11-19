@@ -1,7 +1,191 @@
 {
- "updated": "2026-11-19T13:26:12+00:00",
+ "updated": "2026-11-19T22:15:32+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "date": "2026-11-19T21:59:35+00:00",
+   "excerpt": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wi…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "date": "2026-11-19T21:58:06+00:00",
+   "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "date": "2026-11-19T21:42:31+00:00",
+   "excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+   "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+   "date": "2026-11-19T20:28:13+00:00",
+   "excerpt": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Meta’s Muse Charm might cost $300",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "date": "2026-11-19T20:22:17+00:00",
+   "excerpt": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "date": "2026-11-19T20:18:49+00:00",
+   "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google is putting AI chats right on the homepage",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "date": "2026-11-19T20:05:06+00:00",
+   "excerpt": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "A game you cannot win unless you have a quantum computer",
+   "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+   "date": "2026-11-19T20:03:00+00:00",
+   "excerpt": "Quantum",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "date": "2026-11-19T19:10:45+00:00",
+   "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Gemini on Mac can now use your computer",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "date": "2026-11-19T18:21:13+00:00",
+   "excerpt": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, an…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "date": "2026-11-19T18:09:11+00:00",
+   "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "date": "2026-11-19T17:38:40+00:00",
+   "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+   "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/",
+   "date": "2026-11-19T17:00:00+00:00",
+   "excerpt": "In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "date": "2026-11-19T17:00:00+00:00",
+   "excerpt": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "date": "2026-11-19T16:59:23+00:00",
+   "excerpt": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic starts trading on Wall Street",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "date": "2026-11-19T16:52:01+00:00",
+   "excerpt": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Build Tool-Calling Parsers in Rust with AI Agents",
+   "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
+   "date": "2026-11-19T16:30:46+00:00",
+   "excerpt": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "date": "2026-11-19T16:19:41+00:00",
+   "excerpt": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "BLIP-Live: AI Guidance That Knows When to Step In",
+   "url": "https://www.salesforce.com/blog/blip-live/",
+   "date": "2026-11-19T16:11:36+00:00",
+   "excerpt": "Imagine a field service technician repairing a dishwasher. Their hands are full, the next appointment is approaching, and a missed step could mean another visit. An AI assistant watching the repair could flag…",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+   "date": "2026-11-19T15:16:45+00:00",
+   "excerpt": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "date": "2026-11-19T14:54:39+00:00",
+   "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "date": "2026-11-19T14:25:37+00:00",
+   "excerpt": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea t…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Superhuman pushes its Go assistant everywhere",
+   "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "date": "2026-11-19T14:00:00+00:00",
+   "excerpt": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
@@ -33,6 +217,30 @@
    "excerpt": "Python · 110 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "source": "GitHub Trending",
    "category": "GitHub"
+  },
+  {
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "date": "2026-11-19T13:00:00+00:00",
+   "excerpt": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Canva adds an AI ‘off’ button",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "date": "2026-11-19T12:30:00+00:00",
+   "excerpt": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't tur…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "date": "2026-11-19T08:00:00+00:00",
+   "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "FlashREINFORCE: Critic-Free Single-Rollout Asynchronous RL for Agentic Language Models",
@@ -769,6 +977,14 @@
    "excerpt": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they crea…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Nous Research partners with Microsoft to bring Hermes Agent to the enterprise",
+   "url": "https://nousresearch.com/hermes-enterprise-in-microsoft-teams",
+   "date": "2026-11-18T14:00:00+00:00",
+   "excerpt": "The number one app on OpenRouter's global ranking is now available for enterprises in Microsoft Teams, the Microsoft Store and on Azure",
+   "source": "Nous Research",
+   "category": "Lab"
   },
   {
    "title": "Nvidia isn’t selling any more AI chips to China",
@@ -1635,6 +1851,30 @@
    "category": "Paper"
   },
   {
+   "title": "Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts",
+   "url": "https://huggingface.co/papers/2611.24059",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "Frontier post-training follows a common recipe: train one expert per domain with reinforcement learning (RL), then consolidate the experts into one model via multi-teacher on-policy distillation (MOPD). Such consolidation is expensive: the student samples in every environment again, an expert score…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+   "url": "https://huggingface.co/papers/2611.24917",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the w…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
+   "url": "https://huggingface.co/papers/2611.23779",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 c…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
    "date": "2026-11-17T18:58:01+00:00",
@@ -1766,7 +2006,7 @@
    "title": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "date": "2026-11-17T14:36:17+00:00",
-   "excerpt": "Python · 687 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "excerpt": "Python · 301 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6583,6 +6823,14 @@
    "url": "https://machinelearning.apple.com/research/theory-evaluability",
    "date": "2026-11-10T00:00:00+00:00",
    "excerpt": "Machine learning models, particularly large foundation models, are increasingly evaluated along multiple axes that are relevant for their usage. In addition to accuracy measures appropriate for the specific task of interest, measures capturing safety, calibration and fairness properties are often o…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Complexity of Differentially Private Selection via Federated APIs",
+   "url": "https://machinelearning.apple.com/research/differentially-private-selection",
+   "date": "2026-11-10T00:00:00+00:00",
+   "excerpt": "Differential privacy (DP) has become the standard for privacy-preserving data analysis, yet its practical implementation in federated or distributed settings often faces a significant utility gap compared to the central model. While existing frameworks, including local, shuffle, and secure aggregat…",
    "source": "Apple Machine Learning Research",
    "category": "Big Tech"
   },
