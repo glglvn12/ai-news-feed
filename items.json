@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-18T22:05:33+00:00",
+ "updated": "2026-11-19T03:38:20+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "date": "2026-11-19T00:42:56+00:00",
+   "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "date": "2026-11-18T23:45:00+00:00",
+   "excerpt": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "date": "2026-11-18T23:25:17+00:00",
+   "excerpt": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "date": "2026-11-18T23:18:35+00:00",
+   "excerpt": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "date": "2026-11-18T23:17:28+00:00",
+   "excerpt": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "date": "2026-11-18T22:58:11+00:00",
+   "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "date": "2026-11-18T22:11:15+00:00",
+   "excerpt": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
@@ -67,7 +123,7 @@
    "category": "Press"
   },
   {
-   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "title": "Nvidia’s rise, visualized",
    "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
    "date": "2026-11-18T19:30:00+00:00",
    "excerpt": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a ser…",
@@ -198,7 +254,7 @@
    "title": "appwrite/appwrite",
    "url": "https://github.com/appwrite/appwrite",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "TypeScript · 239 stars today — The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "excerpt": "TypeScript · 232 stars today — The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -206,7 +262,7 @@
    "title": "openvinotoolkit/openvino",
    "url": "https://github.com/openvinotoolkit/openvino",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "C++ · 18 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "excerpt": "C++ · 24 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -214,7 +270,7 @@
    "title": "n8n-io/n8n",
    "url": "https://github.com/n8n-io/n8n",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "TypeScript · 315 stars today — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "excerpt": "TypeScript · 325 stars today — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -222,7 +278,7 @@
    "title": "punkpeye/awesome-mcp-servers",
    "url": "https://github.com/punkpeye/awesome-mcp-servers",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "52 stars today — A collection of MCP servers.",
+   "excerpt": "53 stars today — A collection of MCP servers.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -303,6 +359,22 @@
    "url": "https://openai.com/index/inside-the-codex-sandbox",
    "date": "2026-11-18T08:00:00+00:00",
    "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "date": "2026-11-18T08:00:00+00:00",
+   "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "date": "2026-11-18T08:00:00+00:00",
+   "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
    "source": "OpenAI",
    "category": "Major Lab"
   },
@@ -811,6 +883,14 @@
    "category": "Lab"
   },
   {
+   "title": "Anthropic prices initial public offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "date": "2026-11-18T00:00:00+00:00",
+   "excerpt": "Anthropic prices initial public offering",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
    "title": "Satya Nadella says he’s AGI-pilled now",
    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
    "date": "2026-11-17T23:41:18+00:00",
@@ -905,6 +985,22 @@
    "excerpt": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models",
+   "url": "https://huggingface.co/papers/2611.24075",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "Pretrained Time-Series Foundation Models (TSFMs) provide strong representations for downstream classification tasks. Yet adapting a TSFM under changing operating conditions remains challenging. A model must improve on each newly observed condition without sacrificing conditions it has already learn…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents",
+   "url": "https://huggingface.co/papers/2611.24102",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "Organizations increasingly deploy downloaded open-weight GUI agents. A backdoored agent passes acceptance tests on clean data and misbehaves only when a visual trigger appears on screen, turning an unvetted checkpoint into a supply-chain risk. However, existing sample-level detectors target image c…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
   },
   {
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
@@ -1598,7 +1694,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 1,062 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 1,059 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1606,7 +1702,7 @@
    "title": "google-research/paper-orchestra",
    "url": "https://github.com/google-research/paper-orchestra",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 1,529 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "excerpt": "Python · 1,524 stars today — PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1807,6 +1903,54 @@
    "url": "https://huggingface.co/papers/2611.23140",
    "date": "2026-11-16T19:00:00+00:00",
    "excerpt": "Visual foundation models are central to physical intelligence, yet their development remains constrained by fragmented training datasets, inconsistent annotation quality, and limited multimodal supervision. To address these challenges, we introduce GameRealm, a large-scale, richly annotated dataset…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation",
+   "url": "https://huggingface.co/papers/2611.22925",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Visual proxies decouple explicit world-state simulation from photorealistic video synthesis, offering a controllable interface for both offline clip creation and real-time interactive streaming. Yet a practical renderer must address two challenges. Upstream proxies vary from coarse layouts to fine…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Let Samples Sing in Chorus: Mitigating Spurious Correlations via Cross-view Consensus",
+   "url": "https://huggingface.co/papers/2611.22668",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Deep models often rely on spurious correlations that fail on underrepresented groups. Existing methods either correct human-specified bias attributes or infer unknown biases from the learned representation space. However, annotated attributes may differ from the shortcuts actually used by a model,…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+   "url": "https://huggingface.co/papers/2611.23068",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners face a puzzle: methods trade wins across papers, and evolution often fails to bootstrap on certain t…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+   "url": "https://huggingface.co/papers/2611.22287",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Latent diffusion models rely on a decoder to map denoised latents to pixels, adding complexity and inference cost. We introduce Decoding Without a Decoder (DWD), which lets a finetuned diffusion transformer produce final pixels directly through a linear head. Unlike previous methods, where the deno…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+   "url": "https://huggingface.co/papers/2611.23388",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Post-training quantization is the standard way to serve large language models at low cost. However, the best quantization recipe differs across models and precisions. As a result, experts must redesign it for every new model, which is time-consuming and often sub-optimal. Fortunately, an LLM agent…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Attention at Absolute Zero",
+   "url": "https://huggingface.co/papers/2611.11937",
+   "date": "2026-11-16T19:00:00+00:00",
+   "excerpt": "Attention scores candidate supports of an answer, which we call witnesses, and reads the scores at a temperature. We build a higher-order attention layer whose state lives on pairs of items: for a pair (a, b), each third item k is a witness judged through its legs (a, k) and (k, b). It reads witnes…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -2766,7 +2910,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 369 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 365 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2790,7 +2934,7 @@
    "title": "NVIDIA/SkillEvaluator",
    "url": "https://github.com/NVIDIA/SkillEvaluator",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 323 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "excerpt": "Python · 312 stars today — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -22550,7 +22694,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 384 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 389 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -29431,7 +29575,7 @@
    "title": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "date": "2026-10-03T14:45:47+00:00",
-   "excerpt": "JavaScript · 1,109 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "excerpt": "JavaScript · 1,108 stars today — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -29519,7 +29663,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 823 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 822 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -29599,7 +29743,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 315 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 314 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
