@@ -1,7 +1,103 @@
 {
- "updated": "2026-11-20T13:06:04+00:00",
+ "updated": "2026-11-20T21:14:57+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "date": "2026-11-20T19:53:41+00:00",
+   "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "date": "2026-11-20T19:32:08+00:00",
+   "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "date": "2026-11-20T18:50:19+00:00",
+   "excerpt": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our cou…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Always Learning, Always Improving: The Era of Self-Evolving AI Systems",
+   "url": "https://www.salesforce.com/blog/self-evolving-systems/",
+   "date": "2026-11-20T18:28:15+00:00",
+   "excerpt": "What toddlers can teach us about recursive self-improvement Anyone who has watched a toddler build with wooden blocks has seen a hard research problem solved on a living room floor. I have spent…",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "The most misunderstood graph in AI just got a major update",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "date": "2026-11-20T18:15:15+00:00",
+   "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s tim…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Chips can survive the space environment — can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "date": "2026-11-20T17:40:01+00:00",
+   "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "date": "2026-11-20T16:34:13+00:00",
+   "excerpt": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "date": "2026-11-20T14:55:44+00:00",
+   "excerpt": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismisse…",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The week everything fell apart",
+   "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "date": "2026-11-20T14:06:59+00:00",
+   "excerpt": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of some…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Introducing Hermes Enterprise on Microsoft Foundry: AI coworkers that are easy to use and easy to govern",
+   "url": "https://nousresearch.com/hermes-enterprise-on-microsoft-foundry",
+   "date": "2026-11-20T14:00:00+00:00",
+   "excerpt": "Hermes Agent is getting a new capability powered by Microsoft Foundry: it can now work as an AI coworker with its own work account, managed like any other member of staff.",
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "Cookbook: run Hermes Agent as a Microsoft Foundry autonomous agent",
+   "url": "https://nousresearch.com/hermes-on-microsoft-foundry-cookbook",
+   "date": "2026-11-20T14:00:00+00:00",
+   "excerpt": "Deploy Nous Research's open-source Hermes Agent into your own Microsoft 365 tenant, create it from Teams and give it its first tasks.",
+   "source": "Nous Research",
+   "category": "Lab"
+  },
+  {
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "date": "2026-11-20T14:00:00+00:00",
+   "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
@@ -9,6 +105,14 @@
    "excerpt": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining S…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "date": "2026-11-20T10:00:00+00:00",
+   "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "HEDGE: Gated Hypergraph Memory for Scalable Multi-Agent Debate",
@@ -483,10 +587,58 @@
    "category": "Lab"
   },
   {
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+   "url": "https://www.anthropic.com/news/ipo-close",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares…",
+   "source": "Anthropic",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-fr…",
+   "source": "Apple Machine Learning Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
    "title": "Apple is hiring engineers to build its own AI agent",
    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
    "date": "2026-11-19T22:31:41+00:00",
-   "excerpt": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic…",
+   "excerpt": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation o…",
    "source": "The Verge AI",
    "category": "Press"
   },
@@ -678,7 +830,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 1,226 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+   "excerpt": "TypeScript · 1,226 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1495,6 +1647,54 @@
    "url": "https://huggingface.co/papers/2611.26409",
    "date": "2026-11-18T19:00:00+00:00",
    "excerpt": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual p…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+   "url": "https://huggingface.co/papers/2611.26627",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is tha…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video",
+   "url": "https://huggingface.co/papers/2611.25567",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the video unfolds, identifying the attempted step, locating it in time, and assessing its execution. Ex…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "AURA: AUdio-dRiven streaming Avatar",
+   "url": "https://huggingface.co/papers/2611.26540",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and virtual avatars, where low-latency and on…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "SpecWM: Turning Verification into Refinement for Streaming World Models",
+   "url": "https://huggingface.co/papers/2611.26211",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their strengths through fast draft generation and selective target regeneration guided by rewards on decode…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+   "url": "https://huggingface.co/papers/2611.26511",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
+   "url": "https://huggingface.co/papers/2611.26450",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting primitives that compile deterministic computation directly into pretrained LM weights using zero tr…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -33235,38 +33435,6 @@
    "excerpt": "",
    "source": "Google DeepMind Research",
    "category": "Major Lab"
-  },
-  {
-   "title": "Amazon launches research initiative with Stanford University to advance AI and science",
-   "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
-   "date": "2026-09-21T19:31:59+00:00",
-   "excerpt": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Hermes Agent v0.21.4 (v2026.9.21)",
-   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21",
-   "date": "2026-09-21T18:10:55+00:00",
-   "excerpt": "# Hermes Agent v0.21.4 (v2026.9.21) **Release Date:** September 21, 2026 > Patch release. This tag rolls up the ~1,800 PRs merged since v0.21.3 into a stable tagged release for downstream consumers (Docker images, Hermes Cloud, hosted deployments). Full curated notes for this window are deferred to…",
-   "source": "Hermes Agent",
-   "category": "Lab"
-  },
-  {
-   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
-   "url": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
-   "date": "2026-09-21T17:51:00+00:00",
-   "excerpt": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-   "date": "2026-09-21T15:30:19+00:00",
-   "excerpt": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synt…",
-   "source": "Microsoft Research",
-   "category": "Big Tech"
   }
  ]
 }
