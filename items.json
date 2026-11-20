@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-19T22:15:32+00:00",
+ "updated": "2026-11-20T03:32:23+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "date": "2026-11-20T00:56:01+00:00",
+   "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "date": "2026-11-20T00:43:50+00:00",
+   "excerpt": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Hermes Agent v0.23.3",
+   "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3",
+   "date": "2026-11-20T00:34:38+00:00",
+   "excerpt": "# Hermes Agent v0.23.3 **Release Date:** November 19, 2026 > Patch release. This tag rolls up the ~370 PRs merged since v0.23.2 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.…",
+   "source": "Hermes Agent",
+   "category": "Lab"
+  },
+  {
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "date": "2026-11-19T22:31:41+00:00",
+   "excerpt": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "A brief history of Nvidia’s recent stock fluctuations",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
@@ -190,7 +222,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 795 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+   "excerpt": "TypeScript · 825 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -198,7 +230,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 542 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 377 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -206,7 +238,7 @@
    "title": "Tracer-Cloud/opensre",
    "url": "https://github.com/Tracer-Cloud/opensre",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 25 stars today — The open-source agent for CI/CD reliability.",
+   "excerpt": "Python · 38 stars today — The open-source agent for CI/CD reliability.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -214,7 +246,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 110 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "excerpt": "Python · 126 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -689,6 +721,38 @@
    "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
    "source": "TechCrunch AI",
    "category": "Press"
+  },
+  {
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "date": "2026-11-19T00:00:00+00:00",
+   "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "date": "2026-11-19T00:00:00+00:00",
+   "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "date": "2026-11-19T00:00:00+00:00",
+   "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "date": "2026-11-19T00:00:00+00:00",
+   "excerpt": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -1875,6 +1939,14 @@
    "category": "Paper"
   },
   {
+   "title": "General progress substitutes for specific training data in language models",
+   "url": "https://huggingface.co/papers/2611.24844",
+   "date": "2026-11-17T19:00:00+00:00",
+   "excerpt": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
    "date": "2026-11-17T18:58:01+00:00",
@@ -2006,7 +2078,7 @@
    "title": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "date": "2026-11-17T14:36:17+00:00",
-   "excerpt": "Python · 301 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "excerpt": "Python · 238 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2550,7 +2622,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 952 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 954 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3758,7 +3830,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 303 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 302 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3774,7 +3846,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,353 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,349 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -23542,7 +23614,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 899 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 898 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -28631,7 +28703,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 332 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 271 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -30511,7 +30583,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 2,029 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 2,028 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -30591,7 +30663,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 383 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 384 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -32603,30 +32675,6 @@
    "excerpt": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synt…",
    "source": "Microsoft Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "url": "https://huggingface.co/blog/tokenizers-v1",
-   "date": "2026-09-21T00:00:00+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
-  },
-  {
-   "title": "Introducing Grok 4.7",
-   "url": "https://x.ai/news/grok-4-7",
-   "date": "2026-09-21T00:00:00+00:00",
-   "excerpt": "Sep 21, 2026",
-   "source": "xAI",
-   "category": "Lab"
-  },
-  {
-   "title": "The Situation Report",
-   "url": "https://www.anthropic.com/features/ebola-response",
-   "date": "2026-09-21T00:00:00+00:00",
-   "excerpt": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
-   "source": "Anthropic",
-   "category": "Major Lab"
   }
  ]
 }
