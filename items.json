@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:31:32+00:00",
+ "updated": "2026-11-21T11:20:09+00:00",
  "failed": [],
  "items": [
   {
@@ -33411,14 +33411,6 @@
    "excerpt": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between...",
    "source": "NVIDIA Developer Blog",
    "category": "Big Tech"
-  },
-  {
-   "title": "Don’t be fooled by this summer of AI hype",
-   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-   "date": "2026-09-22T11:04:51+00:00",
-   "excerpt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclos…",
-   "source": "MIT Tech Review AI",
-   "category": "Press"
   }
  ]
 }
