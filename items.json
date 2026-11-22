@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-22T16:22:30+00:00",
+ "updated": "2026-11-22T22:30:39+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "date": "2026-11-22T21:14:07+00:00",
+   "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "date": "2026-11-22T18:08:43+00:00",
+   "excerpt": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "date": "2026-11-22T17:25:20+00:00",
+   "excerpt": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files w…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "The vibe-coding revolution is coming to all the gadgets",
    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
@@ -9,6 +33,14 @@
    "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wi…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "date": "2026-11-22T00:00:00+00:00",
+   "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "source": "OpenAI Research",
+   "category": "Major Lab"
   },
   {
    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -33337,22 +33369,6 @@
    "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
    "date": "2026-09-23T22:54:56+00:00",
    "excerpt": "Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and...",
-   "source": "NVIDIA Developer Blog",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
-   "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
-   "date": "2026-09-23T19:45:19+00:00",
-   "excerpt": "A GPU cluster can pass every health check and still fail to run an AI workload. Even when every GPU, network link, and pod reports healthy, a 512-GPU training...",
-   "source": "NVIDIA Developer Blog",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Manage Kubernetes Node Fleets with NodeWright",
-   "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
-   "date": "2026-09-23T18:25:49+00:00",
-   "excerpt": "Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,...",
    "source": "NVIDIA Developer Blog",
    "category": "Big Tech"
   }
