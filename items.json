@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-21T19:25:30+00:00",
+ "updated": "2026-11-22T00:24:38+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "date": "2026-11-21T21:37:10+00:00",
+   "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "date": "2026-11-21T21:07:42+00:00",
+   "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "date": "2026-11-21T20:03:37+00:00",
+   "excerpt": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotia…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Here are the top AI agents that can live in your text messages",
    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -870,7 +894,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 999 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "excerpt": "TypeScript · 1,006 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -878,7 +902,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 724 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 720 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -894,7 +918,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 689 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "excerpt": "Python · 683 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1886,7 +1910,7 @@
    "title": "openvinotoolkit/openvino",
    "url": "https://github.com/openvinotoolkit/openvino",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "C++ · 202 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "excerpt": "C++ · 200 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3502,7 +3526,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 566 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 560 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4710,7 +4734,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 324 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 326 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4726,7 +4750,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,794 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,803 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -24478,7 +24502,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 767 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 769 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -29559,7 +29583,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 582 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 583 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -31439,7 +31463,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 884 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 883 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -31519,7 +31543,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 261 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 260 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -33395,22 +33419,6 @@
    "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into oth…",
    "source": "MIT Tech Review AI",
    "category": "Press"
-  },
-  {
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "date": "2026-09-23T00:00:00+00:00",
-   "excerpt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "source": "Anthropic",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "url": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system",
-   "date": "2026-09-23T00:00:00+00:00",
-   "excerpt": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
   }
  ]
 }
