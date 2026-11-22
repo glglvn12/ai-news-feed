@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:24:38+00:00",
+ "updated": "2026-11-22T08:06:00+00:00",
  "failed": [],
  "items": [
   {
@@ -902,7 +902,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 720 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 720 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
