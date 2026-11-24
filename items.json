@@ -1,7 +1,207 @@
 {
- "updated": "2026-11-24T13:54:52+00:00",
+ "updated": "2026-11-24T23:30:25+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "date": "2026-11-24T22:27:52+00:00",
+   "excerpt": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "date": "2026-11-24T21:48:27+00:00",
+   "excerpt": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Even the best AI agents struggle with everyday life",
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "date": "2026-11-24T21:33:29+00:00",
+   "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "date": "2026-11-24T21:32:38+00:00",
+   "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "date": "2026-11-24T21:19:52+00:00",
+   "excerpt": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "date": "2026-11-24T20:02:03+00:00",
+   "excerpt": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbask…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "date": "2026-11-24T18:44:05+00:00",
+   "excerpt": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "date": "2026-11-24T18:30:42+00:00",
+   "excerpt": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "date": "2026-11-24T18:15:00+00:00",
+   "excerpt": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-fu…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "date": "2026-11-24T18:02:59+00:00",
+   "excerpt": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Lazy gas, hot gas, and a thousand robots",
+   "url": "https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots",
+   "date": "2026-11-24T17:49:48+00:00",
+   "excerpt": "Viewing multirobot motion planning as an optimal-transport problem and using a Schrödinger bridge to approximate solutions enables near-optimal routing at fulfillment-center scale.",
+   "source": "Amazon Science",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Tidal will start banning AI-generated music next month",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "date": "2026-11-24T17:17:09+00:00",
+   "excerpt": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began lab…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+   "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+   "date": "2026-11-24T17:00:00+00:00",
+   "excerpt": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microsecond. Preparing this data for AI-based market...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+   "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+   "date": "2026-11-24T17:00:00+00:00",
+   "excerpt": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "date": "2026-11-24T17:00:00+00:00",
+   "excerpt": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "date": "2026-11-24T16:46:00+00:00",
+   "excerpt": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "date": "2026-11-24T16:34:13+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "date": "2026-11-24T16:30:00+00:00",
+   "excerpt": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive a…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "date": "2026-11-24T16:10:00+00:00",
+   "excerpt": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "date": "2026-11-24T16:09:23+00:00",
+   "excerpt": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram an…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "date": "2026-11-24T16:02:37+00:00",
+   "excerpt": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "date": "2026-11-24T15:51:07+00:00",
+   "excerpt": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "date": "2026-11-24T15:15:16+00:00",
+   "excerpt": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "date": "2026-11-24T13:00:00+00:00",
+   "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "date": "2026-11-24T11:00:00+00:00",
+   "excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
   {
    "title": "Hermes Agent v0.23.4",
    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.4",
@@ -465,6 +665,30 @@
    "excerpt": "arXiv:2611.29290v1 Announce Type: cross Abstract: An intervention that improves one agent can break another, and adding a stronger harness on top need not repair the damage. Agent interventions such as skills, harnesses, and extra inference budget are nonetheless usually credited with one average g…",
    "source": "arXiv cs.CL",
    "category": "Paper"
+  },
+  {
+   "title": "How Intentful uses dots to make more time for growth",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "date": "2026-11-24T00:00:00+00:00",
+   "excerpt": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "date": "2026-11-24T00:00:00+00:00",
+   "excerpt": "",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "date": "2026-11-24T00:00:00+00:00",
+   "excerpt": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -1263,6 +1487,86 @@
    "url": "https://huggingface.co/papers/2611.27494",
    "date": "2026-11-22T19:00:00+00:00",
    "excerpt": "Typhoon OCR 1.5 focused on reading Thai documents. However, in real-world workflows, users often need to extract specific information or preserve the structure of an entire page for further processing. Typhoon OCR 2 handles both tasks in a single model, with prompt-driven extraction and structured…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "PixelOne: From Options to Pixels in a Single Forward for GUI Grounding",
+   "url": "https://huggingface.co/papers/2611.30235",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "GUI grounding requires precise clicks at low latency. Recent models such as GUI-Decisions and GUI-Swift predict coordinates in one forward pass using fixed global bins with local refinement. However, screenshot downsampling removes detail needed to locate small controls, while fixed bins cover larg…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind",
+   "url": "https://huggingface.co/papers/2611.30900",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Multimodal large language models (MLLMs) have become strong policies for vision-and-language navigation (VLN). However, most of them encode a sample of past frames again at every decision and are trained on isolated decisions, so computation is redundant and the usable history is short. They also l…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Frontier models need only one text to unmask its human or AI author",
+   "url": "https://huggingface.co/papers/2611.26216",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \"who wrote this?\" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+   "url": "https://huggingface.co/papers/2611.31225",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information neede…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "CCFinance: Reconstructing Financial News Samples from Web Archives",
+   "url": "https://huggingface.co/papers/2611.30737",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Proprietary news archives assign stories to firms, so reproducing a financial study often requires access to both the articles and the vendor's assignments. CCFinance lets researchers reconstruct firm coverage under different selection rules by recording which version of a story was captured, which…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+   "url": "https://huggingface.co/papers/2611.31094",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Looped Transformers iterate a shared block of layers to increase computation without adding parameters, offering stronger performance and test-time scaling. However, this power has so far required training from scratch and yielded only modest gains for LLMs. Finetuning existing models into loops is…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+   "url": "https://huggingface.co/papers/2611.31239",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based video generation methods preserve what they have already seen, but have no anchor beyond it, where…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Innata-0: A Native Embodied World System with Model-Agent Co-Design",
+   "url": "https://huggingface.co/papers/2611.30254",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "The physical world is open-ended, dynamic, and partially observable. While foundation models have advanced embodied intelligence, standalone models struggle with long-horizon execution, and simply integrating models with agents may lead to inconsistencies between planning and physical control. To s…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation",
+   "url": "https://huggingface.co/papers/2611.31209",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Generative Pre-Training (GPT) represents a profound milestone in natural language processing, serving as the foundation for most of today's state-of-the-art large language models. By casting diverse understanding and generation problems into a shared token representation, GPT enables a single archi…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
+   "url": "https://huggingface.co/papers/2611.31015",
+   "date": "2026-11-22T19:00:00+00:00",
+   "excerpt": "LLMs typically solve complex tasks with chain-of-thought (CoT) reasoning, which is also the main tool for monitoring them for misaligned behavior. However, standard transformers can also solve tasks with complete latent reasoning (CLR), carrying out the whole task internally and outputting only the…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -34587,22 +34891,6 @@
    "excerpt": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
    "source": "Anthropic",
    "category": "Major Lab"
-  },
-  {
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "url": "https://openai.com/index/proaction",
-   "date": "2026-09-25T19:00:00+00:00",
-   "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-   "source": "OpenAI",
-   "category": "Major Lab"
-  },
-  {
-   "title": "A kernel-centric path to real-time video generation on Trainium",
-   "url": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
-   "date": "2026-09-25T14:55:00+00:00",
-   "excerpt": "Using the Neuron Kernel Interface, a Reactor–AWS collaboration tackled the dynamic shapes, memory access patterns, and cache management that make real-time autoregressive diffusion hard—building techniques that generalize across models.",
-   "source": "Amazon Science",
-   "category": "Big Tech"
   }
  ]
 }
