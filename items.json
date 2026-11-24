@@ -1,7 +1,215 @@
 {
- "updated": "2026-11-23T14:51:57+00:00",
+ "updated": "2026-11-24T02:18:13+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "date": "2026-11-23T22:25:12+00:00",
+   "excerpt": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hu…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "date": "2026-11-23T22:10:32+00:00",
+   "excerpt": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia exec…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Welcome to elite impunity, Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+   "date": "2026-11-23T22:09:26+00:00",
+   "excerpt": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "date": "2026-11-23T22:05:50+00:00",
+   "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "date": "2026-11-23T22:02:05+00:00",
+   "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "date": "2026-11-23T21:47:41+00:00",
+   "excerpt": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "date": "2026-11-23T21:25:42+00:00",
+   "excerpt": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "date": "2026-11-23T21:20:00+00:00",
+   "excerpt": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "date": "2026-11-23T21:09:37+00:00",
+   "excerpt": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying clos…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "date": "2026-11-23T20:38:53+00:00",
+   "excerpt": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "date": "2026-11-23T20:00:00+00:00",
+   "excerpt": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "How Jensen Huang ended up as Nvidia CEO again",
+   "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+   "date": "2026-11-23T19:57:18+00:00",
+   "excerpt": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfa…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "date": "2026-11-23T19:14:46+00:00",
+   "excerpt": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "date": "2026-11-23T19:04:52+00:00",
+   "excerpt": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon'…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "date": "2026-11-23T18:26:47+00:00",
+   "excerpt": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "date": "2026-11-23T18:12:22+00:00",
+   "excerpt": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "date": "2026-11-23T17:36:08+00:00",
+   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we ap…",
+   "source": "MIT Tech Review AI",
+   "category": "Press"
+  },
+  {
+   "title": "Supercharging transformer residual connections",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "date": "2026-11-23T17:21:12+00:00",
+   "excerpt": "Algorithms & Theory",
+   "source": "Google Research",
+   "category": "Major Lab"
+  },
+  {
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "url": "https://huggingface.co/blog/allenai/robotrack",
+   "date": "2026-11-23T17:20:37+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
+  },
+  {
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "date": "2026-11-23T17:14:23+00:00",
+   "excerpt": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "date": "2026-11-23T16:59:40+00:00",
+   "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "source": "Google DeepMind",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "date": "2026-11-23T16:57:40+00:00",
+   "excerpt": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "date": "2026-11-23T16:39:10+00:00",
+   "excerpt": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+   "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+   "date": "2026-11-23T16:30:11+00:00",
+   "excerpt": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Tech leaders are celebrating Jensen Huang’s return",
+   "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "date": "2026-11-23T16:14:04+00:00",
+   "excerpt": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable c…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "date": "2026-11-23T15:04:01+00:00",
+   "excerpt": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
@@ -25,6 +233,22 @@
    "excerpt": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant…",
    "source": "The Verge AI",
    "category": "Press"
+  },
+  {
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "date": "2026-11-23T08:00:00+00:00",
+   "excerpt": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+   "source": "OpenAI",
+   "category": "Major Lab"
+  },
+  {
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "date": "2026-11-23T08:00:00+00:00",
+   "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "source": "OpenAI",
+   "category": "Major Lab"
   },
   {
    "title": "STARK: Moving towards Personalized Agents That Truly Learn and Remember",
@@ -393,6 +617,14 @@
    "excerpt": "",
    "source": "Hugging Face",
    "category": "Lab"
+  },
+  {
+   "title": "Working with AI",
+   "url": "https://www.anthropic.com/research/working-with-ai",
+   "date": "2026-11-23T00:00:00+00:00",
+   "excerpt": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it.",
+   "source": "Anthropic Research",
+   "category": "Major Lab"
   },
   {
    "title": "We haven’t seen the last of the major tech outages",
@@ -1267,6 +1499,22 @@
    "category": "Paper"
   },
   {
+   "title": "Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval",
+   "url": "https://huggingface.co/papers/2611.27490",
+   "date": "2026-11-19T19:00:00+00:00",
+   "excerpt": "Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that share on…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+   "url": "https://huggingface.co/papers/2611.26954",
+   "date": "2026-11-19T19:00:00+00:00",
+   "excerpt": "Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for super…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Gemini on Mac can now use your computer",
    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
    "date": "2026-11-19T18:21:13+00:00",
@@ -1382,7 +1630,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 920 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "excerpt": "TypeScript · 924 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1390,7 +1638,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 755 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 761 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1398,7 +1646,7 @@
    "title": "Tracer-Cloud/opensre",
    "url": "https://github.com/Tracer-Cloud/opensre",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 438 stars today — The open-source agent for CI/CD reliability.",
+   "excerpt": "Python · 436 stars today — The open-source agent for CI/CD reliability.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -1406,7 +1654,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 908 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "excerpt": "Python · 907 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -2283,6 +2531,22 @@
    "category": "Paper"
   },
   {
+   "title": "How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study",
+   "url": "https://huggingface.co/papers/2611.25534",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Agent skills are documents in which experts write down procedural knowledge, and models increasingly maintain them by rewriting them without feedback. Such rewriting could adapt a skill to the model that uses it or erode the expert knowledge that makes it useful, yet how skills evolve under this fe…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Search From the Start: Search-Native Pretraining for Language Models",
+   "url": "https://huggingface.co/papers/2611.26809",
+   "date": "2026-11-18T19:00:00+00:00",
+   "excerpt": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Mathematical proof, powered by AI. And no hallucinations!",
    "url": "https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations",
    "date": "2026-11-18T18:55:35+00:00",
@@ -2406,7 +2670,7 @@
    "title": "openvinotoolkit/openvino",
    "url": "https://github.com/openvinotoolkit/openvino",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "C++ · 183 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "excerpt": "C++ · 184 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4022,7 +4286,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 790 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 797 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5230,7 +5494,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 425 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 422 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5246,7 +5510,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 2,037 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 2,029 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6488,14 +6752,6 @@
    "date": "2026-11-12T15:02:28+00:00",
    "excerpt": "This is Fireworks' second data breach in as many months.",
    "source": "TechCrunch AI",
-   "category": "Press"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "date": "2026-11-12T15:01:31+00:00",
-   "excerpt": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an…",
-   "source": "The Verge AI",
    "category": "Press"
   },
   {
@@ -24990,7 +25246,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 783 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 790 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -30071,7 +30327,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 624 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 620 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -31951,7 +32207,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 838 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 840 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -32031,7 +32287,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 395 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 397 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -33731,46 +33987,6 @@
    "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning…",
    "source": "MIT Tech Review AI",
    "category": "Press"
-  },
-  {
-   "title": "Yes, Claude can do Nine Loops",
-   "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-   "date": "2026-09-25T00:00:00+00:00",
-   "excerpt": "Guest writer and physicist Matt von Hippel shares what happened when he issued a challenge to AI companies to solve a problem in his former subfield of theoretical physics.",
-   "source": "Anthropic Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-   "url": "https://openai.com/index/wayfair",
-   "date": "2026-09-25T00:00:00+00:00",
-   "excerpt": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-   "source": "OpenAI",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Automating coherent long-form video generation",
-   "url": "https://research.google/blog/coherent-long-form-video-generation/",
-   "date": "2026-09-24T19:40:00+00:00",
-   "excerpt": "Generative AI",
-   "source": "Google Research",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "date": "2026-09-24T16:20:39+00:00",
-   "excerpt": "",
-   "source": "Google DeepMind",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Efficient MoE Training for Biological Foundation Models",
-   "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
-   "date": "2026-09-24T15:00:00+00:00",
-   "excerpt": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding...",
-   "source": "NVIDIA Developer Blog",
-   "category": "Big Tech"
   }
  ]
 }
