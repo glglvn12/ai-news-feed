@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-25T19:23:51+00:00",
+ "updated": "2026-11-26T02:54:11+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "date": "2026-11-25T22:44:32+00:00",
+   "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "date": "2026-11-25T21:51:26+00:00",
+   "excerpt": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit a…",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "date": "2026-11-25T20:03:27+00:00",
+   "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "date": "2026-11-25T19:54:57+00:00",
+   "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "date": "2026-11-25T19:44:24+00:00",
+   "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+   "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+   "date": "2026-11-25T19:30:00+00:00",
+   "excerpt": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
   {
    "title": "Where scientists draw the line on AI agents",
    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -1587,6 +1635,30 @@
    "category": "Paper"
   },
   {
+   "title": "Steerable by Design: Conditional Pretraining for Robust Control of Language Models",
+   "url": "https://huggingface.co/papers/2611.32199",
+   "date": "2026-11-23T19:00:00+00:00",
+   "excerpt": "Our goal is to build language models that are steerable by design. Today's language models are pretrained with next-token prediction, which relegates alignment and control to the final 1% of training tokens or inference-time interventions. These models repurpose a single input channel for both inst…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LookAnything: A Foundation Model for Holistic Gaze Following",
+   "url": "https://huggingface.co/papers/2611.32351",
+   "date": "2026-11-23T19:00:00+00:00",
+   "excerpt": "Human gaze provides a rich window into attention and intent, making its understanding essential for applications ranging from social signal analysis to human-robot interaction. Existing methods typically employ highly customized architectures relying on auxiliary inputs like head crops or depth map…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics",
+   "url": "https://huggingface.co/papers/2611.32393",
+   "date": "2026-11-23T19:00:00+00:00",
+   "excerpt": "Conventional neural networks store synaptic parameters as explicit tensors whose persistent Flash footprint scales linearly (O(W)) with parameter count, constraining resource-limited edge microcontrollers. We formulate and systematically evaluate Fractal Neural Synthesis (FNS), a procedural weight…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
    "date": "2026-11-23T18:26:47+00:00",
@@ -3115,6 +3187,14 @@
    "category": "Press"
   },
   {
+   "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
+   "url": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control/",
+   "date": "2026-11-19T22:02:30+00:00",
+   "excerpt": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,...",
+   "source": "NVIDIA Developer Blog",
+   "category": "Big Tech"
+  },
+  {
    "title": "A brief history of Nvidia’s recent stock fluctuations",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
    "date": "2026-11-19T21:59:35+00:00",
@@ -3358,7 +3438,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 1,131 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "excerpt": "TypeScript · 1,135 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3366,7 +3446,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 853 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 858 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3374,7 +3454,7 @@
    "title": "Tracer-Cloud/opensre",
    "url": "https://github.com/Tracer-Cloud/opensre",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 343 stars today — The open-source agent for CI/CD reliability.",
+   "excerpt": "Python · 348 stars today — The open-source agent for CI/CD reliability.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -3382,7 +3462,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 868 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "excerpt": "Python · 880 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4398,7 +4478,7 @@
    "title": "openvinotoolkit/openvino",
    "url": "https://github.com/openvinotoolkit/openvino",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "C++ · 188 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "excerpt": "C++ · 191 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5470,7 +5550,7 @@
    "title": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "date": "2026-11-17T14:36:17+00:00",
-   "excerpt": "Python · 828 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "excerpt": "Python · 826 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6006,7 +6086,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 950 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 945 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7214,7 +7294,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 352 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 355 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -7230,7 +7310,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,644 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,652 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -26958,7 +27038,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 1,094 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 1,106 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -32039,7 +32119,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 1,133 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 1,141 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -33919,7 +33999,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 902 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 903 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -33999,7 +34079,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 408 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 416 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
