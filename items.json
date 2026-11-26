@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-26T12:48:26+00:00",
+ "updated": "2026-11-26T22:24:23+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "date": "2026-11-26T20:03:54+00:00",
+   "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
+  {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "date": "2026-11-26T16:00:00+00:00",
+   "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "source": "TechCrunch AI",
+   "category": "Press"
+  },
   {
    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -465,6 +481,14 @@
    "excerpt": "arXiv:2609.19569v3 Announce Type: replace-cross Abstract: Disease severity classification for genetic conditions is subjective and labor-intensive, creating bottlenecks in genomic screening, where commercial panels vary widely in size and overlap. We developed an autonomous AI agent integrating Rea…",
    "source": "arXiv cs.CL",
    "category": "Paper"
+  },
+  {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
   },
   {
    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -1295,6 +1319,30 @@
    "url": "https://huggingface.co/papers/2611.34347",
    "date": "2026-11-24T19:00:00+00:00",
    "excerpt": "Embodied agents operating around people must not only recognize social cues, but also decide when the available evidence is sufficient, whether to intervene, and how to respond without violating social norms. Existing benchmarks typically evaluate these abilities in isolation or with access to comp…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+   "url": "https://huggingface.co/papers/2611.34363",
+   "date": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Reinforcement learning (RL) for text-to-SQL agents pays a query when its result matches the reference on one database. However, a wrong query can match by luck when the data lack the rows that expose its bug. We study a counterfactual-database (CF) reward that also runs the final query on a few hid…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+   "url": "https://huggingface.co/papers/2611.28732",
+   "date": "2026-11-24T19:00:00+00:00",
+   "excerpt": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two cha…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation",
+   "url": "https://huggingface.co/papers/2611.34079",
+   "date": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Generating coherent and explorable 3D worlds from scattered images with little or no visual overlap is a fundamental and long-standing challenge in computer vision, which existing geometry-aware methods fail to address. Meanwhile, existing image- and video-based methods may generate unseen regions…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -4086,7 +4134,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 770 stars today — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "excerpt": "Python · 770 stars today — AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
