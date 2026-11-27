@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-27T05:06:56+00:00",
+ "updated": "2026-11-27T15:13:21+00:00",
  "failed": [],
  "items": [
+  {
+   "title": "We’re Talking Token Management and it’s Not Arcade Flashbacks",
+   "url": "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/",
+   "date": "2026-11-27T14:00:00+00:00",
+   "excerpt": "How many tokens do we need to do business with AI? Let’s talk about it.",
+   "source": "Salesforce AI Research",
+   "category": "Big Tech"
+  },
+  {
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "date": "2026-11-27T14:00:00+00:00",
+   "excerpt": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "source": "The Verge AI",
+   "category": "Press"
+  },
   {
    "title": "Confidence scores for gated automation of large language models",
    "url": "https://arxiv.org/abs/2611.33394",
@@ -441,6 +457,14 @@
    "excerpt": "arXiv:2609.19569v3 Announce Type: replace-cross Abstract: Disease severity classification for genetic conditions is subjective and labor-intensive, creating bottlenecks in genomic screening, where commercial panels vary widely in size and overlap. We developed an autonomous AI agent integrating Rea…",
    "source": "arXiv cs.CL",
    "category": "Paper"
+  },
+  {
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "date": "2026-11-27T00:00:00+00:00",
+   "excerpt": "",
+   "source": "Hugging Face",
+   "category": "Lab"
   },
   {
    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -1407,6 +1431,14 @@
    "url": "https://huggingface.co/papers/2611.34051",
    "date": "2026-11-24T19:00:00+00:00",
    "excerpt": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffe…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "Generation as Reverse Encoding",
+   "url": "https://huggingface.co/papers/2611.34782",
+   "date": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the burden onto a larger decoder. We ask why the representation-to-pixel path should be learned indepe…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -4174,7 +4206,7 @@
    "title": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "TypeScript · 1,046 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "excerpt": "TypeScript · 833 stars today — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4182,7 +4214,7 @@
    "title": "mjmirza/app-store-compliance",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Shell · 562 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "excerpt": "Shell · 531 stars today — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4190,7 +4222,7 @@
    "title": "Tracer-Cloud/opensre",
    "url": "https://github.com/Tracer-Cloud/opensre",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 327 stars today — The open-source agent for CI/CD reliability.",
+   "excerpt": "Python · 326 stars today — The open-source agent for CI/CD reliability.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -4198,7 +4230,7 @@
    "title": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "date": "2026-11-19T13:26:12+00:00",
-   "excerpt": "Python · 774 stars today — AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+   "excerpt": "Python · 733 stars today — AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -5214,7 +5246,7 @@
    "title": "openvinotoolkit/openvino",
    "url": "https://github.com/openvinotoolkit/openvino",
    "date": "2026-11-18T14:12:33+00:00",
-   "excerpt": "C++ · 176 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "excerpt": "C++ · 152 stars today — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6286,7 +6318,7 @@
    "title": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "date": "2026-11-17T14:36:17+00:00",
-   "excerpt": "Python · 702 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "excerpt": "Python · 667 stars today — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -6822,7 +6854,7 @@
    "title": "mvanhorn/last30days-skill",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "date": "2026-11-16T22:16:16+00:00",
-   "excerpt": "Python · 759 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "excerpt": "Python · 664 stars today — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8030,7 +8062,7 @@
    "title": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "TypeScript · 309 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "excerpt": "TypeScript · 311 stars today — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -8046,7 +8078,7 @@
    "title": "elementalsouls/Claude-BugHunter",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "date": "2026-11-15T17:49:04+00:00",
-   "excerpt": "Python · 1,597 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "excerpt": "Python · 1,615 stars today — A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -27774,7 +27806,7 @@
    "title": "HKUDS/CLI-Anything",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "date": "2026-10-14T13:49:09+00:00",
-   "excerpt": "Python · 746 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "excerpt": "Python · 668 stars today — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -32855,7 +32887,7 @@
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "date": "2026-10-06T17:17:00+00:00",
-   "excerpt": "HTML · 955 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "excerpt": "HTML · 731 stars today — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -34735,7 +34767,7 @@
    "title": "obra/superpowers",
    "url": "https://github.com/obra/superpowers",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "Shell · 854 stars today — An agentic skills framework & software development methodology that works.",
+   "excerpt": "Shell · 916 stars today — An agentic skills framework & software development methodology that works.",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -34815,7 +34847,7 @@
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
    "date": "2026-10-03T03:35:00+00:00",
-   "excerpt": "TypeScript · 270 stars today — Cursor plugin specification and official plugins",
+   "excerpt": "TypeScript · 242 stars today — Cursor plugin specification and official plugins",
    "source": "GitHub Trending",
    "category": "GitHub"
   },
@@ -36395,46 +36427,6 @@
    "excerpt": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
    "source": "Mistral",
    "category": "Lab"
-  },
-  {
-   "title": "Holo4: powering generalist computer-use agents",
-   "url": "https://huggingface.co/blog/Hcompany/holo4",
-   "date": "2026-09-28T09:44:05+00:00",
-   "excerpt": "",
-   "source": "Hugging Face",
-   "category": "Lab"
-  },
-  {
-   "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-   "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-   "date": "2026-09-28T08:56:55+00:00",
-   "excerpt": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of...",
-   "source": "NVIDIA Developer Blog",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-   "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
-   "date": "2026-09-28T08:55:00+00:00",
-   "excerpt": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that...",
-   "source": "NVIDIA Developer Blog",
-   "category": "Big Tech"
-  },
-  {
-   "title": "Who’s liable when AI agents go rogue?",
-   "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-   "date": "2026-09-28T08:06:22+00:00",
-   "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a…",
-   "source": "MIT Tech Review AI",
-   "category": "Press"
-  },
-  {
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "date": "2026-09-28T07:00:00+00:00",
-   "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-   "source": "OpenAI",
-   "category": "Major Lab"
   }
  ]
 }
