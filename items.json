@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:13:21+00:00",
+ "updated": "2026-11-27T23:32:04+00:00",
  "failed": [],
  "items": [
   {
@@ -1439,6 +1439,14 @@
    "url": "https://huggingface.co/papers/2611.34782",
    "date": "2026-11-24T19:00:00+00:00",
    "excerpt": "Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the burden onto a larger decoder. We ask why the representation-to-pixel path should be learned indepe…",
+   "source": "HF Daily Papers",
+   "category": "Paper"
+  },
+  {
+   "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+   "url": "https://huggingface.co/papers/2611.33885",
+   "date": "2026-11-24T19:00:00+00:00",
+   "excerpt": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when it is occluded or leaves view. The target layout specifies where the object should reappear, while…",
    "source": "HF Daily Papers",
    "category": "Paper"
   },
@@ -36379,54 +36387,6 @@
    "excerpt": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol that answers this question empirically for tree…",
    "source": "Apple Machine Learning Research",
    "category": "Big Tech"
-  },
-  {
-   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-   "date": "2026-09-28T22:17:07+00:00",
-   "excerpt": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review…",
-   "source": "MIT Tech Review AI",
-   "category": "Press"
-  },
-  {
-   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-   "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-   "date": "2026-09-28T21:00:00+00:00",
-   "excerpt": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singa…",
-   "source": "Microsoft Research",
-   "category": "Big Tech"
-  },
-  {
-   "title": "How we will do better for Australia",
-   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "date": "2026-09-28T19:00:00+00:00",
-   "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-   "source": "OpenAI",
-   "category": "Major Lab"
-  },
-  {
-   "title": "Towards safety cases for frontier AI training",
-   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "date": "2026-09-28T19:00:00+00:00",
-   "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-   "source": "OpenAI",
-   "category": "Major Lab"
-  },
-  {
-   "title": "When can we say AI made a scientific discovery?",
-   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-   "date": "2026-09-28T17:03:16+00:00",
-   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pr…",
-   "source": "MIT Tech Review AI",
-   "category": "Press"
-  },
-  {
-   "title": "Hallo, Deutschland!",
-   "url": "https://mistral.ai/news/hallo-deutschland/",
-   "date": "2026-09-28T15:57:59+00:00",
-   "excerpt": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
-   "source": "Mistral",
-   "category": "Lab"
   }
  ]
 }
